@@ -18,20 +18,20 @@ width=30%"/>
 <p style="text-align: center">2024-02</p>
 
 <h5 style="text-align: center">CURSO</h5>
-<p style="text-align: center">Aplicaciones Web</p>
+<p style="text-align: center">Open Source</p>
 
 <h5 style="text-align: center">SECCIÓN</h5>
-<p style="text-align: center">SW51</p>
+<p style="text-align: center">SW57</p>
 
 <h5 style="text-align: center">DOCENTE</h5>
-<p style="text-align: center">Juan Carlos Tinoco Licas
+<p style="text-align: center">Angel Augusto Velasquez Nuñez
 </p>
 
-<h5 style="text-align: center">STARTUP</h5>
-<p style="text-align: center">Nombre</p>
+<h5 style="text-align: center">Grupo</h5>
+<p style="text-align: center">PeSoftware</p>
 
 <h5 style="text-align: center">PRODUCTO</h5>
-<p style="text-align: center">Nombre</p>
+<p style="text-align: center">SmartFlow</p>
 
 <h5 style="text-align: center">AGOSTO, 2024</h5>
 
