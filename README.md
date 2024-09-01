@@ -35,3 +35,22 @@ width=30%"/>
 
 <h5 style="text-align: center">AGOSTO, 2024</h5>
 
+## Team members:
+| Nombre |Código|
+|:-------:|:----------:|
+|Quiñones Tintaya, Johan Jorge|U202218183|
+|Gongora Castillejos,Williams Jesus|U20221C186|
+|Carlos Andres, Leon Rioja|U202111451|
+|Revilla Quispe, Renzo Zamir|U201717085|
+|Lopez de la Cruz Mauro Fabricio|U202215695|
+
+</br></br>
+
+## Registro de versiones del informe
+
+
+|Versión|Fecha|Autor|Descripción de modificación|
+|:-:|:-:|:-:|:-:|
+|TB1|08/09/2024|Autor1|Creación del documento de trabajo en formato markdown|
+
+</br></br>
