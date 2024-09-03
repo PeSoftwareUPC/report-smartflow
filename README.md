@@ -149,3 +149,17 @@ width=30%"/>
 
 &emsp; 7.1. [Anexo N°1: Número de clientes finales por sectores](#anexo1)
 </br></br></br>
+
+
+## Student Outcome
+
+<div id="1"><h1>Capítulo I: Introducción</h1></div>
+<div id="11"><h2>1.1. Startup Profile</h2></div>
+<div id="111"><h3>1.1.1. Descripción de la Startup</h3></div>
+
+En PeSoftware, nos dedicamos a crear soluciones que permiten el control y monitoreo en tiempo real del consumo de recursos como luz y agua mediante nuestra aplicación SmartFlow. Nos enfocamos en ofrecer herramientas tecnológicas accesibles para que tanto empresas como individuos optimicen sus recursos, reduzcan costos y promuevan la sostenibilidad en sus actividades diarias.
+
+**Misión:** Brindar tecnologías avanzadas que permitan a empresas y personas monitorear y controlar sus recursos de manera eficiente, reduciendo costos y operando de forma sostenible.
+
+**Visión:** Ser la plataforma líder a nivel global en la optimización del consumo de recursos, impulsando una gestión eficiente y sostenible en todos los sectores.
+
