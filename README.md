@@ -425,3 +425,8 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 *Imagen: Empathy Map Jesus*
 
 
+<div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
+<div id="461"><h3>4.6.1. Software Architecture Context Diagram</h3></div>
+
+![SystemContext-001](https://hackmd.io/_uploads/rJlRpeBh0.png)
+*Imagen:  Context Diagram*
