@@ -389,3 +389,22 @@ Por otro lado, las principales diferencias entre ambos segmentos radican en las 
 Finalmente, la principal coincidencia encontrada es que tanto los usuarios empresariales como residenciales valoran recibir alertas en tiempo real, lo que les permite tomar decisiones informadas sobre el consumo de recursos.
 
 </br>
+
+
+
+<div id="233"><h3>2.3.3. User Journey Mapping</h3></div>
+
+Para el segmento Empresarial, se ha identificado como partida el sobreuso de la maquinaria eléctrica, lo que genera altos costos de producción. En el caso del segmento Residencial, el enfoque se centra en el sobreprecio de los recibos de agua y luz. En ambos casos, la solución radica en la necesidad de un sistema de monitoreo en tiempo real que permita controlar y optimizar el consumo de recursos. 
+
+
+
+* **Segmento Empresarial**
+![jouneymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/journey-map-Pedro.png)
+*Imagen: Journey Map Pedro*
+
+</br>
+
+* **Segmento Residencial**
+![jouneymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/journey-map-Jesus.png)
+*Imagen: Journey Map Jesus*
+
