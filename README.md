@@ -310,3 +310,39 @@ El producto debe tener una interfaz clara y fácil de usar, con gráficos accesi
 
 ![leanuxcanvas](imgs/Lean-UX-Canvas.png)
 *Imagen: Lean UX Canvas*
+
+<div id="13"><h2>1.3. Segmentos Objetivos</h2></div>
+
+
+**Segmento Empresarial**</br>
+
+Por el lado empresarial, se ha considerado como segmento objetivo a los dueños o administradores de empresas como talleres, que buscan controlar su producción y costos mediante la regulación de los recursos que sus maquinarias consumen. Según el Anuario Estadístico de Electricidad 2022, el sector industrial representa el 40% del consumo total de electricidad en el país. Además, el consumo de agua en este sector ha aumentado un 5% anual en los últimos cinco años.
+</br>
+
+| Caracteristicas  |Datos |
+|:-------|:----------|
+|Segmento objetivo|Empresarial|
+|Edad |Entre 20 y 60 años|
+|Ubicación|Perú|
+|Sexo|Masculino o Femenino|
+|Formación educativa |Educación secundaria o superior|
+|Poder adquisitivo|Medio a Alto|
+
+</br>
+
+**Segmento Residencial**</br>
+
+Del mismo modo, consideramos como segmento objetivo a personas naturales que desean regular y monitorear el consumo de sus recursos en sus hogares o zonas donde se implemente SmartFlow. El sector residencial representa el 20% del consumo total de electricidad, según el Anuario Estadístico de Electricidad 2022.
+
+</br>
+
+| Caracteristicas  |Datos |
+|:-------|:----------|
+|Segmento objetivo|Residencial|
+|Edad |Entre 18 y 60 años|
+|Ubicación|Perú|
+|Sexo|Masculino o Femenino|
+|Formación educativa |Educación secundaria o superior|
+|Poder adquisitivo|Medio|
+
+</br>
