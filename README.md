@@ -282,3 +282,25 @@ El producto debe tener una interfaz clara y fácil de usar, con gráficos accesi
 |Voy a adquirir la mayoría de mis clientes a través de campañas de marketing digital dirigidas, colaboraciones con asociaciones industriales y recomendaciones de clientes existentes|Asumimos que los clientes se suscribirán a los planes de SmartFlow debido a los beneficios de monitoreo y control que ofrecen nuestros planes de precios escalonados|
 
 </br>
+
+<div id="1223"><h4>1.2.2.3. Lean UX Hypothesis Statements</h4></div>
+
+|Hypothesis Statement 1|
+|:---|
+|Creemos que ofrecer alertas en SmartFlow atraerá a los usuarios que desean controlar el consumo de recursos en tiempo real|
+|Sabremos que esto es cierto...|
+|Cuando el 60% de los usuarios mencionen la utilidad de las alertas durante los primero 6 meses|
+
+|Hypothesis Statement 2|
+|:---|
+|Creemos que la capacidad de controlar la producción y los turnos asociados a cada máquina será crucial para las empresas que elijan SmartFlow|
+|Sabremos que esto es cierto...|
+|Cuando veamos que el 70% de las empresas reportan mejoras en la eficiencia operativa y utilizan regularmente estas características|
+
+|Hypothesis Statement 3|
+|:---|
+|Creemos que una interfaz intuitiva tanto en la versión web como móvil aumentará la adopción de SmartFlow|
+|Sabremos que esto es cierto...|
+|Cuando veamos que las personas que usan la interfaz se sientan más satisfechas al saber que pueden acceder y gestionar fácilmente sus datos y configuraciones sin dificultades|
+
+</br>
