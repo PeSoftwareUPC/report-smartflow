@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
@@ -34,6 +36,8 @@ width=30%"/>
 <p style="text-align: center">SmartFlow</p>
 
 <h5 style="text-align: center">AGOSTO, 2024</h5>
+
+</div>
 
 ## Team members:
 | Nombre |Código|
