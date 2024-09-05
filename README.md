@@ -408,3 +408,20 @@ Para el segmento Empresarial, se ha identificado como partida el sobreuso de la 
 ![jouneymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/journey-map-Jesus.png)
 *Imagen: Journey Map Jesus*
 
+
+<div id="234"><h3>2.3.4. Empathy Mapping</h3></div>
+
+
+En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando una plantilla de EXPressia. Esta herramienta incluye todos los componentes necesarios, junto con preguntas específicas que se respondieron en función de lo que se identificó en nuestro análisis del público objetivo.
+
+* **Segmento Empresarial**
+![empathymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Pedro.png)
+*Imagen: Empathy Map Pedro*
+
+</br>
+
+* **Segmento Residencial**
+![empathymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Jesus.png)
+*Imagen: Empathy Map Jesus*
+
+
