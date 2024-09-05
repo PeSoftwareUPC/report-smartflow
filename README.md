@@ -304,3 +304,9 @@ El producto debe tener una interfaz clara y fácil de usar, con gráficos accesi
 |Cuando veamos que las personas que usan la interfaz se sientan más satisfechas al saber que pueden acceder y gestionar fácilmente sus datos y configuraciones sin dificultades|
 
 </br>
+
+
+<div id="1224"><h4>1.2.2.4. Lean UX Canvas</h4></div>
+
+![leanuxcanvas](imgs/Lean-UX-Canvas.png)
+*Imagen: Lean UX Canvas*
