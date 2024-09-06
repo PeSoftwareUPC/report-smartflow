@@ -528,22 +528,40 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 
 ![Context Diagram](/imgs/structurizr-94669-Contexto.png)
 
+*Imagen: Context Diagram*
+
 <div id="462"><h3>4.6.2 Software Architecture Container Diagrams</h3></div>
 
 ![Container Diagram](/imgs/structurizr-94669-Contenedor.png)
+
+*Imagen: Container Diagram*
 
 <div id="463"><h3>4.6.3. Software Architecture Components Diagrams</h3></div>
 
 ![Descripción de la imagen](/imgs/structurizr-94669-API%20Rest%20Component%20Diagram.png)
 
+*Imagen: Components Diagrams*
+
 ![Descripción de la imagen](/imgs/structurizr-94669-Consumption%20Monitoring%20Component%20Diagram.png)
+
+*Imagen: Consumption Monitor Component Diagram*
 
 ![Descripción de la imagen](/imgs/structurizr-94669-Payment%20Processor%20Component%20Diagram.png)
 
+*Imagen: Payment Proceessor Component Diagram*
+
 ![Descripción de la imagen](/imgs/structurizr-94669-Report%20Generator%20Component%20Diagram.png)
+
+*Imagen: Report Generator Component Diagram*
 
 ![Descripción de la imagen](/imgs/structurizr-94669-Security%20Component%20Diagram.png)
 
+*Imagen: Security Component Diagram*
+
 ![Descripción de la imagen](/imgs/structurizr-94669-Subscription%20Handler%20Component%20Diagram.png)
 
+*Imagen: Subscription Handler Component Diagram*
+
 ![Descripción de la imagen](/imgs/structurizr-94669-User%20Management%20Component%20Diagram.png)
+
+*Imagen: User Management Component Diagram*
