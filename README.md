@@ -167,6 +167,16 @@ En PeSoftware, nos dedicamos a crear soluciones que permiten el control y monito
 
 **Visión:** Ser la plataforma líder a nivel global en la optimización del consumo de recursos, impulsando una gestión eficiente y sostenible en todos los sectores.
 
+<div id="111"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
+
+|Descripción del integrante|Perfil del integrante del equipo|
+| :--------| :--------:|
+| Mi nombre es **Johan Jorge Quiñones Tintaya**, tengo 19 años y soy estudiante de ingeniería de software en la UPC, cursando el quinto ciclo. He adquirido una base sólida en algoritmos y programación orientada a objetos, lo que me permite enfrentar desafíos de desarrollo con eficacia. Además, me destaco por mi capacidad para trabajar en equipo, manteniendo una comunicación clara y efectiva que facilita la colaboración. Estoy comprometido con mi crecimiento profesional y busco constantemente mejorar mis habilidades para contribuir de manera significativa en proyectos y equipos, ofreciendo soluciones innovadoras. | ![](ruta github)|
+| Mi nombre es **Williams Jesús Góngora Castillejos** y soy estudiante del quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo. |![williams](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/williams.jpg)|
+| Mi nombre es **Renzo Zamir Revilla Quispe**, estudiante de la carrera de Ingenieria de Software, quinto ciclo. Cuento con un amplio conociemiento en programacion full stack y buena logica. En cuanto a mis habilidades blandas, soy bastante tolerante y me agrada el trabajo en equipo. Busco un buen desarrollo profesional en conjunto con el equipo de trabajo. |[renzorevq24](https://github.com/renzorevq24)|
+|Mi nombre es **Carlos Andres Leon Rioja**, actualmente tengo 21 años y soy estudiante de la carrera de Ingenieria de Software en la UPC. Considero que soy una persona con paciencia, amable y positiva sin embargo aveces soy obstinado y terco. Soy bueno en programacion full stack y se lenguajes como C++, C#, Java y Phython. Busco obtener mas conocimiento y habilidades para desarrollarme como programador full stack.|[Sr-Anonymus-maker](https://github.com/Sr-Anonymus-maker)|
+
+
 <div id="12"><h3>1.2. Solution Profile</h3></div>
 
 <div id="121"><h3>1.2.1. Antecedenetes y problemática</h3></div>
