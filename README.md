@@ -523,9 +523,27 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 | 34 | US034         | Acceder a API para desarrolladores     | Como desarrollador externo, quiero acceder a una API para integrar datos de consumo en aplicaciones de terceros.                                  | 5            |
 | 35 | US035         | Sincronizar con sistema CMMS           | Como jefe de mantenimiento, quiero sincronizar los datos de consumo y alertas con nuestro sistema CMMS. |                                           | 5            |
 
-
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
 <div id="461"><h3>4.6.1. Software Architecture Context Diagram</h3></div>
 
-![SystemContext-001](https://hackmd.io/_uploads/rJlRpeBh0.png)
-*Imagen:  Context Diagram*
+![Context Diagram](/imgs/structurizr-94669-Contexto.png)
+
+<div id="462"><h3>4.6.2 Software Architecture Container Diagrams</h3></div>
+
+![Container Diagram](/imgs/structurizr-94669-Contenedor.png)
+
+<div id="463"><h3>4.6.3. Software Architecture Components Diagrams</h3></div>
+
+![Descripción de la imagen](/imgs/structurizr-94669-API%20Rest%20Component%20Diagram.png)
+
+![Descripción de la imagen](/imgs/structurizr-94669-Consumption%20Monitoring%20Component%20Diagram.png)
+
+![Descripción de la imagen](/imgs/structurizr-94669-Payment%20Processor%20Component%20Diagram.png)
+
+![Descripción de la imagen](/imgs/structurizr-94669-Report%20Generator%20Component%20Diagram.png)
+
+![Descripción de la imagen](/imgs/structurizr-94669-Security%20Component%20Diagram.png)
+
+![Descripción de la imagen](/imgs/structurizr-94669-Subscription%20Handler%20Component%20Diagram.png)
+
+![Descripción de la imagen](/imgs/structurizr-94669-User%20Management%20Component%20Diagram.png)
