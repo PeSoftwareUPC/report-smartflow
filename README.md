@@ -523,6 +523,78 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 | 34 | US034         | Acceder a API para desarrolladores     | Como desarrollador externo, quiero acceder a una API para integrar datos de consumo en aplicaciones de terceros.                                  | 5            |
 | 35 | US035         | Sincronizar con sistema CMMS           | Como jefe de mantenimiento, quiero sincronizar los datos de consumo y alertas con nuestro sistema CMMS. |                                           | 5            |
 
+<div id="4"><h1>Capítulo IV: Product Design</h1></div>
+<div id="41"><h2>4.1. Style Guidelines</h2></div>
+
+<div id="411"><h3>4.1.1. General Style Guidelines</h3></div>
+
+<strong>Branding:</strong> Utilizamos una paleta de colores basada en tonos suaves y neutros para promover una sensación de modernidad y profesionalismo. Los colores principales son azul (#9ec0f7) para datos importantes y verde claro (#87dbbe) para indicadores positivos.
+
+<strong>Typography:</strong> Hemos elegido una tipografía Sans Serif. Los tamaños de fuente varían según la importancia de la información, con encabezados en un tamaño mayor para destacar secciones clave, mientras que el texto regular mantiene un tamaño estándar para facilitar la lectura.
+
+<strong>Colors and Spacing:</strong> Los colores clave son azul (#9ec0f7) y verde claro (#87dbbe). El espaciamiento es amplio para crear una interfaz limpia y organizada.
+
+<strong>Tone of Communication:</strong> Adoptamos un tono respetuoso y accesible, equilibrando formalidad con cercanía, adaptando el lenguaje según la audiencia.
+
+<div id="412"><h3>4.1.2. Web Style Guidelines</h3></div>
+<!--<p>Las pautas de estilo web de SmartFlow están diseñadas para garantizar una experiencia de usuario coherente y visualmente atractiva en todas las plataformas. Se utiliza un diseño de cuadrícula para mantener la alineación y el espaciado consistentes. Los colores principales son el azul (#9ec0f7) para resaltar información importante y el verde (#87dbbe) para indicadores positivos.</p>
+<p>La tipografía Sans Serif es utilizada en toda la interfaz, con tamaños de fuente diferenciados para encabezados, subtítulos y cuerpo del texto, manteniendo la jerarquía visual. Los botones y enlaces están diseñados con bordes redondeados y un espacio amplio para facilitar la interacción táctil. Además, se asegura que todos los elementos interactivos cambien de color o muestren algún feedback visual cuando se les hace clic o se pasa el cursor sobre ellos, mejorando la accesibilidad y la experiencia de usuario.</p> -->
+
+<div id="42"><h2>4.2. Information Architecture</h2></div>
+
+<div id="421"><h3>4.2.1. Organization Systems</h3></div>
+
+<strong>Organización visual jerárquica:</strong> Aplicada en el dashboard principal para priorizar la información más relevante, como el consumo total y los costos. Los elementos se presentan en orden de importancia, facilitando la rápida comprensión del estado general.
+
+<strong>Esquemas de categorización:</strong>
+<ul>
+    <li><strong>Cronológico:</strong> Utilizado en la visualización de históricos y reportes de actividad, organizando los eventos en función del tiempo.</li>
+    <li><strong>Según audiencia:</strong> La categorización por audiencia se utiliza en los menús de configuración, donde diferentes opciones se muestran dependiendo del rol del usuario (administrador, usuario, etc.).</li>
+</ul>
+
+<div id="422"><h3>4.2.2. Labeling Systems</h3></div>
+
+<strong>Labeling Systems:</strong> Cada etiqueta sera fácil de entender, usando el menor número de palabras posible. Las etiquetas se mantienen consistentes en todo el sistema para evitar confusión, asegurando que los usuarios puedan identificar rápidamente la información relevante. 
+
+Las etiquetas se organizan en grupos lógicos, y cada una está claramente asociada con el contenido que representa, facilitando la navegación y mejorando la experiencia de usuario.
+
+<div id="423"><h3>4.2.3. SEO Tags and Meta Tags</h3></div>
+En esta sección, se definen las etiquetas SEO y Meta Tags que se asignarán a las páginas principales tanto de la Landing Page como de la Web Application.
+
+<strong>Landing Page:</strong>
+- <strong>Title:</strong> SmartFlow - Optimiza tu consumo de recursos
+- <strong>Meta Description:</strong> Descubre cómo SmartFlow te ayuda a monitorear y controlar el uso de electricidad y agua en tiempo real, reduciendo costos y promoviendo la sostenibilidad.
+- <strong>Keywords:</strong> SmartFlow, monitoreo de recursos, ahorro de energía, sostenibilidad, IoT.
+- <strong>Author:</strong> Equipo SmartFlow
+
+<strong>Web Application:</strong>
+- <strong>Title:</strong> SmartFlow Dashboard - Monitoreo de Consumo en Tiempo Real
+- <strong>Meta Description:</strong> Accede al panel de control de SmartFlow para visualizar y gestionar el consumo de tus recursos en tiempo real con análisis detallados y alertas.
+- <strong>Keywords:</strong> SmartFlow, dashboard, gestión de recursos, monitoreo en tiempo real, eficiencia energética.
+- <strong>Author:</strong> Equipo SmartFlow
+
+<div id="424"><h3>4.2.4. Searching Systems</h3></div>
+En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los usuarios a encontrar rápidamente la información que necesitan sin perderse en el volumen de datos disponibles.
+
+<strong>Opciones de Búsqueda:</strong> Los usuarios pueden buscar datos específicos mediante una barra de búsqueda disponible en todas las secciones principales de la aplicación. Además, se implementan filtros avanzados que permiten restringir los resultados por categoría, fecha y tipo de recurso.
+
+<strong>Filtros de Búsqueda:</strong> Los filtros incluyen opciones como:
+<ul>
+    <li>Por fecha: última semana, último mes, último año.</li>
+    <li>Por tipo de recurso: electricidad, agua.</li>
+    <li>Por categoría: alertas, consumo, costos.</li>
+</ul>
+
+<!--<strong>Resultados de la Búsqueda:</strong> Los resultados se muestran en un formato de lista organizada, con la opción de ordenar por relevancia o fecha, y con resúmenes visuales cuando sea aplicable (gráficos, estadísticas clave).-->
+
+<div id="425"><h3>4.2.5. Navigation Systems</h3></div>
+
+<strong>Sistemas de navegación:</strong> Implementamos un menú de navegación principal en la parte superior de la pantalla, accesible desde cualquier sección. Además, utilizamos breadcrumbs para que los usuarios puedan rastrear su ubicación dentro de la aplicación y regresar fácilmente a secciones anteriores.
+
+<!--<strong>Navegación contextual:</strong> En ciertas áreas, como en las páginas de análisis o reportes, se ofrecen opciones de navegación contextual que permiten a los usuarios profundizar en detalles específicos sin perder la visión general. -->
+
+<strong>Navegación adaptativa:</strong> La interfaz se adapta tanto a dispositivos de escritorio como móviles, ajustando la disposición de los elementos según el tamaño de la pantalla para garantizar una experiencia consistente en todas las plataformas.
+
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
 <div id="461"><h3>4.6.1. Software Architecture Context Diagram</h3></div>
 
@@ -565,3 +637,74 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 ![Descripción de la imagen](/imgs/structurizr-94669-User%20Management%20Component%20Diagram.png)
 
 *Imagen: User Management Component Diagram*
+
+<div id="47"><h2>4.7. Software Object-Oriented Design</h2></div>
+<div id="471"><h3>4.7.1. Class Diagrams</h3></div>
+
+![diagrama_de_clases](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Class-Diagram-SmartFlow.png)
+
+<div id="472"><h3>4.7.2. Class Dictionary</h3></div>
+
+
+| **Class**              | **Attributes/Methods**|
+|------------------------|-----------------------|
+| **User**               | **Attributes:**|
+|                        | `idUser: int` - Unique identifier for the user|
+|                        | `username: String` - User's username|
+|                        | `password: String` - User's password|
+|                        | `idSubscription: int` - Reference to the subscription plan|
+|                        | **Methods:**|
+|                        | `register(): void` - Register a new user|
+|                        | `login(): boolean` - Login user|
+|                        | `updateData(): void` - Update user data|
+|                        | `deleteAccount(): void` - Delete user account|
+| **Device**          | **Attributes:**|
+|                        | `idDevice: int` - Unique identifier for the device|
+|                        | `deviceType: String` - Type of device|
+|                        | `serialNumber: String` - Device serial number|
+|                        | `status: String` - Device status|
+|                        | `idUser: int` - Reference to the associated user|
+|                        | **Methods:**|
+|                        | `sendData(): void` - Send data from the device|
+|                        | `activate(): void` - Activate the device|
+|                        | `deactivate(): void` - Deactivate the device|
+| **Consumption**        | **Attributes:**|
+|                        | `idConsumption: int` - Unique identifier for the consumption|
+|                        | `waterConsumption: float` - Water consumption|
+|                        | `lightConsumption: float` - Electricity consumption|
+|                        | `totalConsumption: float` - Total resource consumption|
+|                        | `idReport: int` - Reference to the associated report|
+|                        | `idDevice: int` - Reference to the associated device|
+|                        | **Methods:**|
+|                        | `calculateConsumption(): float` - Calculate total consumption|
+|                        | `generateReport(): String` - Generate a report of the consumption|
+|                        | `saveRecord(): void` - Save the consumption record|
+| **Alert**              | **Attributes:**|
+|                        | `idAlert: int` - Unique identifier for the alert|
+|                        | `alertType: String` - Type of alert|
+|                        | `dateTime: DateTime` - Date and time when the alert was generated|
+|                        | `status: String` - Status of the alert|
+|                        | `idReport: int` - Reference to the associated report|
+|                        | **Methods:**|
+|                        | `generateAlert(): void` - Generate a new alert|
+|                        | `sendNotification(): void` - Send a notification related to the alert|
+|                        | `resolveAlert(): void` - Resolve the alert|
+| **Report**             | **Attributes:**|
+|                        | `idReport: int` - Unique identifier for the report|
+|                        | `maxConsumption: float` - Maximum consumption recorded|
+|                        | `maxCost: float` - Maximum cost recorded|
+|                        | `generationDate: DateTime` - Date and time when the report was generated|
+|                        | `efficiency: float` - Efficiency indicator|
+|                        | **Methods:**|
+|                        | `generateReport(): String` - Generate a report|
+|                        | `exportToPDF(): void` - Export the report to PDF|
+|                        | `sendByEmail(): void` - Send the report by email|
+| **SubscriptionPlan**   | **Attributes:**|
+|                        | `idSubscription: int` - Unique identifier for the subscription plan|
+|                        | `price: float` - Price of the subscription plan|
+|                        | `planType: String` - Type of plan|
+|                        | `description: String` - Description of the plan|
+|                        | **Methods:**|
+|                        | `subscribeUser(): void` - Subscribe a user to the plan|
+|                        | `cancelSubscription(): void` - Cancel the user's subscription plan|
+|                        | `updatePlan(): void` - Update the user's subscription plan|
