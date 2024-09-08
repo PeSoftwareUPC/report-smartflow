@@ -658,7 +658,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 |Entevistado 2|Christian Matos|
 |-|-|
-|Edad|21|
+|Edad|20|
 |Distrito|San Borja|
 |Foto|![entrevista-2](/imgs/entrevista2.png)|
 |Time | 07:01 - 11:34 |
@@ -672,7 +672,7 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 |Entevistado 4|Nelson Correa|
 |-|-|
-|Edad|21|
+|Edad|23|
 |Distrito|Villa el Salvador|
 |Foto|![entrevista-4](/imgs/entrevista4.png)|
 |Time | 15:25 - 20:02 |
