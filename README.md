@@ -62,7 +62,54 @@ width=30%"/>
 ## Project Report Collaboration Insights
 
 
+Enlace de la organización para el reporte del proyecto: 
+
+**TB1**
+
+Para el desarrollo del informe correspondiente a la entrega TB1, se estableció la implementación de secciones de la siguiente manera para cada integrante del equipo:
+
+|Integrante|Tareas Asignadas|
+|-|-|
+|Williams Gongora Castilejos|Capitulo I, Antecedentes y problemática 5W y 2H, Segmentos Objetivos,, Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, Database Design, Database Diagram, Sprint 1|
+Johan Jorge Quiñones Tintaya|
+|Lopez de la Cruz Mauro Fabricio|
+|Renzo Zamir Revilla Quispe|Organizations Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Class Diagrams, Class Dictionary|
+|Carlos Andres Leon Rioja|Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User FLow Diagrams, Web Applications Prototyping y Domain-Driven Software Architecture|
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización.
+
+</br>
+
 ## **Github Collaboration Insights**
+
+Todas las ramas se crearon siguiendo la metodología GitFlow, que garantiza una organización estructurada y eficiente del código. GitFlow facilita la colaboración en proyectos al establecer un flujo de trabajo estandarizado para el desarrollo, con ramas específicas para nuevas funcionalidades, corrección de errores y preparación de lanzamientos, asegurando un control de versiones más ordenado y predecible.
+
+GitHub también proporciona una visualización detallada del historial de las ramas principales, destacando los procesos de merge realizados.
+
+
+Los integrantes son:
+
+* Williams Gongora (WiJeGo)
+* Quiñones Tintaya (johaanq)
+* Fabricio Lopez (lopezFABRAX)
+* Renzo Zamir Revilla Quispe (renzorevq24)
+*
+
+(**Especifiquen los usuarios**)
+
+Se explican las ramas más prominentes:
+
+**main:**  es la rama principal del proyecto y se actualiza con cada entregable.
+
+**develop:**  es la rama principal para el desarrollo continuo del proyecto.
+
+**feature**: contiene los cambios constantes realizados por los artefactos relacionados con el sprint 1 del informe.
+
+**TB1**
+
+**(imagen de la colaboracion de cada integrante)**
+**(imagen del grafico en conjunto)**
+
 
 ## Contenido
 
@@ -147,15 +194,32 @@ width=30%"/>
    &emsp;&emsp;5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217) <br>
    &emsp;&emsp;5.2.1.8. [Team Collaboration Insights during Sprint](#5218)
    
-[**Bibliografía**](#bibliografia)
 
-[**Anexo**](#anexo)
+6. [**Conclusiones**](#conclusiones)
 
-&emsp; 7.1. [Anexo N°1: Número de clientes finales por sectores](#anexo1)
+7. [**Bibliografía**](#bibliografia)
+
+8. [**Anexo**](#anexo)
+
+&emsp; 8.1. [Anexo N°1: Número de clientes finales por sectores](#anexo1)
 </br></br></br>
 
 
 ## Student Outcome
+El curso contribuye al cumplimiento del Student Outcome ABET:</br> 
+**ABET – EAC - Student Outcome 3**
+
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+</br>
+
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|--------------------------|------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | Gongora Castillejos, Williams <br> **TB1:** <br> - <br> - <br> - <br> - | .........|
+| Comunica por escrito con efectividad a diferentes rangos de audiencia  | | .........|
+
+<br>
+
 
 <div id="1"><h1>Capítulo I: Introducción</h1></div>
 <div id="11"><h2>1.1. Startup Profile</h2></div>
@@ -1222,7 +1286,27 @@ URL del video: [Video Landing Page](https://drive.google.com/file/d/1x7sWsRh-ie0
 </br></br>
 
 
+<div id="conclusiones"><h1>conclusiones</h1></div>
 
+En este primer entregable de la startup enfocada en el ahorro de luz y agua, así como en la mejora de la producción en un taller, es fundamental establecer una comunicación efectiva. Una comunicación clara entre desarrolladores y colaboradores no solo mejora la calidad del trabajo, sino que también facilita la resolución rápida de problemas.
+
+1. Asegurarse de que el código esté completamente documentado, con pautas y estándares claros, es esencial para que los nuevos participantes en el proyecto puedan integrarse fácilmente y contribuir de manera efectiva.
+
+2. Además, la interfaz modular y escalable del sistema ofrece flexibilidad tanto en la velocidad de desarrollo como en la calidad, permitiendo que el proyecto crezca de manera eficiente sin perder estabilidad.
+
+3. La accesibilidad y usabilidad del proyecto son claves para su éxito, ya que está diseñado para generar valor tangible y ofrecer resultados medibles, como la reducción de costos de servicios y la mejora en la productividad del taller.
+
+4. El proyecto se apoya en tecnologías y herramientas de uso común en la comunidad de código abierto, asegurando una integración fluida y una adopción generalizada.
+
+5. El mantener un diseño y una interfaz de usuario consistentes a lo largo de todo el desarrollo es crucial para mejorar la experiencia del usuario y fortalecer la identidad del producto.
+
+6. El desarrollo del frontend debe incluir pruebas exhaustivas para identificar y corregir errores antes de que estos impacten a los usuarios finales, garantizando una experiencia de uso sin contratiempos.
+
+7. El rendimiento del frontend es clave para asegurar tiempos de carga rápidos y una navegación fluida, lo que es especialmente relevante para aplicaciones de mayor escala como esta.
+
+8. Es importante mantener actualizadas las dependencias del proyecto, ya que esto previene problemas de seguridad y asegura que el código siga las mejores prácticas del desarrollo moderno.
+
+9. Por último, fomentar la participación de la comunidad y mantenerla involucrada es esencial para asegurar un flujo constante de ideas, mejoras y nuevas características que mantengan el proyecto en evolución constante.
 
 <div id="bibliografia"><h1>Bibliografía</h1></div>
 
