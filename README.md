@@ -647,6 +647,8 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="222"><h3>2.2.2. Registro de entrevistas</h3></div>
 
+| Entrevistas URL | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_upc_edu_pe/EQfoahdfxrpDqGJ6X8FaYdYBPceb4e2WtIDuTENtdNOQ1Q?e=Q9Xef1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+
 **Entrevista a dueños de talleres y/o fábricas.**
 
 |Entevistado 1|wii|
