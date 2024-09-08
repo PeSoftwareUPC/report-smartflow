@@ -591,8 +591,6 @@ En el apartado de competidores, es importante identificar a empresas que ofrecen
 
 <div id="212"><h3>2.1.2. Estrategias y tácticas frente a competidores</h3></div>
 
-## 2.1.2. Estrategias y tácticas frente a competidores
-
 ### Estrategia 1: Diferenciación y Accesibilidad
 **Estrategia:** SmartFlow se posicionará como una alternativa más accesible y personalizable frente a competidores como Schneider Electric y Siemens AG, enfocándose en pequeñas y medianas empresas (PYMES) y hogares que buscan soluciones eficientes sin los altos costos y complejidad de los grandes proveedores.
 
@@ -612,7 +610,6 @@ En el apartado de competidores, es importante identificar a empresas que ofrecen
 - Integrar SmartFlow con otros dispositivos inteligentes para crear un ecosistema que optimice el uso de recursos y mejore la experiencia del usuario.
 - Asociarse con programas de sostenibilidad para obtener certificaciones ecológicas y fortalecer la credibilidad de la marca.
 - Comunicar los beneficios ambientales de SmartFlow, enfocándose en la reducción de la huella de carbono y la preservación de recursos naturales, para captar a un público cada vez más consciente de la sostenibilidad.
-
 
 <div id="22"><h2>2.2. Entrevistas</h2></div>
 
