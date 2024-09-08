@@ -359,6 +359,204 @@ Del mismo modo, consideramos como segmento objetivo a personas naturales que des
 
 </br>
 
+<div id="2"><h1>Capítulo II: Requirements Elicitation & Analysis</h1></div>
+
+<div id="21"><h2>2.1. Competidores</h2></div>
+
+En el apartado de competidores, es importante identificar a empresas que ofrecen soluciones similares a las de SmartFlow. Schneider Electric, Siemens AG y Nest (parte de Google) destacan en la gestión y monitoreo de recursos como electricidad y agua. Estos competidores tienen una sólida presencia en el mercado, desde grandes industrias hasta hogares, lo que resalta la necesidad de que SmartFlow se diferencie con una oferta más accesible, personalizable y centrada en la sostenibilidad.
+
+**Schneider Electric**: Una multinacional especializada en la gestión de energía y automatización industrial. Schneider Electric ofrece soluciones avanzadas para la gestión de recursos, incluyendo sistemas de monitoreo en tiempo real de electricidad y otros insumos. Sus productos y servicios están orientados principalmente a grandes empresas e industrias, permitiendo la optimización del consumo energético y la automatización de procesos industriales.
+
+**Siemens AG**: Siemens es una de las mayores compañías industriales de Europa, con un enfoque significativo en la automatización y digitalización de procesos industriales. Sus soluciones incluyen tecnologías para la gestión eficiente de energía y agua, proporcionando sistemas integrados que permiten a las empresas controlar y optimizar su consumo de recursos. Siemens también ofrece herramientas analíticas avanzadas para prever el consumo y mejorar la eficiencia operativa.
+
+**Nest** (parte de Google): Aunque inicialmente conocida por sus termostatos inteligentes para hogares, Nest ha ampliado su oferta con productos de IoT que permiten a los usuarios controlar y monitorear el uso de energía en tiempo real. Su enfoque está en el consumidor residencial, ofreciendo soluciones que integran monitoreo, automatización y control remoto de sistemas domésticos para mejorar la eficiencia energética y reducir costos.
+
+<div id="211"><h3>2.1.1. Análisis competitivo</h3></div>}
+
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Llevar a cabo un análisis de competidores es crucial para entender cómo se posiciona SmartFlow frente a otras empresas en el mercado. Este análisis permite identificar las fortalezas y debilidades de los competidores, las estrategias que emplean y las oportunidades y amenazas que existen en el mercado.
+</td>
+  </tr>
+  <tr>
+    <td colspan="5">.</td>
+  </tr>
+  <tr>
+    <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        SmartFlow
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="/Assent/img/DevDream-Logo.jpeg" alt="StartUp" width="60px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+    Schneider Electric
+    <div style="text-align: center; margin-top: 20px;">
+                <img src="/Assent/img/FarmLogs-Logo.jpg" alt="" width="100px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Siemens AG
+      <div style="text-align: center; margin-top: 40px;">
+                <img src="/Assent/img/Herdwatch-Logo.png" alt="" width="200px">
+            </div>
+      </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      Nest
+      <div style="text-align: center; margin-top: 20px;">
+                <img src="/Assent/img/AgriWebb-Logo.jpg" alt="" width="610px">
+            </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Startup especializada en la creación de soluciones tecnológicas que permiten el monitoreo y control en tiempo real del consumo de recursos como electricidad y agua, a través de su aplicación SmartFlow. Su enfoque principal es la sostenibilidad y la reducción de costos tanto para empresas como para consumidores residenciales.</td>
+    <td colspan="1" valign="top">Multinacional francesa que se especializa en la gestión de energía y automatización industrial. Ofrece soluciones integradas para el monitoreo y optimización de recursos energéticos y opera en múltiples sectores, incluyendo el industrial y residencial.
+</td>
+    <td colspan="1" valign="top">Empresa alemana líder en automatización industrial y digitalización. Siemens ofrece una amplia gama de soluciones tecnológicas para la gestión eficiente de energía y agua, con un enfoque en la industria y grandes infraestructuras.
+</td>
+    <td colspan="1" valign="top">Empresa estadounidense conocida por su enfoque en el mercado residencial. Nest ofrece productos de IoT para el hogar inteligente, con un énfasis en la automatización y el control del consumo energético a través de dispositivos como termostatos inteligentes.
+</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">PeSoftware se diferencia al ofrecer una solución escalable y accesible para empresas pequeñas y medianas, así como para hogares. SmartFlow se centra en la integración de dispositivos IoT para la captura de datos en tiempo real, lo que permite una gestión eficiente de recursos, alertas automáticas sobre irregularidades y una interfaz intuitiva y fácil de usar. Su enfoque accesible y adaptable le da ventaja frente a competidores que manejan soluciones más complejas o costosas.</td>
+    <td colspan="1" valign="top">Su principal ventaja es la integración de soluciones que combinan gestión de energía y automatización industrial, lo que permite a sus clientes optimizar sus operaciones de manera holística.
+</td>
+    <td colspan="1" valign="top">Siemens se destaca por su capacidad de ofrecer soluciones altamente tecnológicas y personalizables, respaldadas por su fuerte enfoque en la innovación y la digitalización.</td>
+    <td colspan="1" valign="top">Ofrece productos fáciles de usar y altamente accesibles, con un enfoque en la conveniencia del consumidor y una integración fluida con otros dispositivos de Google, como Google Home.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">Talleres, pequeñas y medianas empresas que buscan optimizar el consumo de electricidad y agua, y consumidores residenciales interesados en monitorear sus recursos para reducir costos y fomentar la sostenibilidad.</td>
+    <td colspan="1" valign="top">Grandes industrias, infraestructura crítica, y el sector energético.
+</td>
+    <td colspan="1" valign="top">Empresas industriales, infraestructuras públicas y privadas, y el sector energético.
+</td>
+    <td colspan="1" valign="top">Consumidores residenciales y propietarios de hogares interesados en la automatización del hogar y la eficiencia energética.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">PeSoftware utiliza una estrategia mixta, enfocada en marketing digital B2B y B2C. Se centra en la promoción a través de redes sociales, campañas digitales, y asociaciones con empresas del sector de eficiencia energética. También busca colaboraciones con asociaciones industriales y recomendaciones de clientes actuales para atraer nuevos usuarios.</td>
+    <td colspan="1" valign="top">Utiliza un enfoque B2B, con marketing directo a grandes empresas y gobiernos. También se enfoca en conferencias, ferias comerciales y asociaciones industriales.
+</td>
+    <td colspan="1" valign="top"> Se enfoca en la innovación y la sostenibilidad, utilizando marketing B2B a través de alianzas estratégicas, eventos industriales y marketing digital enfocado en la digitalización.</td>
+    <td colspan="1" valign="top">: Se enfoca en marketing B2C, utilizando principalmente publicidad digital, redes sociales, y campañas de marketing integradas con otros productos de Google para atraer a los consumidores.
+</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">PeSoftware ofrece SmartFlow, una plataforma de monitoreo de recursos que utiliza dispositivos IoT para rastrear y optimizar el consumo de electricidad y agua en tiempo real. Incluye funcionalidades como alertas personalizables, control de producción en entornos industriales, y gestión de turnos.</td>
+    <td colspan="1" valign="top">Soluciones de automatización industrial, gestión de energía, software de gestión de edificios y servicios de consultoría.
+</td>
+    <td colspan="1" valign="top">Automatización industrial, sistemas de gestión energética, soluciones de digitalización y software industrial.
+</td>
+    <td colspan="1" valign="top">Termostatos inteligentes, cámaras de seguridad, timbres inteligentes, y dispositivos de automatización para el hogar.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Precios & Costos</td>
+    <td colspan="1" valign="top">Ofrece planes de suscripción escalonados según las necesidades del cliente: el Plan Básico ($99/mes), el Plan Pro ($199/mes) y un Plan Empresarial personalizado para empresas más grandes. Los precios son accesibles y buscan ajustarse a pequeñas y medianas empresas, así como a hogares.</td>
+    <td colspan="1" valign="top">Sus soluciones son generalmente costosas, dirigidas a grandes empresas y proyectos industriales donde se justifica una alta inversión inicial por los ahorros a largo plazo.
+</td>
+    <td colspan="1" valign="top"> Ofrece una gama de productos con precios variables, desde soluciones premium para grandes empresas hasta productos más accesibles para pequeñas y medianas empresas.
+</td>
+    <td colspan="1" valign="top">Productos orientados al consumidor con precios moderados, haciendo énfasis en la accesibilidad y la relación costo-beneficio para los hogares.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">Venta directa a través de su sitio web y mediante asociaciones con empresas del sector energético. La plataforma está disponible tanto en web como en aplicaciones móviles, permitiendo un acceso fácil para todos los usuarios.</td>
+    <td colspan="1" valign="top">Distribución a través de socios y revendedores, con fuerte presencia en plataformas B2B y herramientas digitales de gestión</td>
+    <td colspan="1" valign="top"> Principalmente a través de ventas directas, distribuidores industriales y plataformas digitales para grandes empresas</td>
+    <td colspan="1" valign="top"> Ventas a través de su sitio web, Google Store, y grandes minoristas tanto físicos como en línea, con aplicaciones móviles para control y monitoreo.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">PeSoftware ofrece una solución accesible tanto para pequeñas y medianas empresas como para hogares, lo que le permite llegar a un amplio espectro de clientes que buscan optimizar su consumo de recursos de manera sencilla y eficiente. Su enfoque en la sostenibilidad y la gestión en tiempo real le da un atractivo especial en un mercado que busca cada vez más soluciones eco-amigables.</td>
+    <td colspan="1" valign="top"> Amplia experiencia y presencia global en la gestión de energía y automatización industrial.
+</td>
+    <td colspan="1" valign="top"> Innovación continua y capacidad para ofrecer soluciones tecnológicamente avanzadas y altamente personalizables.</td>
+    <td colspan="1" valign="top">Integración perfecta con otros productos de Google y enfoque en la experiencia del usuario final.
+      </td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">PeSoftware enfrenta el desafío de competir con grandes empresas establecidas como Schneider Electric y Siemens, que ya cuentan con una sólida reputación y confianza en el mercado. Esta falta de reconocimiento puede hacer más difícil la entrada a ciertos segmentos del mercado.</td>
+    <td colspan="1" valign="top"> Alta complejidad y costo de sus soluciones, lo que puede limitar su accesibilidad a empresas más pequeñas</td>
+    <td colspan="1" valign="top"> Pueden ser percibidos como soluciones costosas y complicadas de implementar, especialmente para pequeñas empresas.
+</td>
+    <td colspan="1" valign="top">Su enfoque en el mercado residencial puede limitar su atractivo en el sector industrial o comercial</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">El mercado presenta una creciente demanda de soluciones sostenibles y accesibles para la gestión eficiente de recursos, tanto en el sector residencial como en el empresarial, lo que crea una oportunidad perfecta para PeSoftware.</td>
+    <td colspan="1" valign="top">Crecimiento en mercados emergentes y expansión en soluciones digitales y sostenibles.
+</td>
+    <td colspan="1" valign="top">Aumento de la demanda por soluciones de digitalización y automatización en sectores industriales.
+</td>
+    <td colspan="1" valign="top">Expansión en el mercado de hogares inteligentes y colaboración con otros productos tecnológicos para mejorar la experiencia del usuario.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">PeSoftware se enfrenta a una competencia intensa de empresas consolidadas como Schneider Electric y Siemens, que tienen más recursos y experiencia en el mercado. La rápida evolución de la tecnología también es una amenaza, ya que mantenerse a la vanguardia de la innovación en IoT es crucial para evitar quedar rezagado en un mercado tan dinámico</td>
+    <td colspan="1" valign="top">Competencia creciente en el sector de la energía y la automatización por parte de nuevos actores tecnológicos</td>
+    <td colspan="1" valign="top">Cambios regulatorios y económicos que podrían afectar la inversión en infraestructura y digitalización.
+</td>
+    <td colspan="1" valign="top"> Competencia intensa en el mercado de dispositivos inteligentes y el riesgo de obsolescencia tecnológica
+</td>
+  </tr>
+</table>
+
+<div id="212"><h3>2.1.2. Estrategias y tácticas frente a competidores</h3></div>
+
+<div id="22"><h2>2.2. Entrevistas</h2></div>
+
+Una entrevista es un proceso de comunicación en el que una persona (entrevistador) realiza preguntas y otra persona (entrevistado) responde, con el objetivo de obtener información relevante sobre un tema específico. En este ámbito sería conocer la opinión y necesidades respecto a las preguntas que se le haría para llegar a comprender a nuestro público. 
+Para SmartFlow, es muy importante la información de cada entrevista que se realizará y de esa forma nuestra StartUp pueda lograr el éxito. Finalmente, realizaremos en total 3 entrevistas, 3 por el segmento a dueños de hogar que poseen consumo de agua y luz, y al segmento de dueños de taller y/o fábricas. Un integrante del grupo realizó las entrevistas de manera virtual por diversas plataformas.
+
+<div id="221"><h3>2.2.1. Diseño de entrevistas</h3></div>
+
+A fin de obtener información valiosa sobre las necesidades, deseos y desafíos de nuestro público objetivo, hemos planteado una serie de preguntas.
+
+**Preguntas para el Segmento #1**: Dueños de hogar que poseen consumo de agua y luz.
+1.	¿Qué tan consciente eres del consumo de agua y electricidad en tu hogar?
+2.	¿Utilizas algún dispositivo o aplicación actualmente para monitorear tu consumo de energía o agua?
+3.	¿Con qué frecuencia revisas tus facturas de agua y luz? ¿Qué información te parece más relevante en ellas?
+4.	¿Qué medidas has tomado para reducir tu consumo de agua y electricidad en los últimos años?
+5.	¿Qué tan fácil o difícil te resulta entender tu consumo energético o de agua a partir de las herramientas disponibles?
+6.	¿Estarías dispuesto a invertir en un dispositivo que te ayude a reducir tus gastos en agua y electricidad? ¿Por qué?
+7.	¿Qué características considerarías imprescindibles en un dispositivo para monitorear el consumo de agua y electricidad?
+8.	¿Qué tipo de alertas o notificaciones te gustaría recibir respecto a tu consumo de agua y electricidad?
+9.	¿Cómo prefieres acceder a la información sobre tu consumo (aplicación móvil, web, correos electrónicos)?
+10.	¿Qué aspectos de tu consumo de agua y electricidad te generan mayor preocupación o interés?
+
+ 
+**Preguntas para el Segmento #2**: Dueños de talleres y/o fábricas.
+1.	¿Cómo monitoreas actualmente la productividad en tu taller o fábrica?
+2.	¿Utilizas algún software o herramienta específica para medir cuántos productos se fabrican y venden diaria, semanal o mensualmente?
+3.	¿Qué desafíos enfrentas al intentar medir la productividad de tu equipo o maquinaria?
+4.	¿Qué información consideras más crítica para mejorar la eficiencia en tu taller o fábrica?
+5.	¿Cómo gestionas los datos de producción y ventas actualmente? ¿Hay algún aspecto que te gustaría mejorar?
+6.	¿Estarías interesado en una solución que te proporcione datos en tiempo real sobre la productividad de tu taller o fábrica?
+7.	¿Qué factores influyen en tu decisión de invertir en nuevas herramientas o tecnologías para tu negocio?
+8.	¿Cómo evalúas el retorno de inversión (ROI) cuando consideras la compra de nuevos sistemas o software para tu taller o fábrica?
+9.	¿Qué características o funcionalidades serían imprescindibles en una herramienta diseñada para monitorear la productividad de tu negocio?
+10.	¿Cómo preferirías recibir informes sobre la productividad de tu taller o fábrica (por ejemplo, aplicaciones móviles, correos electrónicos, plataformas web)?
+
+<div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
+
+<div id="223"><h3>2.2.5. As-is Scenario Mapping.</h3></div>
+
 <div id="23"><h2>2.3. Needfinding</h2></div>
 <div id="231"><h3>2.3.1. User Personas</h3></div>
 
@@ -402,13 +600,9 @@ Finalmente, la principal coincidencia encontrada es que tanto los usuarios empre
 
 </br>
 
-
-
 <div id="233"><h3>2.3.3. User Journey Mapping</h3></div>
 
 Para el segmento Empresarial, se ha identificado como partida el sobreuso de la maquinaria eléctrica, lo que genera altos costos de producción. En el caso del segmento Residencial, el enfoque se centra en el sobreprecio de los recibos de agua y luz. En ambos casos, la solución radica en la necesidad de un sistema de monitoreo en tiempo real que permita controlar y optimizar el consumo de recursos. 
-
-
 
 * **Segmento Empresarial**
 ![jouneymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/journey-map-Pedro.png)
@@ -420,9 +614,7 @@ Para el segmento Empresarial, se ha identificado como partida el sobreuso de la 
 ![jouneymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/journey-map-Jesus.png)
 *Imagen: Journey Map Jesus*
 
-
 <div id="234"><h3>2.3.4. Empathy Mapping</h3></div>
-
 
 En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando una plantilla de EXPressia. Esta herramienta incluye todos los componentes necesarios, junto con preguntas específicas que se respondieron en función de lo que se identificó en nuestro análisis del público objetivo.
 
@@ -435,6 +627,9 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 * **Segmento Residencial**
 ![empathymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Jesus.png)
 *Imagen: Empathy Map Jesus*
+
+<div id="3"><h1>Capitulo III: Requirements Elicitation</h1></div>
+<div id="31"><h2>3.1. To-Be Scenario Mapping</h2></div>
 
 <div id="32"><h2>3.2. User Stories</h2></div>
 
@@ -484,6 +679,10 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 | US035 | Sincronizar con sistema CMMS | Como jefe de mantenimiento, quiero sincronizar los datos de consumo y alertas con nuestro sistema CMMS | - Dado que el jefe está en la sección de integraciones<br>- Cuando configura la sincronización con el CMMS<br>- Entonces el sistema comienza a enviar alertas y datos de consumo al CMMS<br>- Y las órdenes de trabajo en el CMMS se actualizan automáticamente con datos de consumo relevantes | EP007 |
 
 <div id="33"><h2>3.3. Impact Mapping</h2></div>
+
+![ImpactMapping](/imgs/ImpactMapping.png)
+
+*Imagen: Impact Mapping*
 
 <div id="34"><h2>3.4. Product Backlog</h2></div>
 
@@ -543,7 +742,6 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 <p>La tipografía Sans Serif es utilizada en toda la interfaz, con tamaños de fuente diferenciados para encabezados, subtítulos y cuerpo del texto, manteniendo la jerarquía visual. Los botones y enlaces están diseñados con bordes redondeados y un espacio amplio para facilitar la interacción táctil. Además, se asegura que todos los elementos interactivos cambien de color o muestren algún feedback visual cuando se les hace clic o se pasa el cursor sobre ellos, mejorando la accesibilidad y la experiencia de usuario.</p> -->
 
 <div id="42"><h2>4.2. Information Architecture</h2></div>
-
 <div id="421"><h3>4.2.1. Organization Systems</h3></div>
 
 <strong>Organización visual jerárquica:</strong> Aplicada en el dashboard principal para priorizar la información más relevante, como el consumo total y los costos. Los elementos se presentan en orden de importancia, facilitando la rápida comprensión del estado general.
@@ -561,6 +759,7 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 Las etiquetas se organizan en grupos lógicos, y cada una está claramente asociada con el contenido que representa, facilitando la navegación y mejorando la experiencia de usuario.
 
 <div id="423"><h3>4.2.3. SEO Tags and Meta Tags</h3></div>
+
 En esta sección, se definen las etiquetas SEO y Meta Tags que se asignarán a las páginas principales tanto de la Landing Page como de la Web Application.
 
 <strong>Landing Page:</strong>
@@ -576,6 +775,7 @@ En esta sección, se definen las etiquetas SEO y Meta Tags que se asignarán a l
 - <strong>Author:</strong> Equipo SmartFlow
 
 <div id="424"><h3>4.2.4. Searching Systems</h3></div>
+
 En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los usuarios a encontrar rápidamente la información que necesitan sin perderse en el volumen de datos disponibles.
 
 <strong>Opciones de Búsqueda:</strong> Los usuarios pueden buscar datos específicos mediante una barra de búsqueda disponible en todas las secciones principales de la aplicación. Además, se implementan filtros avanzados que permiten restringir los resultados por categoría, fecha y tipo de recurso.
