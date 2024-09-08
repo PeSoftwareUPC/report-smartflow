@@ -643,6 +643,27 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 ![empathymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Jesus.png)
 *Imagen: Empathy Map Jesus*
 
+## 2.3.5. As-Is Scenario Mapping
+
+En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas clave: **Pedro Gonzales** y **Jesús Castillo**. Estos mapas reflejan las situaciones actuales y las experiencias de ambos individuos en sus respectivas circunstancias profesionales.
+
+### Persona 1: Pedro Gonzales
+
+| **Phase**         | **Identificación de consumo de recursos**         | **Detección de ineficiencias en máquinas y procesos**      | **Ajuste de procesos y adopción de tecnología**           |
+|-------------------|---------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------|
+| **Doing**         | Pedro busca maneras de optimizar el uso de electricidad y agua en su taller. | Intenta identificar qué máquinas o procesos son ineficientes dentro del taller. | Ajusta los procesos y busca nuevas tecnologías para mejorar la eficiencia. |
+| **Thinking**      | "¿Cómo puedo reducir el consumo de recursos sin comprometer la eficiencia?" | "No tengo claro qué parte del taller está consumiendo más recursos." | "Tal vez una innovación tecnológica podría ayudar a reducir costos y mejorar la rentabilidad." |
+| **Feeling**       | Preocupado por el aumento constante en los costos de producción. | Frustrado por la falta de control y visibilidad sobre las máquinas y el consumo. | Optimista con la idea de probar nuevos métodos, pero inseguro de los resultados. |
+
+### Persona 2: Jesús Castillo
+
+| **Phase**         | **Revisión de facturas de agua y luz**               | **Identificación de patrones de consumo**               | **Ajuste de hábitos y búsqueda de herramientas**          |
+|-------------------|------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|
+| **Doing**         | Jesús revisa sus facturas, notando un aumento inesperado en los costos. | Intenta identificar patrones de consumo que expliquen el aumento en sus facturas. | Intenta ajustar sus hábitos de consumo sin herramientas efectivas para monitorear en tiempo real. |
+| **Thinking**      | "¿Por qué ha subido tanto mi factura este mes? No he cambiado mis hábitos." | "No sé exactamente dónde estoy consumiendo más agua o electricidad." | "Necesito una forma más precisa de monitorear el consumo y evitar sorpresas." |
+| **Feeling**       | Preocupado por el impacto en su presupuesto mensual. | Frustrado por no poder identificar las causas del incremento. | Esperanzado en reducir sus costos, pero frustrado por la falta de control diario. |
+
+
 <div id="3"><h1>Capitulo III: Requirements Elicitation</h1></div>
 <div id="31"><h2>3.1. To-Be Scenario Mapping</h2></div>
 
