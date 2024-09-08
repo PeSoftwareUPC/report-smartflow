@@ -1123,6 +1123,10 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 
 <div id="45"><h3>4.5. Web Applications Prototyping</h3></div>
 
+<h4>Demostracion de la funcionalidad del Web Application Prototyping</h4>
+
+
+
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
 <div id="461"><h3>4.6.1. Software Architecture Context Diagram</h3></div>
 
