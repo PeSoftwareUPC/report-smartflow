@@ -570,7 +570,6 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
-<div id="223"><h3>2.2.5. As-is Scenario Mapping.</h3></div>
 
 <div id="23"><h2>2.3. Needfinding</h2></div>
 <div id="231"><h3>2.3.1. User Personas</h3></div>
@@ -712,8 +711,6 @@ En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas c
 
 <div id="3"><h1>Capitulo III: Requirements Elicitation</h1></div>
 <div id="31"><h2>3.1. To-Be Scenario Mapping</h2></div>
-
-## 2.3.6. To-Be Scenario Mapping
 
 En esta sección, presentamos los "To-Be Scenario Maps" para dos User Personas clave: **Pedro Gonzales** y **Jesús Castillo**. Estos mapas muestran la experiencia de usuario ideal para cada segmento, abordando los puntos de insatisfacción y necesidades identificados previamente en los "As-Is Scenario Maps".
 
@@ -1015,3 +1012,12 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 |                        | `subscribeUser(): void` - Subscribe a user to the plan|
 |                        | `cancelSubscription(): void` - Cancel the user's subscription plan|
 |                        | `updatePlan(): void` - Update the user's subscription plan|
+
+
+## 4.8. Database Design
+<a name="48"></a>
+### 4.8.1. Database Diagram
+<a name="481"></a>
+
+![diagrama_base_de_datos](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/SmartFlow-DataBase.png)
+*Imagen: Diagrama de la Base de Datos*
