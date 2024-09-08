@@ -1107,6 +1107,10 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 
 <div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
 
+![3](https://github.com/user-attachments/assets/d329baf4-00b6-4516-8db6-547d285a8019)
+![2](https://github.com/user-attachments/assets/a84df587-74c6-443f-a333-581d83e6dd90)
+![1](https://github.com/user-attachments/assets/102ed9c8-8ef4-4c08-8943-5d9c22b9419f)
+
 <div id="45"><h3>4.5. Web Applications Prototyping</h3></div>
 
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
