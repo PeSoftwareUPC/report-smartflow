@@ -591,20 +591,20 @@ En el apartado de competidores, es importante identificar a empresas que ofrecen
 
 <div id="212"><h3>2.1.2. Estrategias y tácticas frente a competidores</h3></div>
 
-### Estrategia 1: Diferenciación y Accesibilidad
-**Estrategia:** SmartFlow se posicionará como una alternativa más accesible y personalizable frente a competidores como Schneider Electric y Siemens AG, enfocándose en pequeñas y medianas empresas (PYMES) y hogares que buscan soluciones eficientes sin los altos costos y complejidad de los grandes proveedores.
+**Estrategia 1: Diferenciación y Accesibilidad**
+- **Estrategia:** SmartFlow se posicionará como una alternativa más accesible y personalizable frente a competidores como Schneider Electric y Siemens AG, enfocándose en pequeñas y medianas empresas (PYMES) y hogares que buscan soluciones eficientes sin los altos costos y complejidad de los grandes proveedores.
 
-**Tácticas:**
+- **Tácticas:**
 
 - Ofrecer paquetes modulares y escalables que se adapten a diferentes necesidades y presupuestos, facilitando la adopción inicial con opciones de suscripción y pago por uso.
 - Resaltar la simplicidad y facilidad de uso de SmartFlow en las campañas de marketing, comparando directamente con las soluciones más complejas de los competidores.
 - Aprovechar canales de distribución digitales, optimizando el sitio web para SEO y SEM, y desarrollando una fuerte presencia en redes sociales y marketing de contenidos.
 - Implementar una política de precios competitiva, ofreciendo opciones asequibles y destacando los ahorros a largo plazo que los clientes pueden obtener con SmartFlow.
 
-### Estrategia 2: Innovación y Sostenibilidad
-**Estrategia:** Para enfrentar la competencia de Nest y otros grandes jugadores, SmartFlow debe centrarse en la innovación tecnológica y la sostenibilidad, ofreciendo una plataforma que no solo monitoriza en tiempo real, sino que también predice patrones de consumo y promueve un uso responsable de los recursos.
+**Estrategia 2: Innovación y Sostenibilidad**
+* **Estrategia:** Para enfrentar la competencia de Nest y otros grandes jugadores, SmartFlow debe centrarse en la innovación tecnológica y la sostenibilidad, ofreciendo una plataforma que no solo monitoriza en tiempo real, sino que también predice patrones de consumo y promueve un uso responsable de los recursos.
 
-**Tácticas:**
+* **Tácticas:**
 
 - Desarrollar funciones avanzadas de IoT y análisis predictivo que permitan a los usuarios optimizar su consumo de manera automática y personalizada.
 - Integrar SmartFlow con otros dispositivos inteligentes para crear un ecosistema que optimice el uso de recursos y mejore la experiencia del usuario.
@@ -743,7 +743,7 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 
 En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas clave: **Pedro Gonzales** y **Jesús Castillo**. Estos mapas reflejan las situaciones actuales y las experiencias de ambos individuos en sus respectivas circunstancias profesionales.
 
-### Persona 1: Pedro Gonzales
+**Persona 1: Pedro Gonzales**
 
 | **Phase**         | **Identificación de consumo de recursos**         | **Detección de ineficiencias en máquinas y procesos**      | **Ajuste de procesos y adopción de tecnología**           |
 |-------------------|---------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------|
@@ -751,7 +751,7 @@ En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas c
 | **Thinking**      | "¿Cómo puedo reducir el consumo de recursos sin comprometer la eficiencia?" | "No tengo claro qué parte del taller está consumiendo más recursos." | "Tal vez una innovación tecnológica podría ayudar a reducir costos y mejorar la rentabilidad." |
 | **Feeling**       | Preocupado por el aumento constante en los costos de producción. | Frustrado por la falta de control y visibilidad sobre las máquinas y el consumo. | Optimista con la idea de probar nuevos métodos, pero inseguro de los resultados. |
 
-### Persona 2: Jesús Castillo
+**Persona 2: Jesús Castillo**
 
 | **Phase**         | **Revisión de facturas de agua y luz**               | **Identificación de patrones de consumo**               | **Ajuste de hábitos y búsqueda de herramientas**          |
 |-------------------|------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|
@@ -783,7 +783,7 @@ En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas c
 
 ---
 
-## Glosario
+**Glosario**
 
 - **Consumption Monitoring (Monitoreo de Consumo)**: Proceso de seguimiento y medición en tiempo real del uso de recursos como electricidad y agua a través de dispositivos IoT conectados a SmartFlow.
 
@@ -811,7 +811,7 @@ En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas c
 
 En esta sección, presentamos los "To-Be Scenario Maps" para dos User Personas clave: **Pedro Gonzales** y **Jesús Castillo**. Estos mapas muestran la experiencia de usuario ideal para cada segmento, abordando los puntos de insatisfacción y necesidades identificados previamente en los "As-Is Scenario Maps".
 
-### Persona 1: Pedro Gonzales
+**Persona 1: Pedro Gonzales**
 
 | **Phase**         | **Monitoreo eficiente de recursos**            | **Identificación automática de ineficiencias**        | **Optimización continua con tecnología**           |
 |-------------------|------------------------------------------------|------------------------------------------------------|---------------------------------------------------|
@@ -821,7 +821,7 @@ En esta sección, presentamos los "To-Be Scenario Maps" para dos User Personas c
 
 ---
 
-### Persona 2: Jesús Castillo
+**Persona 2: Jesús Castillo**
 
 | **Phase**         | **Monitoreo en tiempo real de consumo en el hogar** | **Detección de patrones de consumo**                 | **Ajuste automático de dispositivos**              |
 |-------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------------------------------|
@@ -996,6 +996,23 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 
 <strong>Navegación adaptativa:</strong> La interfaz se adapta tanto a dispositivos de escritorio como móviles, ajustando la disposición de los elementos según el tamaño de la pantalla para garantizar una experiencia consistente en todas las plataformas.
 
+<div id="43"><h3>4.3. Landing Page UI Design</h3></div>
+
+<div id="431"><h3>4.3.1. Landing Page Wireframe</h3></div>
+
+<div id="432"><h3>4.3.2. Landing Page Mock-up</h3></div>
+
+<div id="44"><h3>4.4. Web Applications UX/UI Design</h3></div>
+<div id="441"><h3>4.4.1. Web Applications Wireframes</h3></div>
+
+<div id="442"><h3>4.4.2. Web Applications Wireflow Diagrams</h3></div>
+
+<div id="443"><h3>4.4.3. Web Applications Mock-ups</h3></div>
+
+<div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
+
+<div id="45"><h3>4.4. Web Applications Prototyping</h3></div>
+
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
 <div id="461"><h3>4.6.1. Software Architecture Context Diagram</h3></div>
 
@@ -1116,7 +1133,189 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 
 ![diagrama_base_de_datos](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/SmartFlow-DataBase.png)
 
+<div id="5"><h1>Capítulo V: Product Implementation, Validation & Deployment</h1></div>
+<div id="51"><h2>5.1. Software Configuration Management</h2></div>
+<div id="511"><h3>5.1.1. Software Development Environment Configuration</h3></div>
 
+Para el desarrollo de SmartFlow, hemos configurado un entorno que abarca todas las etapas del ciclo de vida del producto digital. A continuación, se detallan los productos de software utilizados por el equipo:
+
+1. **Project Management:**
+    * Jira
+        * Propósito: Gestión de proyectos y seguimiento de tareas
+        * URL: [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira)
+
+2. **Requirements Management:**
+    * Confluence
+    * Propósito: Documentación y gestión de requisitos
+    * URL: [https://www.atlassian.com/software/confluence](https://www.atlassian.com/software/confluence)
+
+3. **Product UX/UI Design:**
+    * Figma
+    * Propósito: Diseño de interfaces y prototipos
+    * URL: [https://www.figma.com/](https://www.figma.com/)
+
+4. **Software Development:**
+    * Visual Studio Code
+        * Propósito: Entorno de desarrollo integrado
+        * Descarga: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+
+    * Git
+        * Propósito: Control de versiones
+        * Descarga: [https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+5. **Software Testing:**
+    * No se utilizaron frameworks de testing específicos para este proyecto.
+
+6. **Software Deployment:**
+    * GitHub Pages
+        * Propósito: Alojamiento y despliegue de la landing page
+        * URL: [https://pages.github.com/](https://pages.github.com/)
+
+7. **Software Documentation:**
+    * Markdown
+        * Propósito: Lenguaje de marcado para documentación
+
+    * GitHub Wiki
+        * Propósito: Alojamiento de documentación del proyecto
+        * URL: [https://github.com/PeSoftwareUPC/report-smartflow](https://github.com/PeSoftwareUPC/report-smartflow)
+
+8. **Comunicación y Colaboración:**
+
+    * Discord
+        * Propósito: Comunicación en tiempo real del equipo
+        * URL: [https://discord.com/](https://discord.com/)
+
+Cada miembro del equipo debe instalar y configurar estas herramientas en su entorno local para garantizar una colaboración efectiva en todas las etapas del desarrollo de SmartFlow.
+
+<div id="512"><h3>5.1.2. Source Code Management</h3></div>
+
+Para la gestión del código fuente de SmartFlow, utilizamos GitHub como plataforma de control de versiones. A continuación, se detallan los repositorios y la implementación de GitFlow:
+
+1. **Repositorios:**
+
+    * Landing Page: [https://github.com/SmartFlow/landing-page](https://github.com/SmartFlow/landing-page)
+    * Web Services: [https://github.com/SmartFlow/api-services](https://github.com/SmartFlow/api-services)
+    * Frontend Web Application: [https://github.com/SmartFlow/frontend-app](https://github.com/SmartFlow/frontend-app)
+
+2. **Implementación de GitFlow:**   
+    * Ramas principales:
+        * `main`: Contiene el código de producción.
+        * `develop`: Rama de desarrollo para integrar nuevas características.
+
+    * Ramas de soporte:
+        * Feature branches: `feature/<nombre-de-la-característica>`
+        * Release branches: `release/<número-de-versión>`
+        * Hotfix branches: `hotfix/<número-de-versión>`
+
+    * Convenciones de nombrado:
+        * Feature branches: `feature/user-authentication`
+        * Release branches: `release/1.2.0`
+        * Hotfix branches: `hotfix/1.2.1`
+
+3. **Flujo de trabajo:**
+    * Los desarrolladores crean feature branches desde `develop`.
+    * Al completar una característica, se crea un Pull Request a `develop`.
+    * Las releases se preparan en release branches.
+    * Los hotfixes se aplican directamente sobre `main` y se fusionan de vuelta a `develop`.
+
+4. **Semantic Versioning:** Aplicamos Semantic Versioning 2.0.0 para nombrar nuestras releases:
+
+    * Formato: MAJOR.MINOR.PATCH
+    * Ejemplo: 1.0.0, 1.1.0, 1.1.1
+
+5. **Conventional Commits:** Utilizamos Conventional Commits para los mensajes de commit:
+    * Tipos comunes: `feat`,`build` , `fix`, `docs`, `style`, `refactor`, `test`, `chore`
+```
+<type>[optional scope]: <description>
+```
+
+Este enfoque estructurado para la gestión del código fuente asegura un desarrollo organizado y facilita la colaboración efectiva entre los miembros del equipo.
+
+<div id="513"><h3>5.1.3. Source Code Style Guide & Conventions</h3></div>
+
+Para mantener la consistencia y legibilidad del código en SmartFlow, hemos adoptado las siguientes guías de estilo y convenciones para los diferentes lenguajes y tecnologías utilizados en nuestro proyecto:
+
+1. **HTML:**
+
+    * Seguimos las convenciones de "HTML Style Guide and Coding Conventions" de W3Schools.
+    * Utilizamos HTML5 semántico.
+    * Indentación: 2 espacios.
+    * Nombres de elementos y atributos en minúsculas.
+
+2. **CSS:**
+
+    * Adoptamos el "Google HTML/CSS Style Guide".
+    * Utilizamos CSS3 y Flexbox/Grid para layouts.
+    * Nomenclatura BEM (Block Element Modifier) para clases.
+    * Orden alfabético para propiedades CSS.
+
+3. **JavaScript:**
+
+    * Seguimos el "Google JavaScript Style Guide".
+    * Usamos ES6+ features.
+    * Preferimos `const` sobre `let`, y evitamos `var`.
+    * Funciones de flecha para funciones anónimas.
+
+6. **Gherkin (para archivos .feature):**
+
+    * Seguimos las "Gherkin Conventions for Readable Specifications".
+    * Escenarios concisos y enfocados.
+    * Uso de lenguaje de dominio específico.
+
+Convenciones generales:
+
+- Nombres en inglés para todas las variables, funciones, clases, etc.
+- Comentarios concisos y explicativos.
+- Evitar comentarios obvios o redundantes.
+- Límite de 80 caracteres por línea para mejorar la legibilidad.
+
+Estas convenciones se aplican en todos nuestros repositorios y son reforzadas a través de revisiones de código.
+
+<div id="514"><h3>5.1.4. Software Deployment Configuration</h3></div>
+
+Para el despliegue de SmartFlow, hemos utilizado una configuración simple basada en GitHub Pages. Este método nos permite alojar y desplegar nuestra landing page directamente desde nuestro repositorio de GitHub. A continuación, se detallan los pasos y configuraciones necesarios para desplegar nuestro proyecto:
+
+1. **Configuración del Repositorio:**
+
+    * Asegurarse de que el repositorio sea público o, si es privado, que tenga habilitado GitHub Pages.
+    * El código de la landing page debe estar en la rama principal (main o master).
+
+2. **Estructura del Proyecto:**
+
+    * El archivo HTML principal debe llamarse `index.html` y estar en la raíz del repositorio.
+    * Todos los assets (css, scripts, imgs) deben estar correctamente enlazados con rutas relativas.
+
+3. **Activación de GitHub Pages:**
+
+    * Ir a la sección "Settings" del repositorio.
+    * Navegar a la sección "Pages".
+    * En "Source", seleccionar la rama principal (main o master) y la carpeta raíz.
+    * Guardar la configuración.
+
+4. **Despliegue:**
+
+    * Cada vez que se hace push a la rama principal, GitHub Pages automáticamente despliega los cambios.
+    * No se requiere un proceso de build separado, ya que GitHub Pages sirve los archivos estáticos directamente.
+
+5. **URL del Sitio:**
+
+    * GitHub proporciona una URL en el formato `https://<username>.github.io/<repository>` o un dominio personalizado si se ha configurado.
+
+6. **Desarrollo Local:**
+
+    * Durante el desarrollo, utilizamos el plugin Live Server de Visual Studio Code para ver los cambios en tiempo real.
+    * Para usar Live Server:
+        * Abrir el proyecto en Visual Studio Code.
+        * Hacer clic derecho en el archivo `index.html`.
+        * Seleccionar "Open with Live Server".
+        * El navegador se abrirá automáticamente mostrando la página.
+
+7. **Mantenimiento y Actualizaciones:**
+
+    * Para actualizar el sitio, simplemente se hacen cambios en los archivos locales y se suben al repositorio de GitHub.
+    * GitHub Pages automáticamente reflejará estos cambios en el sitio desplegado.
+
+Esta configuración de despliegue simplificada nos permite mantener nuestro sitio web de manera eficiente, aprovechando las capacidades de GitHub para el alojamiento y el control de versiones. El uso de Live Server durante el desarrollo nos proporciona un flujo de trabajo ágil, permitiéndonos ver los cambios instantáneamente antes de subirlos al repositorio.
 
 <div id="52"><h2>5.2. Landing Page, Services & Applications Implementation</h2></div>
 <div id="521"><h3>5.2.1. Sprint 1</h3></div>
