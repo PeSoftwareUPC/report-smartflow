@@ -167,6 +167,8 @@ En PeSoftware, nos dedicamos a crear soluciones que permiten el control y monito
 
 **Visión:** Ser la plataforma líder a nivel global en la optimización del consumo de recursos, impulsando una gestión eficiente y sostenible en todos los sectores.
 
+![](/imgs/smartflow-logo.jpeg)
+
 <div id="111"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
 
 |Descripción del integrante|Perfil del integrante del equipo|
