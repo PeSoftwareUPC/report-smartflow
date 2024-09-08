@@ -663,6 +663,52 @@ En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas c
 | **Thinking**      | "¿Por qué ha subido tanto mi factura este mes? No he cambiado mis hábitos." | "No sé exactamente dónde estoy consumiendo más agua o electricidad." | "Necesito una forma más precisa de monitorear el consumo y evitar sorpresas." |
 | **Feeling**       | Preocupado por el impacto en su presupuesto mensual. | Frustrado por no poder identificar las causas del incremento. | Esperanzado en reducir sus costos, pero frustrado por la falta de control diario. |
 
+## 2.4. Ubiquitous Language
+
+1. **Consumption Monitoring (Monitoreo de Consumo)**: El proceso de seguimiento y medición en tiempo real del uso de recursos como electricidad y agua a través de dispositivos IoT conectados a la aplicación SmartFlow.
+
+2. **Real-time Alerts (Alertas en Tiempo Real)**: Notificaciones automáticas que se envían a los usuarios cuando se detectan consumos anómalos o se superan los umbrales establecidos de recursos.
+
+3. **Resource Optimization (Optimización de Recursos)**: Estrategias y técnicas que SmartFlow implementa para mejorar la eficiencia en el uso de electricidad y agua, reduciendo el desperdicio y los costos asociados.
+
+4. **IoT Integration (Integración con IoT)**: Conexión entre SmartFlow y dispositivos físicos (sensores, medidores) que permiten la captura continua de datos sobre el consumo de recursos.
+
+5. **Production Control (Control de Producción)**: Funcionalidad de SmartFlow que permite supervisar y ajustar el uso de maquinaria en entornos industriales para optimizar la producción y el consumo de recursos.
+
+6. **Shift Management (Gestión de Turnos)**: Herramienta dentro de SmartFlow que facilita la asignación y monitoreo de los turnos de trabajo de los operarios, mejorando la eficiencia operativa.
+
+7. **Consumption Report (Informe de Consumo)**: Documentos generados por SmartFlow que detallan el uso de recursos a lo largo del tiempo, ofreciendo insights para mejorar la toma de decisiones.
+
+8. **Thresholds (Umbrales)**: Límites predefinidos por el usuario para el consumo de recursos, que cuando se superan, activan alertas automáticas.
+
+9. **Sustainability (Sostenibilidad)**: El enfoque de SmartFlow en reducir el impacto ambiental mediante el uso eficiente de recursos y la promoción de prácticas operativas más ecológicas.
+
+10. **User Interface (Interfaz de Usuario)**: El diseño visual y funcional de SmartFlow que facilita la interacción del usuario con los datos de consumo y las herramientas de control de recursos.
+
+---
+
+## Glosario
+
+- **Consumption Monitoring (Monitoreo de Consumo)**: Proceso de seguimiento y medición en tiempo real del uso de recursos como electricidad y agua a través de dispositivos IoT conectados a SmartFlow.
+
+- **Real-time Alerts (Alertas en Tiempo Real)**: Notificaciones automáticas que se envían a los usuarios cuando se detectan consumos anómalos o se superan los umbrales establecidos de recursos.
+
+- **Resource Optimization (Optimización de Recursos)**: Estrategias y técnicas implementadas por SmartFlow para mejorar la eficiencia en el uso de electricidad y agua, reduciendo el desperdicio y los costos asociados.
+
+- **IoT Integration (Integración con IoT)**: Conexión entre SmartFlow y dispositivos físicos (sensores, medidores) que permiten la captura continua de datos sobre el consumo de recursos.
+
+- **Production Control (Control de Producción)**: Funcionalidad de SmartFlow que permite supervisar y ajustar el uso de maquinaria en entornos industriales para optimizar la producción y el consumo de recursos.
+
+- **Shift Management (Gestión de Turnos)**: Herramienta dentro de SmartFlow que facilita la asignación y monitoreo de los turnos de trabajo de los operarios, mejorando la eficiencia operativa.
+
+- **Consumption Report (Informe de Consumo)**: Documentos generados por SmartFlow que detallan el uso de recursos a lo largo del tiempo, ofreciendo insights para mejorar la toma de decisiones.
+
+- **Thresholds (Umbrales)**: Límites predefinidos por el usuario para el consumo de recursos, que cuando se superan, activan alertas automáticas.
+
+- **Sustainability (Sostenibilidad)**: Enfoque de SmartFlow en reducir el impacto ambiental mediante el uso eficiente de recursos y la promoción de prácticas operativas más ecológicas.
+
+- **User Interface (Interfaz de Usuario)**: Diseño visual y funcional de SmartFlow que facilita la interacción del usuario con los datos de consumo y las herramientas de control de recursos.
+
 
 <div id="3"><h1>Capitulo III: Requirements Elicitation</h1></div>
 <div id="31"><h2>3.1. To-Be Scenario Mapping</h2></div>
