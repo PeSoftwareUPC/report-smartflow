@@ -432,7 +432,17 @@ Del mismo modo, consideramos como segmento objetivo a personas naturales que des
 
 <div id="2"><h1>Capítulo II: Requirements Elicitation & Analysis</h1></div>
 
-<div id="211"><h3>2.1.1. Análisis competitivo</h3></div>}
+<div id="21"><h2>2.1. Competidores</h2></div>
+
+En el apartado de competidores, es importante identificar a empresas que ofrecen soluciones similares a las de SmartFlow. Schneider Electric, Siemens AG y Nest (parte de Google) destacan en la gestión y monitoreo de recursos como electricidad y agua. Estos competidores tienen una sólida presencia en el mercado, desde grandes industrias hasta hogares, lo que resalta la necesidad de que SmartFlow se diferencie con una oferta más accesible, personalizable y centrada en la sostenibilidad.
+
+**Schneider Electric**: Una multinacional especializada en la gestión de energía y automatización industrial. Schneider Electric ofrece soluciones avanzadas para la gestión de recursos, incluyendo sistemas de monitoreo en tiempo real de electricidad y otros insumos. Sus productos y servicios están orientados principalmente a grandes empresas e industrias, permitiendo la optimización del consumo energético y la automatización de procesos industriales.
+
+**Siemens AG**: Siemens es una de las mayores compañías industriales de Europa, con un enfoque significativo en la automatización y digitalización de procesos industriales. Sus soluciones incluyen tecnologías para la gestión eficiente de energía y agua, proporcionando sistemas integrados que permiten a las empresas controlar y optimizar su consumo de recursos. Siemens también ofrece herramientas analíticas avanzadas para prever el consumo y mejorar la eficiencia operativa.
+
+**Nest** (parte de Google): Aunque inicialmente conocida por sus termostatos inteligentes para hogares, Nest ha ampliado su oferta con productos de IoT que permiten a los usuarios controlar y monitorear el uso de energía en tiempo real. Su enfoque está en el consumidor residencial, ofreciendo soluciones que integran monitoreo, automatización y control remoto de sistemas domésticos para mejorar la eficiencia energética y reducir costos.
+
+<div id="211"><h3>2.1.1. Análisis competitivo</h3></div>
 
 <table>
   <tr>
