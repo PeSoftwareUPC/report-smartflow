@@ -1009,13 +1009,105 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 <div id="44"><h3>4.4. Web Applications UX/UI Design</h3></div>
 <div id="441"><h3>4.4.1. Web Applications Wireframes</h3></div>
 
+<div id="">
+    <h4>Wireframes de la pagina para iniciar sesion</h4>
+    <p>Aqui se muestra la pagina de inicio de sesion para los usuarios con cuenta</p>
+</div>
+
+![upload_f136dff58fb89480134c3b82992e060e](https://github.com/user-attachments/assets/f9d15583-0a07-491b-b21c-7cdd7a3b5d3d)
+
+<div id="">
+    <h4>Wireframes de la pagina para registrarse</h4>
+    <p>Aqui se muestra la pagina de registro para los usuarios nuevos</p>
+</div>
+
+![upload_82dab9dc17a480895c81c869730ade7b](https://github.com/user-attachments/assets/f431fa53-b9fb-4168-bef5-76ffafc910dd)
+
+<div id="">
+    <h4>Wireframes de la pagina para el dashboard</h4>
+    <p>La pagina principal de la cuenta del usuario</p>
+</div>
+
+![upload_a0a94b503d408715f70aba3735ca9d13](https://github.com/user-attachments/assets/02adf367-0ac7-43fd-b501-5d54f2ffbea2)
+![upload_446be815333a0f5e8fdc7458177e3572](https://github.com/user-attachments/assets/d2a7fa25-326e-4542-a2ae-a6e081da18d6)
+![upload_48bbedbb39e4ea64357edfcf21619bb6](https://github.com/user-attachments/assets/8fd5be63-5e11-4415-97f1-9780c1d8816e)
+
+<div id="">
+    <h4>Wireframes de la pagina de los dispositivos</h4>
+    <p>La seccion de dispositivos para monitorear los sensores</p>
+</div>
+
+![upload_0aa816c78619c53edcd58703984a6547](https://github.com/user-attachments/assets/02457e68-a83b-4f81-84df-32bc055f5b25)
+
+<div id="">
+    <h4>Wireframes de la pagina de informes</h4>
+    <p>La seccion de informes para obtener un informe general del consumo total ademas se puede descargar un archivo con el informe</p>
+</div>
+
+![upload_97a2aad0db2cb67d7ea654035519424b](https://github.com/user-attachments/assets/a4448db9-7329-4a9b-90c9-9229616af5be)
+
 <div id="442"><h3>4.4.2. Web Applications Wireflow Diagrams</h3></div>
+
+<p>
+    Al iniciar sesion se les llevara al Dashboard para monitorear sus consumos
+</p>
+
+![1](https://github.com/user-attachments/assets/f5e60b39-9f94-4df8-a720-e314afdf03ad)
+
+<p>
+    En el Dashboard hay 3 secciones Resumen, Consumo y Costos.
+</p>
+
+![2](https://github.com/user-attachments/assets/de79a306-a9ec-4cf8-8964-5654bd6191ea)
+
+<p>
+    Ademas del Dashboard hay otras 2 secciones dispositivos e informes, donde en dispositivos veras todos los sensores y en informes veras un informe general de todos los consumos totales. 
+</p>
+
+![3](https://github.com/user-attachments/assets/cdb65d24-0aa1-4ded-8cff-749fc1b2cf65)
 
 <div id="443"><h3>4.4.3. Web Applications Mock-ups</h3></div>
 
+<div id="">
+    <h4>Mock-up de la pagina para iniciar sesion</h4>
+    <p></p>
+</div>
+
+![1](https://github.com/user-attachments/assets/5718e8d8-67c5-45b8-8532-8476c2a2254f)
+
+<div id="">
+    <h4>Mock-up de la pagina para registrarse</h4>
+    <p></p>
+</div>
+
+![2](https://github.com/user-attachments/assets/ac860a76-9e25-4ee6-8188-6475c8d41c78)
+
+<div id="">
+    <h4>Mock-up de la pagina para el dashboard</h4>
+    <p></p>
+</div>
+
+![4](https://github.com/user-attachments/assets/7d292c52-59fa-4dd9-ab95-936f76308ea1)
+![3](https://github.com/user-attachments/assets/ef058074-f202-4423-9239-0c40b67fa476)
+![5](https://github.com/user-attachments/assets/8111ae98-0f8e-4308-a475-bdad31bb1a69)
+
+<div id="">
+    <h4>Mock-up de la pagina de los dispositivos</h4>
+    <p></p>
+</div>
+
+![6](https://github.com/user-attachments/assets/cebcfa98-3a81-49b6-9b29-b3f892e6e1b2)
+
+<div id="">
+    <h4>Mock-up de la pagina de informes</h4>
+    <p></p>
+</div>
+
+![7](https://github.com/user-attachments/assets/86029522-a180-4649-ac8a-eedd5b5535a9)
+
 <div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
 
-<div id="45"><h3>4.4. Web Applications Prototyping</h3></div>
+<div id="45"><h3>4.5. Web Applications Prototyping</h3></div>
 
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
 <div id="461"><h3>4.6.1. Software Architecture Context Diagram</h3></div>
