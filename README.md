@@ -654,28 +654,28 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 |Edad|17|
 |Distrito|Surco|
 |Foto|![entrevista-1](/imgs/entrevista1.png)|
-|Timing: 0:03 - 07:01 |
+|Time | 0:03 - 07:01 |
 
 |Entevistado 2|Christian Matos|
 |-|-|
 |Edad|21|
 |Distrito|San Borja|
 |Foto|![entrevista-2](/imgs/entrevista2.png)|
-|Timing: 07:01 - 11:34 |
+|Time | 07:01 - 11:34 |
 
 |Entevistado 3|Alejandra Gallo|
 |-|-|
 |Edad|21|
 |Distrito|Surco|
 |Foto|![entrevista-3](/imgs/entrevista3.png)|
-|Timing: 11:38 - 15:23 |
+|Time | 11:38 - 15:23 |
 
 |Entevistado 4|Nelson Correa|
 |-|-|
 |Edad|21|
 |Distrito|Villa el Salvador|
 |Foto|![entrevista-4](/imgs/entrevista4.png)|
-|Timing: 15:25 - 20:02 |
+|Time | 15:25 - 20:02 |
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
