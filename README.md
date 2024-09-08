@@ -177,6 +177,7 @@ En PeSoftware, nos dedicamos a crear soluciones que permiten el control y monito
 | Mi nombre es **Williams Jesús Góngora Castillejos** y soy estudiante del quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo. |![williams](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/williams.jpg)|
 | Mi nombre es **Renzo Zamir Revilla Quispe**, estudiante de la carrera de Ingenieria de Software, quinto ciclo. Cuento con un amplio conociemiento en programacion full stack y buena logica. En cuanto a mis habilidades blandas, soy bastante tolerante y me agrada el trabajo en equipo. Busco un buen desarrollo profesional en conjunto con el equipo de trabajo. |[renzorevq24](https://github.com/renzorevq24)|
 |Mi nombre es **Carlos Andres Leon Rioja**, actualmente tengo 21 años y soy estudiante de la carrera de Ingenieria de Software en la UPC. Considero que soy una persona con paciencia, amable y positiva sin embargo aveces soy obstinado y terco. Soy bueno en programacion full stack y se lenguajes como C++, C#, Java y Phython. Busco obtener mas conocimiento y habilidades para desarrollarme como programador full stack.|[Sr-Anonymus-maker](https://github.com/Sr-Anonymus-maker)|
+|Mi nombre es **Mauro Fabricio Lopez de la Cruz**, tengo 19 años y soy estudiante de la carrera ingeneria de software de la UPC y actualmente estoy cursando el quito ciclo . Tengo conocomiento en c++ , python, html ,css, javascript. Me considero una persona amable con capacidad de tener una muy buena comunnicacion en trabajos en grupo para el desarrollo de proyectos dando y ayudando en la solucion de problemas .|[file](https://github.com/user-attachments/assets/1b71c4fb-ee8e-4b0e-89c7-ffd7841631d9)|
 
 
 <div id="12"><h3>1.2. Solution Profile</h3></div>
@@ -361,12 +362,177 @@ Del mismo modo, consideramos como segmento objetivo a personas naturales que des
 
 <div id="2"><h1>Capítulo II: Requirements Elicitation & Analysis</h1></div>
 
-<div id="21"><h2>2.1. Competidores</h2></div>
-
 <div id="211"><h3>2.1.1. Análisis competitivo</h3></div>}
+
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Llevar a cabo un análisis de competidores es crucial para entender cómo se posiciona SmartFlow frente a otras empresas en el mercado. Este análisis permite identificar las fortalezas y debilidades de los competidores, las estrategias que emplean y las oportunidades y amenazas que existen en el mercado.
+</td>
+  </tr>
+  <tr>
+    <td colspan="5">.</td>
+  </tr>
+  <tr>
+    <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        SmartFlow
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="/Assent/img/DevDream-Logo.jpeg" alt="StartUp" width="60px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+    Schneider Electric
+    <div style="text-align: center; margin-top: 20px;">
+                <img src="/Assent/img/FarmLogs-Logo.jpg" alt="" width="100px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      Siemens AG
+      <div style="text-align: center; margin-top: 40px;">
+                <img src="/Assent/img/Herdwatch-Logo.png" alt="" width="200px">
+            </div>
+      </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      Nest
+      <div style="text-align: center; margin-top: 20px;">
+                <img src="/Assent/img/AgriWebb-Logo.jpg" alt="" width="610px">
+            </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">Startup especializada en la creación de soluciones tecnológicas que permiten el monitoreo y control en tiempo real del consumo de recursos como electricidad y agua, a través de su aplicación SmartFlow. Su enfoque principal es la sostenibilidad y la reducción de costos tanto para empresas como para consumidores residenciales.</td>
+    <td colspan="1" valign="top">Multinacional francesa que se especializa en la gestión de energía y automatización industrial. Ofrece soluciones integradas para el monitoreo y optimización de recursos energéticos y opera en múltiples sectores, incluyendo el industrial y residencial.
+</td>
+    <td colspan="1" valign="top">Empresa alemana líder en automatización industrial y digitalización. Siemens ofrece una amplia gama de soluciones tecnológicas para la gestión eficiente de energía y agua, con un enfoque en la industria y grandes infraestructuras.
+</td>
+    <td colspan="1" valign="top">Empresa estadounidense conocida por su enfoque en el mercado residencial. Nest ofrece productos de IoT para el hogar inteligente, con un énfasis en la automatización y el control del consumo energético a través de dispositivos como termostatos inteligentes.
+</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">PeSoftware se diferencia al ofrecer una solución escalable y accesible para empresas pequeñas y medianas, así como para hogares. SmartFlow se centra en la integración de dispositivos IoT para la captura de datos en tiempo real, lo que permite una gestión eficiente de recursos, alertas automáticas sobre irregularidades y una interfaz intuitiva y fácil de usar. Su enfoque accesible y adaptable le da ventaja frente a competidores que manejan soluciones más complejas o costosas.</td>
+    <td colspan="1" valign="top">Su principal ventaja es la integración de soluciones que combinan gestión de energía y automatización industrial, lo que permite a sus clientes optimizar sus operaciones de manera holística.
+</td>
+    <td colspan="1" valign="top">Siemens se destaca por su capacidad de ofrecer soluciones altamente tecnológicas y personalizables, respaldadas por su fuerte enfoque en la innovación y la digitalización.</td>
+    <td colspan="1" valign="top">Ofrece productos fáciles de usar y altamente accesibles, con un enfoque en la conveniencia del consumidor y una integración fluida con otros dispositivos de Google, como Google Home.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">Talleres, pequeñas y medianas empresas que buscan optimizar el consumo de electricidad y agua, y consumidores residenciales interesados en monitorear sus recursos para reducir costos y fomentar la sostenibilidad.</td>
+    <td colspan="1" valign="top">Grandes industrias, infraestructura crítica, y el sector energético.
+</td>
+    <td colspan="1" valign="top">Empresas industriales, infraestructuras públicas y privadas, y el sector energético.
+</td>
+    <td colspan="1" valign="top">Consumidores residenciales y propietarios de hogares interesados en la automatización del hogar y la eficiencia energética.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">PeSoftware utiliza una estrategia mixta, enfocada en marketing digital B2B y B2C. Se centra en la promoción a través de redes sociales, campañas digitales, y asociaciones con empresas del sector de eficiencia energética. También busca colaboraciones con asociaciones industriales y recomendaciones de clientes actuales para atraer nuevos usuarios.</td>
+    <td colspan="1" valign="top">Utiliza un enfoque B2B, con marketing directo a grandes empresas y gobiernos. También se enfoca en conferencias, ferias comerciales y asociaciones industriales.
+</td>
+    <td colspan="1" valign="top"> Se enfoca en la innovación y la sostenibilidad, utilizando marketing B2B a través de alianzas estratégicas, eventos industriales y marketing digital enfocado en la digitalización.</td>
+    <td colspan="1" valign="top">: Se enfoca en marketing B2C, utilizando principalmente publicidad digital, redes sociales, y campañas de marketing integradas con otros productos de Google para atraer a los consumidores.
+</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">PeSoftware ofrece SmartFlow, una plataforma de monitoreo de recursos que utiliza dispositivos IoT para rastrear y optimizar el consumo de electricidad y agua en tiempo real. Incluye funcionalidades como alertas personalizables, control de producción en entornos industriales, y gestión de turnos.</td>
+    <td colspan="1" valign="top">Soluciones de automatización industrial, gestión de energía, software de gestión de edificios y servicios de consultoría.
+</td>
+    <td colspan="1" valign="top">Automatización industrial, sistemas de gestión energética, soluciones de digitalización y software industrial.
+</td>
+    <td colspan="1" valign="top">Termostatos inteligentes, cámaras de seguridad, timbres inteligentes, y dispositivos de automatización para el hogar.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Precios & Costos</td>
+    <td colspan="1" valign="top">Ofrece planes de suscripción escalonados según las necesidades del cliente: el Plan Básico ($99/mes), el Plan Pro ($199/mes) y un Plan Empresarial personalizado para empresas más grandes. Los precios son accesibles y buscan ajustarse a pequeñas y medianas empresas, así como a hogares.</td>
+    <td colspan="1" valign="top">Sus soluciones son generalmente costosas, dirigidas a grandes empresas y proyectos industriales donde se justifica una alta inversión inicial por los ahorros a largo plazo.
+</td>
+    <td colspan="1" valign="top"> Ofrece una gama de productos con precios variables, desde soluciones premium para grandes empresas hasta productos más accesibles para pequeñas y medianas empresas.
+</td>
+    <td colspan="1" valign="top">Productos orientados al consumidor con precios moderados, haciendo énfasis en la accesibilidad y la relación costo-beneficio para los hogares.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">Venta directa a través de su sitio web y mediante asociaciones con empresas del sector energético. La plataforma está disponible tanto en web como en aplicaciones móviles, permitiendo un acceso fácil para todos los usuarios.</td>
+    <td colspan="1" valign="top">Distribución a través de socios y revendedores, con fuerte presencia en plataformas B2B y herramientas digitales de gestión</td>
+    <td colspan="1" valign="top"> Principalmente a través de ventas directas, distribuidores industriales y plataformas digitales para grandes empresas</td>
+    <td colspan="1" valign="top"> Ventas a través de su sitio web, Google Store, y grandes minoristas tanto físicos como en línea, con aplicaciones móviles para control y monitoreo.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="5"><p>Análisis SWOT</p></td>
+    <td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">PeSoftware ofrece una solución accesible tanto para pequeñas y medianas empresas como para hogares, lo que le permite llegar a un amplio espectro de clientes que buscan optimizar su consumo de recursos de manera sencilla y eficiente. Su enfoque en la sostenibilidad y la gestión en tiempo real le da un atractivo especial en un mercado que busca cada vez más soluciones eco-amigables.</td>
+    <td colspan="1" valign="top"> Amplia experiencia y presencia global en la gestión de energía y automatización industrial.
+</td>
+    <td colspan="1" valign="top"> Innovación continua y capacidad para ofrecer soluciones tecnológicamente avanzadas y altamente personalizables.</td>
+    <td colspan="1" valign="top">Integración perfecta con otros productos de Google y enfoque en la experiencia del usuario final.
+      </td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">PeSoftware enfrenta el desafío de competir con grandes empresas establecidas como Schneider Electric y Siemens, que ya cuentan con una sólida reputación y confianza en el mercado. Esta falta de reconocimiento puede hacer más difícil la entrada a ciertos segmentos del mercado.</td>
+    <td colspan="1" valign="top"> Alta complejidad y costo de sus soluciones, lo que puede limitar su accesibilidad a empresas más pequeñas</td>
+    <td colspan="1" valign="top"> Pueden ser percibidos como soluciones costosas y complicadas de implementar, especialmente para pequeñas empresas.
+</td>
+    <td colspan="1" valign="top">Su enfoque en el mercado residencial puede limitar su atractivo en el sector industrial o comercial</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">El mercado presenta una creciente demanda de soluciones sostenibles y accesibles para la gestión eficiente de recursos, tanto en el sector residencial como en el empresarial, lo que crea una oportunidad perfecta para PeSoftware.</td>
+    <td colspan="1" valign="top">Crecimiento en mercados emergentes y expansión en soluciones digitales y sostenibles.
+</td>
+    <td colspan="1" valign="top">Aumento de la demanda por soluciones de digitalización y automatización en sectores industriales.
+</td>
+    <td colspan="1" valign="top">Expansión en el mercado de hogares inteligentes y colaboración con otros productos tecnológicos para mejorar la experiencia del usuario.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">PeSoftware se enfrenta a una competencia intensa de empresas consolidadas como Schneider Electric y Siemens, que tienen más recursos y experiencia en el mercado. La rápida evolución de la tecnología también es una amenaza, ya que mantenerse a la vanguardia de la innovación en IoT es crucial para evitar quedar rezagado en un mercado tan dinámico</td>
+    <td colspan="1" valign="top">Competencia creciente en el sector de la energía y la automatización por parte de nuevos actores tecnológicos</td>
+    <td colspan="1" valign="top">Cambios regulatorios y económicos que podrían afectar la inversión en infraestructura y digitalización.
+</td>
+    <td colspan="1" valign="top"> Competencia intensa en el mercado de dispositivos inteligentes y el riesgo de obsolescencia tecnológica
+</td>
+  </tr>
+</table>
 
 
 <div id="212"><h3>2.1.2. Estrategias y tácticas frente a competidores</h3></div>
+
+## 2.1.2. Estrategias y tácticas frente a competidores
+
+### Estrategia 1: Diferenciación y Accesibilidad
+**Estrategia:** SmartFlow se posicionará como una alternativa más accesible y personalizable frente a competidores como Schneider Electric y Siemens AG, enfocándose en pequeñas y medianas empresas (PYMES) y hogares que buscan soluciones eficientes sin los altos costos y complejidad de los grandes proveedores.
+
+**Tácticas:**
+
+- Ofrecer paquetes modulares y escalables que se adapten a diferentes necesidades y presupuestos, facilitando la adopción inicial con opciones de suscripción y pago por uso.
+- Resaltar la simplicidad y facilidad de uso de SmartFlow en las campañas de marketing, comparando directamente con las soluciones más complejas de los competidores.
+- Aprovechar canales de distribución digitales, optimizando el sitio web para SEO y SEM, y desarrollando una fuerte presencia en redes sociales y marketing de contenidos.
+- Implementar una política de precios competitiva, ofreciendo opciones asequibles y destacando los ahorros a largo plazo que los clientes pueden obtener con SmartFlow.
+
+### Estrategia 2: Innovación y Sostenibilidad
+**Estrategia:** Para enfrentar la competencia de Nest y otros grandes jugadores, SmartFlow debe centrarse en la innovación tecnológica y la sostenibilidad, ofreciendo una plataforma que no solo monitoriza en tiempo real, sino que también predice patrones de consumo y promueve un uso responsable de los recursos.
+
+**Tácticas:**
+
+- Desarrollar funciones avanzadas de IoT y análisis predictivo que permitan a los usuarios optimizar su consumo de manera automática y personalizada.
+- Integrar SmartFlow con otros dispositivos inteligentes para crear un ecosistema que optimice el uso de recursos y mejore la experiencia del usuario.
+- Asociarse con programas de sostenibilidad para obtener certificaciones ecológicas y fortalecer la credibilidad de la marca.
+- Comunicar los beneficios ambientales de SmartFlow, enfocándose en la reducción de la huella de carbono y la preservación de recursos naturales, para captar a un público cada vez más consciente de la sostenibilidad.
+
 
 <div id="22"><h2>2.2. Entrevistas</h2></div>
 
