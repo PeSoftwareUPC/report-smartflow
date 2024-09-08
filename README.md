@@ -1586,7 +1586,27 @@ URL de despliegue de la Landing Page: https://pesoftwareupc.github.io/
 ![paso3-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Paso3-page.png)
 *Imagen: Deployment del Landing Page*
 
+<div id="5218"><h4>5.2.1.8. Team Collaboration Insights during Sprint</h4></div>
 
+La asignación de tareas para la implementación se dividió por secciones, donde cada miembro del equipo fue responsable de desarrollar una parte de la landing page:
+
+* Quiñones Tintaya, Johan Jorge: Estilos de toda la parte pricipal del landing page
+
+* Lopez de la Cruz Mauro Fabricio: Creacion de los archivos login y dashboard en html
+
+* Carlos Andres, Leon Rioja: Estilos de las secciones de login y dashboard
+
+* Revilla Quispe, Renzo Zamir: Creacion de los scripts en js de todo el programa del landing page
+
+* Gongora Castillejos, Williams Jesus: Creacion de todas las secciones de la pagina principal del landing page, index.html
+
+![evidencia 1](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/TeamCollaboration.png)
+*Imagen: Evidencia Team Collaborations*
+
+![evidencia 2](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/TeamCollaboration2.png)
+*Imagen: Evidencia Team Collaborations*
+
+<br>
 
 
 <div id="conclusiones"><h1>conclusiones</h1></div>
