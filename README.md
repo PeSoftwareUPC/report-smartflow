@@ -885,6 +885,8 @@ En esta sección, presentamos los "To-Be Scenario Maps" para dos User Personas c
 
 <div id="34"><h2>3.4. Product Backlog</h2></div>
 
+Product Backlog in Jira URL: https://quinonesjorge83.atlassian.net/jira/software/projects/SCRUM/boards/1?sprintStarted=true&atlOrigin=eyJpIjoiYjM3OWU0OTQxNDUxNDZiODg3MTFkOGZhN2JhNmM5OGQiLCJwIjoiaiJ9
+
 | #  | User Story Id | Título                                 | Descripción                                                                                                                                   | Story Points |
 |----|---------------|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | 1  | US001         | Ver dashboard de consumo total         | Como gerente de producción, quiero ver un dashboard con el consumo total de recursos.                                                         | 5            |
