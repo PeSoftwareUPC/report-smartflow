@@ -1452,6 +1452,50 @@ Description: Programar la redirección automática del usuario al dashboard pers
 
 
 
+<div id="5213"><h4>5.2.1.3. Development Evidence for Sprint Review</h4></div>
+
+Se realizaron los avances con los commits correspondiente en el repositorio de la siguiente forma.
+
+Repositorio Landing Page: https://github.com/PeSoftwareUPC/pesoftwareupc.github.io.git
+
+
+|Repository|Branch|Commit Id|Commit Message|Commited on (Date)|
+|--|--|--|--|--|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/home|97710d7|feat: create structure, header and footer|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|617471b|Merge pull request #1 from PeSoftwareUPC/develop|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/features|e4c27d8|feat: add hero section and features|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|35b24b6|Merge pull request #3 from PeSoftwareUPC/feature/features|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/benefits|7a23f12|feat: add benefits|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|a5f8c39|Merge pull request #4 from PeSoftwareUPC/feature/benefits|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/testimonials|26fbbf7|feat: add testimonials|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|298a25b|Merge pull request #5 from PeSoftwareUPC/feature/testimonials|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/subscriptions|abf4655|feat: add subscriptions|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|97485c9|Merge pull request #7 from PeSoftwareUPC/feature/subscriptions|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/contact|e1ef64e|feat: add contact form|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|d21572f|Merge pull request #8 from PeSoftwareUPC/feature/contact/feature/subscriptions|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/features|175edbb|style: add styles for features|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|ba90cec|Merge pull request #6 from PeSoftwareUPC/feature/features|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/testimonials|df8299d|style: add styles for testimonials feature|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|a55fc55|Merge pull request #11 from PeSoftwareUPC/feature/testimonials|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/subscriptions|bd68b14|style: add styles for subscription feature|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|9e89ddf|Merge pull request #12 from PeSoftwareUPC/feature/subscriptions|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/contact|b98c3a7|style: add styles por contact feature|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|34027f4|Merge pull request #13 from PeSoftwareUPC/feature/contact|06/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/dashboard|aa61202|feat: add dashboard|07/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|5d0c59e|Merge pull request #15 from PeSoftwareUPC/feature/dashboard|07/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/login|f292ac5|feat: add login.html|07/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|fce2b3d|Merge pull request #16 from PeSoftwareUPC/feature/login|07/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/login|9742307|feat: add login-script.js|07/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|4d0954f|Merge pull request #19 from PeSoftwareUPC/feature/login|08/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/dashboard|7310a70|feat: add dashboard-scripts.js|07/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|30bc102|Merge pull request #18 from PeSoftwareUPC/feature/dashboard|08/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/home|96eb2f3|feat: add main-scripts.js|07/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|7336e74|Merge pull request #17 from PeSoftwareUPC/feature/home|08/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/dashboard|2ab350a|styles: add styles for dashboard feature|08/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|5bf9193|Merge pull request #20 from PeSoftwareUPC/feature/dashboard|08/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|feature/login|246c69b|styles: add styles for login feature|08/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|develop|46181cc|Merge pull request #21 from PeSoftwareUPC/feature/login|08/09/2024|
+|PeSoftwareUPC/pesoftwareupc.github.io|main|2d0edca|Merge pull request #23 from PeSoftwareUPC/develop|08/09/2024|
 
 <div id="5214"><h4>5.2.1.4. Testing Suite Evidence for Sprint Review</h4></div>
 
