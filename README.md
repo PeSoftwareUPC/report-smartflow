@@ -921,7 +921,7 @@ En esta sección, presentamos los "To-Be Scenario Maps" para dos User Personas c
 | 32 | US032         | Conectar nuevos dispositivos IoT       | Como técnico de mantenimiento, quiero conectar nuevos dispositivos IoT al sistema de monitoreo.                                                    | 5            |
 | 33 | US033         | Exportar datos a BI                    | Como analista de datos, quiero exportar datos de consumo a nuestra herramienta de BI.                                                             | 3            |
 | 34 | US034         | Acceder a API para desarrolladores     | Como desarrollador externo, quiero acceder a una API para integrar datos de consumo en aplicaciones de terceros.                                  | 5            |
-| 35 | US035         | Sincronizar con sistema CMMS           | Como jefe de mantenimiento, quiero sincronizar los datos de consumo y alertas con nuestro sistema CMMS. |                                           | 5            |
+| 35 | US035         | Sincronizar con sistema CMMS           | Como jefe de mantenimiento, quiero sincronizar los datos de consumo y alertas con nuestro sistema CMMS. |                         5                  |
 
 <div id="4"><h1>Capítulo IV: Product Design</h1></div>
 <div id="41"><h2>4.1. Style Guidelines</h2></div>
