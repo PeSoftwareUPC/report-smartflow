@@ -1014,24 +1014,19 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 |                        | `updatePlan(): void` - Update the user's subscription plan|
 
 
-## 4.8. Database Design
-<a name="48"></a>
-### 4.8.1. Database Diagram
-<a name="481"></a>
+<div id="48"><h2>4.8. Database Design</h2></div>
+<div id="481"><h3>4.8.1. Database Diagram</h3></div>
 
 ![diagrama_base_de_datos](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/SmartFlow-DataBase.png)
-*Imagen: Diagrama de la Base de Datos*
 
 
 
-## 5.2. Landing Page, Services & Applications Implementation
-<a name="52"></a>
-### 5.2.1. Sprint 1
-<a name="521"></a>
-#### 5.2.1.1. Sprint Planning 1
-<a name="5211"></a>
+<div id="52"><h2>5.2. Landing Page, Services & Applications Implementation</h2></div>
+<div id="521"><h3>5.2.1. Sprint 1</h3></div>
+<div id="5211"><h4>5.2.1.1. Sprint Planning 1</h4></div>
 
 El primer sprint se planificó durante una reunión en Meet. Para ello, se creó una tabla para documentar la información discutida.
+
 
 |Sprint #                          |Sprint 1|
 |----                              |-----|
@@ -1040,7 +1035,7 @@ El primer sprint se planificó durante una reunión en Meet. Para ello, se creó
 |Time                              |05:00 PM|
 |Location                          |Virtual (Google Meet)|
 |Prepared by                       |Gongora Castillejos, Williams Jesus|
-|Attendees (to planning meeting)   |Gongora Castillejos, Williams Jesus</br></br>Taquir Calderon , Jhunior Giussepe</br></br>De La Cruz Moreno, Roy Hernan</br></br>Silva Tirado, Sebastian Valentino</br></br> Guerrero Vasquez, Jhon Danny|
+|Attendees (to planning meeting)   |Gongora Castillejos, Williams Jesus</br></br>Quiñones Tintaya, Johan Jorge</br></br>Carlos Andres, Leon Rioja</br></br>Revilla Quispe, Renzo Zamir</br></br> opez de la Cruz Mauro Fabricio|
 |Sprint n - 1 Review Summary       |No hubo sprint anterior|
 |Sprint n - 1 Retrospective Summary|No hubo sprint anterior|
 |**Sprint Goal & User Stories**        ||
@@ -1049,8 +1044,8 @@ El primer sprint se planificó durante una reunión en Meet. Para ello, se creó
 |Sum of Story Points               |20|
 
 
-#### 5.2.1.2. Sprint Backlog 1
-<a name="5212"></a>
+<div id="5212"><h4>5.2.1.2. Sprint Backlog 1</h4></div>
+
 
 El propósito de este primer sprint es la implementación de una Landing Page estática. Además, se utilizó una tabla en Trello para gestionar los Work-Items de manera eficiente.
 
@@ -1083,7 +1078,7 @@ El propósito de este primer sprint es la implementación de una Landing Page es
     <td> Implementación del formulario de contacto</td>
     <td>Implementar un formulario de contacto funcional con validación de campos obligatorios y un mensaje de confirmación de envío</td>
     <td>2 horas</td>
-    <td>Williams Gongora</td>
+    <td>Williams Gongora</br>Johan Quiñones</td>
     <td>Done</td>
   </tr>
   <!-- US022 -->
@@ -1094,7 +1089,7 @@ El propósito de este primer sprint es la implementación de una Landing Page es
     <td>Implementación de la sección de testimonios</td>
     <td>Implementar una sección en la landing page que muestre testimonios verificados con imágenes de clientes, organizada visualmente</td>
     <td>2 horas</td>
-    <td>Jhunior Taquir</td>
+    <td>Williams Gongora</br>Johan Quiñones</td>
     <td>Done</td>
   </tr>
   <!-- US023 -->
@@ -1105,7 +1100,7 @@ El propósito de este primer sprint es la implementación de una Landing Page es
     <td>Implementación de la lista de características del producto</td>
     <td>Se implementa la sección sobre las principales características del producto, utilizando imagenes y descripciones detalladas para cada una.</td>
     <td>2 horas</td>
-    <td>Roy De La Cruz</td>
+    <td>Williams Gongora</br>Johan Quiñones</td>
     <td>Done</td>
   </tr>
   
@@ -1115,7 +1110,7 @@ El propósito de este primer sprint es la implementación de una Landing Page es
     <td>Implementación de la lista de beneficios del producto</td>
     <td>Se implementa una sección sobre los principales beneficios de nuestro producto.</td>
     <td>2 horas</td>
-    <td>Sebastian Silva</td>
+    <td>Williams Gongora</br>Johan Quiñones</td>
     <td>Done</td>
   </tr>
   
@@ -1128,7 +1123,7 @@ El propósito de este primer sprint es la implementación de una Landing Page es
     <td>Implementación de la tabla comparativa de planes de precios
 Description: Implementar una tabla que compare los diferentes planes de precios, con detalles de las características y costos de cada uno</td>
     <td>2 horas</td>
-    <td>Jhon Guerrero</td>
+    <td>Williams Gongora</br>Johan Quiñones</td>
     <td>Done</td>
   </tr>
   <!-- US025 -->
@@ -1140,7 +1135,7 @@ Description: Implementar una tabla que compare los diferentes planes de precios,
     <td>Implementación de animaciones interactivas
 Description: Implementar animaciones fluidas y responsivas en diferentes secciones de la página para mejorar la experiencia del usuario</td>
     <td>2 horas</td>
-    <td>Wiliams Gongora</td>
+    <td>Renzo Revilla</td>
     <td>Done</td>
   </tr>
   <!-- US026 -->
@@ -1152,8 +1147,26 @@ Description: Implementar animaciones fluidas y responsivas en diferentes seccion
     <td>Implementación de redirección al dashboard
 Description: Programar la redirección automática del usuario al dashboard personalizado tras iniciar sesión exitosamente</td>
     <td>2 horas</td>
-    <td>Wiliams Gongora</td>
+    <td>Fabricio Lopez</br>Carlos Leon</td>
     <td>Done</td>
   </tr>
 </table>
 
+
+
+
+<div id="5214"><h4>5.2.1.4. Testing Suite Evidence for Sprint Review</h4></div>
+
+Se llevaron a cabo las pruebas de aceptación para las historias de usuario implementadas, empleando el lenguaje Gherkin en archivos feature. Estas pruebas fueron documentadas y almacenadas en el repositorio.
+
+Repositorio de Pruebas de Aceptación:
+
+|Repository|Branch|Commit Id|Commit Message|Commited on (Date)|
+|--|--|--|--|--|
+|PeSoftwareUPC/AcceptanceTests|main|e02ad1e|feat: added feature file for US21|05/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|82bb1fb|feat: added feature file for US22|05/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|4716b72|feat: added feature file for US23-TS03|05/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|edee1c0|feat: added feature file for US23-TS04|05/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|75bd1c0|feat: added feature file for US24|05/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|225327f|feat: added feature file for US25|05/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|12186d7|feat: added feature file for US26|05/09/2024|
