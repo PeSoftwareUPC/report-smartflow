@@ -1159,7 +1159,7 @@ Description: Programar la redirección automática del usuario al dashboard pers
 
 Se llevaron a cabo las pruebas de aceptación para las historias de usuario implementadas, empleando el lenguaje Gherkin en archivos feature. Estas pruebas fueron documentadas y almacenadas en el repositorio.
 
-Repositorio de Pruebas de Aceptación:
+Repositorio de Pruebas de Aceptación: https://github.com/PeSoftwareUPC/AcceptanceTests.git
 
 |Repository|Branch|Commit Id|Commit Message|Commited on (Date)|
 |--|--|--|--|--|
@@ -1170,3 +1170,53 @@ Repositorio de Pruebas de Aceptación:
 |PeSoftwareUPC/AcceptanceTests|main|75bd1c0|feat: added feature file for US24|05/09/2024|
 |PeSoftwareUPC/AcceptanceTests|main|225327f|feat: added feature file for US25|05/09/2024|
 |PeSoftwareUPC/AcceptanceTests|main|12186d7|feat: added feature file for US26|05/09/2024|
+
+
+
+<div id="5215"><h4>5.2.1.5. Execution Evidence for Sprint Review</h4></div>
+
+En esta parte se presentará el progreso alcanzado durante el primer sprint, enfocado en la implementación de la Landing Page estática. Para ilustrar este avance, se ha creado el siguiente video, que incluye una explicación y capturas que evidencian el desarrollo de la página web.
+
+URL del video: [Video Landing Page](https://drive.google.com/file/d/1x7sWsRh-ie01PDHmFpaDi13PdFOh3OCm/view?usp=sharing)
+
+* Implementamos la seccion principal
+
+![Hero seccion](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/principal.png)
+*Imagen: Seccion Principal*
+
+* Implementación del formulario de contacto
+
+![formulario de contacto](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Contactos.png)
+*Imagen: Formulario de Contacto*
+
+* Implementación de la sección de testimonios
+
+![sección de testimonios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/testimonios.png)
+*Imagen: Testimonios*
+
+* Implementación de la lista de características del producto
+
+![características](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/caracteristicas.png)
+*Imagen: Características*
+
+* Implementación de la lista de beneficios del producto
+
+![beneficios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/beneficios.png)
+*Imagen: Beneficios*
+
+* Ver diferentes planes de precios
+
+![planes de precios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/planes.png)
+*Imagen: Planes*
+
+* Implementamos el inicio de sesion
+
+![incio-sesion](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/iniciar-sesion.png)
+*Imagen: Inicio de Sesion*
+
+* Acceder al dashboard después de iniciar sesión
+
+![dashboard](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/dashboard.png)
+*Imagen: DashBoard*
+
+</br></br>
