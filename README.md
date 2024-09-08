@@ -1567,6 +1567,24 @@ URL del video: [Video Landing Page](https://drive.google.com/file/d/1x7sWsRh-ie0
 
 Durante este primer sprint, nos enfocamos únicamente en la creación de la Landing Page estática, por lo que no se trabajó con servicios web. Como resultado, en esta ocasión no se elaboró la documentación correspondiente al uso de servicios web.
 
+<div id="5217"><h4>5.2.1.7. Software Deployment Evidence for Sprint Review</h4></div>
+
+Al finalizar el trabajo con todas las historias de usuario, realizamos el despliegue de la Landing Page utilizando GitHub Pages.
+
+URL de despliegue de la Landing Page: https://pesoftwareupc.github.io/
+
+* Para realizar el despliegue, accedimos a la configuración del repositorio y navegamos a la sección de Pages. Posteriormente, seleccionamos la rama main desde la cual se llevará a cabo el deployment.
+
+![paso1-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Paso1-page.png)
+*Imagen: Configuracion de rama*
+
+* Finalmente, solo queda esperar a que GitHub genere la página y proporcione el enlace correspondiente.
+
+![paso2-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Paso2-page.png)
+*Imagen: Creacion de url*
+
+![paso3-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Paso3-page.png)
+*Imagen: Deployment del Landing Page*
 
 
 
