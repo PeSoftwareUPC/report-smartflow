@@ -649,23 +649,33 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 | Entrevistas URL | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_upc_edu_pe/EQfoahdfxrpDqGJ6X8FaYdYBPceb4e2WtIDuTENtdNOQ1Q?e=Q9Xef1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
 
-**Entrevista a dueños de talleres y/o fábricas.**
-
-|Entevistado 1|wii|
+|Entevistado 1|Luis Espiritu|
 |-|-|
-|Edad|wuii|
-|Distrito|isdds|
-|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
-|Timing: 0:07-15:15 |
+|Edad|17|
+|Distrito|Surco|
+|![](/imgs/entrevista1.png)|
+|Timing: 0:03 - 07:01 |
 
-**Entrevista a dueños de hogar que poseen consumo de agua y luz.**
-
-|Entevistado 1|wii|
+|Entevistado 2|Christian Matos|
 |-|-|
-|Edad|wuii|
-|Distrito|isdds|
-|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
-|Timing: 0:07-15:15 |URL:-- |
+|Edad|21|
+|Distrito|San Borja|
+|![](/imgs/entrevista2.png)|
+|Timing: 07:01 - 11:34 |
+
+|Entevistado 3|Alejandra Gallo|
+|-|-|
+|Edad|21|
+|Distrito|Surco|
+|![](/imgs/entrevista3.png)|
+|Timing: 11:38 - 15:23 |
+
+|Entevistado 4|Nelson Correa|
+|-|-|
+|Edad|21|
+|Distrito|Villa el Salvador|
+|![](/imgs/entrevista4.png)|
+|Timing: 15:25 - 20:02 |
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
