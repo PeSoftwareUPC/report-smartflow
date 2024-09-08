@@ -1319,6 +1319,8 @@ Para el despliegue de SmartFlow, hemos utilizado una configuración simple basad
 
 Esta configuración de despliegue simplificada nos permite mantener nuestro sitio web de manera eficiente, aprovechando las capacidades de GitHub para el alojamiento y el control de versiones. El uso de Live Server durante el desarrollo nos proporciona un flujo de trabajo ágil, permitiéndonos ver los cambios instantáneamente antes de subirlos al repositorio.
 
+<br>
+
 <div id="52"><h2>5.2. Landing Page, Services & Applications Implementation</h2></div>
 <div id="521"><h3>5.2.1. Sprint 1</h3></div>
 <div id="5211"><h4>5.2.1.1. Sprint Planning 1</h4></div>
@@ -1341,6 +1343,8 @@ El primer sprint se planificó durante una reunión en Meet. Para ello, se creó
 |Sprint 1 Velocity                 |20|
 |Sum of Story Points               |20|
 
+
+<br>
 
 <div id="5212"><h4>5.2.1.2. Sprint Backlog 1</h4></div>
 
@@ -1521,40 +1525,56 @@ En esta parte se presentará el progreso alcanzado durante el primer sprint, enf
 
 URL del video: [Video Landing Page](https://drive.google.com/file/d/1x7sWsRh-ie01PDHmFpaDi13PdFOh3OCm/view?usp=sharing)
 
+<br>
+
 * Implementamos la seccion principal
 
 ![Hero seccion](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/principal.png)
 *Imagen: Seccion Principal*
+
+<br>
 
 * Implementación del formulario de contacto
 
 ![formulario de contacto](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Contactos.png)
 *Imagen: Formulario de Contacto*
 
+<br>
+
 * Implementación de la sección de testimonios
 
 ![sección de testimonios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/testimonios.png)
 *Imagen: Testimonios*
+
+<br>
 
 * Implementación de la lista de características del producto
 
 ![características](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/caracteristicas.png)
 *Imagen: Características*
 
+<br>
+
 * Implementación de la lista de beneficios del producto
 
 ![beneficios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/beneficios.png)
 *Imagen: Beneficios*
+
+<br>
 
 * Ver diferentes planes de precios
 
 ![planes de precios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/planes.png)
 *Imagen: Planes*
 
+<br>
+
 * Implementamos el inicio de sesion
 
 ![incio-sesion](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/iniciar-sesion.png)
 *Imagen: Inicio de Sesion*
+
+<br>
 
 * Acceder al dashboard después de iniciar sesión
 
@@ -1573,18 +1593,28 @@ Al finalizar el trabajo con todas las historias de usuario, realizamos el despli
 
 URL de despliegue de la Landing Page: https://pesoftwareupc.github.io/
 
+<br>
+
 * Para realizar el despliegue, accedimos a la configuración del repositorio y navegamos a la sección de Pages. Posteriormente, seleccionamos la rama main desde la cual se llevará a cabo el deployment.
 
 ![paso1-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Paso1-page.png)
 *Imagen: Configuracion de rama*
 
+<br>
+
 * Finalmente, solo queda esperar a que GitHub genere la página y proporcione el enlace correspondiente.
+
+
 
 ![paso2-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Paso2-page.png)
 *Imagen: Creacion de url*
 
+<br>
+
 ![paso3-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Paso3-page.png)
 *Imagen: Deployment del Landing Page*
+
+<br>
 
 <div id="5218"><h4>5.2.1.8. Team Collaboration Insights during Sprint</h4></div>
 
@@ -1600,8 +1630,12 @@ La asignación de tareas para la implementación se dividió por secciones, dond
 
 * Gongora Castillejos, Williams Jesus: Creacion de todas las secciones de la pagina principal del landing page, index.html
 
+<br>
+
 ![evidencia 1](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/TeamCollaboration.png)
 *Imagen: Evidencia Team Collaborations*
+
+<br>
 
 ![evidencia 2](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/TeamCollaboration2.png)
 *Imagen: Evidencia Team Collaborations*
@@ -1609,7 +1643,7 @@ La asignación de tareas para la implementación se dividió por secciones, dond
 <br>
 
 
-<div id="conclusiones"><h1>conclusiones</h1></div>
+<div id="conclusiones"><h1>Conclusiones</h1></div>
 
 En este primer entregable de la startup enfocada en el ahorro de luz y agua, así como en la mejora de la producción en un taller, es fundamental establecer una comunicación efectiva. Una comunicación clara entre desarrolladores y colaboradores no solo mejora la calidad del trabajo, sino que también facilita la resolución rápida de problemas.
 
