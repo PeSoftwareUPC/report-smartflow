@@ -638,6 +638,26 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 9.	¿Qué características o funcionalidades serían imprescindibles en una herramienta diseñada para monitorear la productividad de tu negocio?
 10.	¿Cómo preferirías recibir informes sobre la productividad de tu taller o fábrica (por ejemplo, aplicaciones móviles, correos electrónicos, plataformas web)?
 
+<div id="222"><h3>2.2.2. Registro de entrevistas</h3></div>
+
+**Entrevista a dueños de talleres y/o fábricas.**
+
+|Entevistado 1|wii|
+|-|-|
+|Edad|wuii|
+|Distrito|isdds|
+|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
+|Timing: 0:07-15:15 |
+
+**Entrevista a dueños de hogar que poseen consumo de agua y luz.**
+
+|Entevistado 1|wii|
+|-|-|
+|Edad|wuii|
+|Distrito|isdds|
+|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
+|Timing: 0:07-15:15 |URL:-- |
+
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
 
