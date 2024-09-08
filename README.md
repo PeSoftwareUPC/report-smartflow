@@ -1018,12 +1018,6 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 
 <strong>Navegación adaptativa:</strong> La interfaz se adapta tanto a dispositivos de escritorio como móviles, ajustando la disposición de los elementos según el tamaño de la pantalla para garantizar una experiencia consistente en todas las plataformas.
 
-<div id="43"><h3>4.3. Landing Page UI Design</h3></div>
-
-<div id="431"><h3>4.3.1. Landing Page Wireframe</h3></div>
-
-<div id="432"><h3>4.3.2. Landing Page Mock-up</h3></div>
-
 <div id="44"><h3>4.4. Web Applications UX/UI Design</h3></div>
 <div id="441"><h3>4.4.1. Web Applications Wireframes</h3></div>
 
