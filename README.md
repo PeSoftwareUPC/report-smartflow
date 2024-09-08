@@ -680,6 +680,14 @@ Entrevistas URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_up
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
 
+En el análisis de estas entrevistas, se observa una tendencia común entre los entrevistados: la mayoría gestiona la productividad de sus talleres o fábricas de manera manual, utilizando planillas o registros en Excel. Este método es percibido como poco eficiente, con frecuentes errores y un acceso limitado a datos precisos. La principal preocupación es la falta de datos en tiempo real, lo que dificulta la identificación de ineficiencias, tiempos muertos y problemas en las máquinas.
+
+Otro punto crítico mencionado por los entrevistados es la ausencia de herramientas automatizadas que les permitan recopilar y analizar información sin interrumpir las operaciones del taller. Aunque el uso de planillas ha funcionado hasta ahora, los entrevistados reconocen la necesidad de un sistema más avanzado para mejorar la eficiencia y reducir costos.
+
+Muchos entrevistados están interesados en soluciones que proporcionen datos en tiempo real, alertas sobre el rendimiento de las máquinas y reportes automáticos. Valoran herramientas que ofrezcan fácil integración con los sistemas existentes y que sean intuitivas para su equipo, destacando que el costo inicial, el potencial ahorro y el retorno de inversión (ROI) son factores clave para considerar una nueva tecnología.
+
+Finalmente, los entrevistados priorizan funcionalidades como análisis detallados del uso de recursos (agua, electricidad), seguimiento del rendimiento de las máquinas y acceso a reportes a través de aplicaciones móviles o plataformas web. Estas funcionalidades les permitirían tomar decisiones más informadas y rápidas, mejorando la productividad de sus talleres y optimizando los recursos disponibles.
+
 <div id="23"><h2>2.3. Needfinding</h2></div>
 <div id="231"><h3>2.3.1. User Personas</h3></div>
 
