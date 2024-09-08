@@ -739,7 +739,7 @@ En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando u
 ![empathymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Jesus.png)
 *Imagen: Empathy Map Jesus*
 
-## 2.3.5. As-Is Scenario Mapping
+<div id="235"><h3>2.3.5. As-is Mapping</h3></div>
 
 En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas clave: **Pedro Gonzales** y **Jesús Castillo**. Estos mapas reflejan las situaciones actuales y las experiencias de ambos individuos en sus respectivas circunstancias profesionales.
 
@@ -759,7 +759,7 @@ En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas c
 | **Thinking**      | "¿Por qué ha subido tanto mi factura este mes? No he cambiado mis hábitos." | "No sé exactamente dónde estoy consumiendo más agua o electricidad." | "Necesito una forma más precisa de monitorear el consumo y evitar sorpresas." |
 | **Feeling**       | Preocupado por el impacto en su presupuesto mensual. | Frustrado por no poder identificar las causas del incremento. | Esperanzado en reducir sus costos, pero frustrado por la falta de control diario. |
 
-## 2.4. Ubiquitous Language
+<div id="24"><h3>2.4. Ubiquitous Language</h3></div>
 
 1. **Consumption Monitoring (Monitoreo de Consumo)**: El proceso de seguimiento y medición en tiempo real del uso de recursos como electricidad y agua a través de dispositivos IoT conectados a la aplicación SmartFlow.
 
