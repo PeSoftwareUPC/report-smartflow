@@ -55,14 +55,14 @@ width=30%"/>
 
 |Versión|Fecha|Autor|Descripción de modificación|
 |:-:|:-:|:-:|:-:|
-|TB1|08/09/2024|Autor1|Creación del documento de trabajo en formato markdown|
+|TB1|08/09/2024|Gongora Castillejos, Williams Jesus</br></br>Quiñones Tintaya, Johan Jorge</br></br>Carlos Andres, Leon Rioja</br></br>Revilla Quispe, Renzo Zamir</br></br> opez de la Cruz Mauro Fabricio|Creación del documento de trabajo en formato markdown, capítulo I, capítulo II, capítulo III, capítulo IV y capítulo V    |
 
 </br></br>
 
 ## Project Report Collaboration Insights
 
 
-Enlace de la organización para el reporte del proyecto: 
+Enlace de la organización para el reporte del proyecto: https://github.com/PeSoftwareUPC
 
 **TB1**
 
@@ -215,8 +215,8 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|--------------------------|------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | Gongora Castillejos, Williams <br> **TB1:** <br> - <br> - <br> - <br> - | .........|
-| Comunica por escrito con efectividad a diferentes rangos de audiencia  | | .........|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | Gongora Castillejos, Williams <br> **TB1:** Durante la presentación de la problemática y la solución SmartFlow en la reunión del equipo, expuse claramente el perfil de la startup, los antecedentes y la propuesta técnica.<br> - <br> - <br> - <br> - | Como equipo, logramos hacer presentaciones claras y efectivas, lo que permitió que todos los involucrados, incluso aquellos sin conocimientos técnicos, comprendieran la propuesta y su importancia. Esto mostró nuestra capacidad para comunicarnos bien con diferentes tipos de audiencia.|
+| Comunica por escrito con efectividad a diferentes rangos de audiencia  | Gongora Castillejos, Williams <br> **TB1:** Me encargué de redactar el Capítulo I del informe, que incluye los antecedentes, la problemática y el diseño de la base de datos. Aimismo, inclui las pautas para la elaboracion de las tareas en el sprint 1 <br> - <br> - <br> - <br> - | En general, el informe final mostró que pudimos comunicar tanto información técnica como no técnica de forma clara y precisa. El documento se organizó de manera que fuera fácil de entender para personas con distintos niveles de conocimiento, lo que garantizó que todos comprendieran bien el proyecto y las secciones que le toco a cada estudiante.|
 
 <br>
 
