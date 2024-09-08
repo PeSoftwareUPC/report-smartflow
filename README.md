@@ -1021,3 +1021,29 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 
 ![diagrama_base_de_datos](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/SmartFlow-DataBase.png)
 *Imagen: Diagrama de la Base de Datos*
+
+
+
+## 5.2. Landing Page, Services & Applications Implementation
+<a name="52"></a>
+### 5.2.1. Sprint 1
+<a name="521"></a>
+#### 5.2.1.1. Sprint Planning 1
+<a name="5211"></a>
+
+El primer sprint se planificó durante una reunión en Meet. Para ello, se creó una tabla para documentar la información discutida.
+
+|Sprint #                          |Sprint 1|
+|----                              |-----|
+|**Sprint Planning Background**        ||
+|Date                              |2024-09-05|
+|Time                              |05:00 PM|
+|Location                          |Virtual (Google Meet)|
+|Prepared by                       |Gongora Castillejos, Williams Jesus|
+|Attendees (to planning meeting)   |Gongora Castillejos, Williams Jesus</br></br>Taquir Calderon , Jhunior Giussepe</br></br>De La Cruz Moreno, Roy Hernan</br></br>Silva Tirado, Sebastian Valentino</br></br> Guerrero Vasquez, Jhon Danny|
+|Sprint n - 1 Review Summary       |No hubo sprint anterior|
+|Sprint n - 1 Retrospective Summary|No hubo sprint anterior|
+|**Sprint Goal & User Stories**        ||
+|Sprint 1 Goal                     |Realizar el Landing Page|
+|Sprint 1 Velocity                 |20|
+|Sum of Story Points               |20|
