@@ -213,77 +213,9 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 
 </br>
 
-<table>
-  <thead>
-    <tr>
-      <th><strong>Criterio específico</strong></th>
-      <th><strong>Acciones realizadas</strong></th>
-      <th><strong>Conclusiones</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
-      <td>
-        <p><strong>Gongora Castillejos, Williams</strong><br>
-        <strong>TB1:</strong> Durante la presentación de la problemática y la solución SmartFlow en la reunión del equipo, expuse claramente el perfil de la startup, los antecedentes y la propuesta técnica.</p>
-        
-        <p><strong>Quiñones Tintaya, Johan Jorge</strong><br>
-        <strong>TB1:</strong> Presentó el To-Be Scenario Mapping, User Stories, e Impact Mapping.</p>
-        
-        <p><strong>Carlos Andres, Leon Rioja</strong><br>
-        <strong>TB1:</strong> Expuso sobre la Information Architecture y el Landing Page UI Design.</p>
-        
-        <p><strong>Revilla Quispe, Renzo Zamir</strong><br>
-        <strong>TB1:</strong> Presentó el análisis comparativo de Web Applications UX/UI Design.</p>
-        
-        <p><strong>Lopez de la Cruz Mauro Fabricio</strong><br>
-        <strong>TB1:</strong> Comunicó las User Personas y el User Journey Mapping.</p>
-      </td>
-      <td>
-        <p><strong>Gongora Castillejos, Williams:</strong> Mi presentación clara del perfil de la startup y la propuesta técnica ayudó a establecer una base sólida para el proyecto, permitiendo que todos los miembros del equipo comprendieran la dirección y los objetivos.</p>
-        
-        <p><strong>Quiñones Tintaya, Johan Jorge:</strong> Mi exposición del To-Be Scenario Mapping y User Stories contribuyó a que el equipo visualizara el futuro del proyecto y entendiera las necesidades de los usuarios.</p>
-        
-        <p><strong>Carlos Andres, Leon Rioja:</strong> Mi presentación sobre la arquitectura de información y el diseño UI de la landing page ayudó al equipo a comprender la estructura y la apariencia visual del proyecto.</p>
-        
-        <p><strong>Revilla Quispe, Renzo Zamir:</strong> Mi análisis comparativo de diseños UX/UI proporcionó al equipo una visión clara de las mejores prácticas en la industria y cómo podríamos aplicarlas a nuestro proyecto.</p>
-        
-        <p><strong>Lopez de la Cruz Mauro Fabricio:</strong> Mi comunicación de las User Personas y el User Journey Mapping ayudó al equipo a entender mejor a nuestros usuarios objetivo y cómo interactuarían con nuestro producto.</p>
-      </td>
-    </tr>
-    <tr>
-      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-      <td>
-        <p><strong>Gongora Castillejos, Williams</strong><br>
-        <strong>TB1:</strong> Me encargué de redactar el Capítulo I del informe, que incluye los antecedentes, la problemática y el diseño de la base de datos. Asimismo, incluí las pautas para la elaboración de las tareas en el sprint 1.</p>
-        
-        <p><strong>Quiñones Tintaya, Johan Jorge</strong><br>
-        <strong>TB1:</strong> Documentó el Product Backlog y el Domain-Driven Software Architecture.</p>
-        
-        <p><strong>Carlos Andres, Leon Rioja</strong><br>
-        <strong>TB1:</strong> Elaboró la documentación del Landing Page Wireframe y Mock-up.</p>
-        
-        <p><strong>Revilla Quispe, Renzo Zamir</strong><br>
-        <strong>TB1:</strong> Redactó el análisis de competidores y el Class Diagram.</p>
-        
-        <p><strong>Lopez de la Cruz Mauro Fabricio</strong><br>
-        <strong>TB1:</strong> Documentó el User Task Matrix, Empathy Mapping, y As-is Scenario Mapping.</p>
-      </td>
-      <td>
-        <p><strong>Gongora Castillejos, Williams:</strong> Mi redacción del Capítulo I proporcionó una base sólida para el informe, estableciendo claramente el contexto del proyecto y las directrices para el trabajo futuro.</p>
-        
-        <p><strong>Quiñones Tintaya, Johan Jorge:</strong> Mi documentación del Product Backlog y la arquitectura del software ayudó a estructurar las tareas del proyecto y a definir su arquitectura técnica.</p>
-        
-        <p><strong>Carlos Andres, Leon Rioja:</strong> Mis wireframes y mock-ups de la landing page contribuyeron a visualizar el diseño final del producto, facilitando la comprensión del equipo y los stakeholders.</p>
-        
-        <p><strong>Revilla Quispe, Renzo Zamir:</strong> Mi análisis de competidores y el diagrama de clases proporcionaron una visión clara del mercado y la estructura interna del software.</p>
-        
-        <p><strong>Lopez de la Cruz Mauro Fabricio:</strong> Mi documentación centrada en el usuario ayudó a comprender mejor las necesidades y comportamientos de nuestros clientes potenciales.</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Criterio específico | Acciones realizadas | Conclusiones |
+|-------------------------|--------------------------|------------------| 
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | Gongora Castillejos, Williams <br> TB1: Durante la presentación de la problemática y la solución SmartFlow en la reunión del equipo, expuse claramente el perfil de la startup, los antecedentes y la propuesta técnica. <br><br> Quiñones Tintaya, Johan Jorge <br> TB1: Presentó el To-Be Scenario Mapping, User Stories, e Impact Mapping. <br><br> Carlos Andres, Leon Rioja <br> TB1: Expuso sobre la Information Architecture y el Landing Page UI Design. <br><br> Revilla Quispe, Renzo Zamir <br> TB1: Presentó el análisis comparativo de Web Applications UX/UI Design. <br><br> Lopez de la Cruz Mauro Fabricio <br> TB1: Comunicó las User Personas y el User Journey Mapping. | Williams demostró habilidad para presentar conceptos técnicos de manera accesible. <br><br> Johan logró explicar efectivamente los escenarios y historias de usuario. <br><br> Carlos presentó claramente la arquitectura de información y diseño UI. <br><br> Renzo expuso de manera comprensible el análisis comparativo de diseños UX/UI. <br><br> Mauro comunicó eficazmente los perfiles de usuario y sus experiencias. <br><br> En conjunto, el equipo mostró una sólida capacidad para comunicar ideas complejas a diversas audiencias. | | Comunica por escrito con efectividad a diferentes rangos de audiencia | Gongora Castillejos, Williams <br> TB1: Me encargué de redactar el Capítulo I del informe, que incluye los antecedentes, la problemática y el diseño de la base de datos. Asimismo, incluí las pautas para la elaboración de las tareas en el sprint 1. <br><br> Quiñones Tintaya, Johan Jorge <br> TB1: Documentó el Product Backlog y el Domain-Driven Software Architecture. <br><br> Carlos Andres, Leon Rioja <br> TB1: Elaboró la documentación del Landing Page Wireframe y Mock-up. <br><br> Revilla Quispe, Renzo Zamir <br> TB1: Redactó el análisis de competidores y el Class Diagram. <br><br> Lopez de la Cruz Mauro Fabricio <br> TB1: Documentó el User Task Matrix, Empathy Mapping, y As-is Scenario Mapping. | Williams logró una redacción clara y estructurada del capítulo inicial, sentando las bases del proyecto. <br><br> Johan demostró habilidad para documentar aspectos técnicos y de planificación de manera comprensible. <br><br> Carlos produjo documentación visual efectiva para el diseño de la landing page. <br><br> Renzo realizó un análisis escrito detallado y técnico, accesible para diferentes audiencias. <br><br> Mauro creó documentación centrada en el usuario, facilitando la comprensión de las necesidades del cliente. <br><br> El equipo en conjunto demostró excelentes habilidades de comunicación escrita, adaptando el contenido técnico para diferentes niveles de audiencia. |
 
 <br>
 
