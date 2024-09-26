@@ -285,31 +285,15 @@ SmartFlow ofrece varios planes de precios para adaptarse a diferentes necesidade
 
 </br>
 
-|Problem Statement 1|
+|Problem Statement|
 |:----|
-|SmartFlow busca ayudar a talleres a optimizar el consumo de electricidad y agua|
-| Hemos observado que los talleres carecen de herramientas para monitorear estos recursos, resultando en altos costos|
-|¿Podría SmartFlow ofrecer una solución eficiente para el monitoreo de recursos en talleres?|
+|SmartFlow tiene como objetivo abordar la falta de visibilidad y control sobre el consumo de electricidad y agua en talleres industriales y hogares. Actualmente, los dueños de talleres enfrentan dificultades para monitorear en tiempo real el consumo de recursos en sus máquinas, lo que genera ineficiencias operativas y altos costos. Del mismo modo, los usuarios residenciales no tienen acceso a herramientas que les permitan controlar su consumo de manera efectiva, lo que resulta en facturas inesperadas y falta de control.|
+| Hemos observado que existe una brecha en el mercado para una solución integrada y accesible que permita tanto a empresas como a hogares visualizar y optimizar el uso de estos recursos mediante tecnologías IoT, y recibir alertas en tiempo real cuando los consumos superen los límites establecidos.|
+|La visión de SmartFlow es proporcionar una plataforma que permita la gestión eficiente de los recursos en tiempo real, mejorando la sostenibilidad y reduciendo costos. Inicialmente, el enfoque se centrará en pequeños y medianos talleres industriales, donde la necesidad de control del consumo de recursos es crucial. Posteriormente, el producto se expandirá al segmento residencial para ayudar a los usuarios domésticos a reducir sus costos y mejorar el control de sus consumos.</br>
+
+**¿Podrá SmartFlow proporcionar una solución eficiente que permita a los usuarios monitorear y optimizar sus recursos en tiempo real, reduciendo costos y mejorando la sostenibilidad tanto en talleres como en hogares?**|
 
 </br>
-
-|Problem Statement 2|
-|:----|
-|SmartFlow tiene como objetivo permitir a los hogares controlar el consumo de electricidad y agua|
-|Hemos observado que los hogares a menudo no tienen visibilidad ni control sobre estos consumos, lo que genera costos inesperados|
-|¿Podría SmartFlow proporcionar una solución accesible para monitorear el consumo de recursos en el hogar?|
-
-</br>
-
-
-|Problem Statement 3|
-|:----|
-|SmartFlow busca integrar el monitoreo de recursos en una plataforma única|
-|Hemos observado la falta de una plataforma unificada para gestionar el consumo de electricidad y agua en diferentes entornos|
-|¿Podría SmartFlow desarrollar una plataforma que unifique el monitoreo de recursos en diversos contextos?|
-
-</br>
-
 
 <div id="1222"><h4>1.2.2.2. Lean UX Assumptions</h4></div>
 
