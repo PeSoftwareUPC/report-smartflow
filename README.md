@@ -296,7 +296,7 @@ SmartFlow ofrece varios planes de precios para adaptarse a diferentes necesidade
 
 <div id="1222"><h4>1.2.2.2. Lean UX Assumptions</h4></div>
 
-<h4>Assumptions Worksheet</h4>
+<h4>1.2.2.2.1. Assumptions Worksheet</h4>
 
 1. **¿Quién es el usuario?**
 
@@ -340,7 +340,7 @@ El producto debe tener una interfaz clara y amigable, con gráficos interactivos
 
 </br>
 
-<h4>Assumptions Priority</h4>
+<h4>1.2.2.2.2. Assumptions Priority</h4>
 
 El objetivo de clasificar los supuestos por prioridad es enfocarse en los de mayor riesgo o incertidumbre para probarlos primero:
 
@@ -353,7 +353,7 @@ Asumimos que los dispositivos IoT utilizados serán compatibles con los sistemas
 * **Riesgo bajo:**
 Asumimos que los usuarios apreciarán las herramientas de control de producción y gestión de turnos. Si bien esto añade valor, no es la principal razón para la adopción inicial del sistema.
 
-<h4>Outcomes</h4>
+<h4>1.2.2.2.3. Outcomes</h4>
 
 Aquí detallamos los resultados que esperamos lograr con la implementación de SmartFlow:
 
