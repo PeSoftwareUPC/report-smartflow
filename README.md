@@ -286,57 +286,41 @@ SmartFlow ofrece varios planes de precios para adaptarse a diferentes necesidade
 </br>
 
 |Problem Statement|
-|:----|
+|:----:|
 |SmartFlow tiene como objetivo abordar la falta de visibilidad y control sobre el consumo de electricidad y agua en talleres industriales y hogares. Actualmente, los dueños de talleres enfrentan dificultades para monitorear en tiempo real el consumo de recursos en sus máquinas, lo que genera ineficiencias operativas y altos costos. Del mismo modo, los usuarios residenciales no tienen acceso a herramientas que les permitan controlar su consumo de manera efectiva, lo que resulta en facturas inesperadas y falta de control.|
 | Hemos observado que existe una brecha en el mercado para una solución integrada y accesible que permita tanto a empresas como a hogares visualizar y optimizar el uso de estos recursos mediante tecnologías IoT, y recibir alertas en tiempo real cuando los consumos superen los límites establecidos.|
-|La visión de SmartFlow es proporcionar una plataforma que permita la gestión eficiente de los recursos en tiempo real, mejorando la sostenibilidad y reduciendo costos. Inicialmente, el enfoque se centrará en pequeños y medianos talleres industriales, donde la necesidad de control del consumo de recursos es crucial. Posteriormente, el producto se expandirá al segmento residencial para ayudar a los usuarios domésticos a reducir sus costos y mejorar el control de sus consumos.</br>
-
+|La visión de SmartFlow es proporcionar una plataforma que permita la gestión eficiente de los recursos en tiempo real, mejorando la sostenibilidad y reduciendo costos. Inicialmente, el enfoque se centrará en pequeños y medianos talleres industriales, donde la necesidad de control del consumo de recursos es crucial. Posteriormente, el producto se expandirá al segmento residencial para ayudar a los usuarios domésticos a reducir sus costos y mejorar el control de sus consumos. <br>
 **¿Podrá SmartFlow proporcionar una solución eficiente que permita a los usuarios monitorear y optimizar sus recursos en tiempo real, reduciendo costos y mejorando la sostenibilidad tanto en talleres como en hogares?**|
 
 </br>
 
 <div id="1222"><h4>1.2.2.2. Lean UX Assumptions</h4></div>
 
+<h4>Assumptions Worksheet</h4>
 
 **1. ¿Quién es el usuario?**
-
-Nuestro producto está dirigido a dueños y administradores de empresas con maquinaria eléctrica, así como a personas que desean monitorear el consumo de recursos en sus hogares o en lugares implementados con SmartFlow.
-
+Nuestro producto está dirigido a dueños y administradores de empresas con maquinaria eléctrica que necesitan optimizar el consumo de recursos, así como a personas en sus hogares que desean monitorear y controlar el uso de electricidad y agua en tiempo real para reducir costos y mejorar la eficiencia.
 
 **2. ¿Dónde encaja nuestro producto en su trabajo o vida?**
-
-SmartFlow se integra en los procesos de gestión y monitoreo de recursos de las empresas y en la administración de consumo doméstico, proporcionando datos en tiempo real sobre el uso de energía y agua.
-
+SmartFlow se integra en los procesos operativos de las empresas, ayudando a monitorear en tiempo real el consumo de electricidad y agua, y proporcionando herramientas para la gestión de la producción y la supervisión del personal. En el ámbito doméstico, SmartFlow permite a los usuarios obtener datos detallados sobre su consumo de recursos, ayudándolos a tomar decisiones informadas para reducir sus gastos.
 
 **3. ¿Qué problemas tiene nuestro producto? ¿Resolver?**
+Nuestro producto resuelve la falta de integración entre la captura de datos de consumo y su visualización en tiempo real. Actualmente, las empresas no cuentan con herramientas que les permitan identificar picos de consumo o ineficiencias en sus operaciones, y los usuarios residenciales carecen de visibilidad sobre su consumo diario. SmartFlow proporciona una plataforma que combina la captura precisa de datos con análisis en tiempo real, alertas automáticas y herramientas de gestión operativa.
 
-Nuestro producto enfrenta el problema de la falta de integración eficiente entre la recopilación de datos y la visualización del consumo de recursos. Debe resolver este problema proporcionando una plataforma robusta que combine la captura en tiempo real de datos de consumo de energía y agua con herramientas analíticas que permitan a los usuarios identificar y gestionar recursos de manera efectiva y recibir alertas de consumo anormal.
-
-**4. ¿Cuándo y cómo es nuestro producto? ¿Usado?**
-
-Nuestro producto se utiliza continuamente para monitorear y analizar el consumo de recursos en tiempo real. El acceso es a través de interfaces web y móviles por parte de los usuarios para gestionar y ajustar sus recursos.
-
-
+**4. ¿Cuándo y cómo es nuestro producto utilizado?**
+SmartFlow se usa de manera continua para monitorear el consumo de recursos tanto en entornos industriales como domésticos. Los usuarios acceden a través de interfaces web y móviles para revisar los datos en tiempo real, recibir alertas cuando se superan los umbrales predefinidos y ajustar su consumo según las necesidades de producción o hábitos de uso.
 
 **5. ¿Qué características son importantes?**
 
-* Monitoreo en tiempo real: Captura y muestra datos actualizados sobre el consumo de recursos, como electricidad y agua.
-
-* Alertas: Notificaciones automáticas cuando se detectan consumos anómalos o se superan los umbrales predefinidos.
-
-* Control de producción: Capacidad para gestionar y supervisar la producción individual de cada maquinaria, permitiendo ajustes en tiempo real para optimizar el rendimiento.
-
-* Gestión de turnos: Funcionalidad para asignar y controlar los turnos de trabajo de las personas asociadas a cada máquina, facilitando la supervisión y gestión del personal.
-
-* Integración con IoT: Capacidad para conectarse con dispositivos y sensores de maquinaria para una recopilación de datos precisa y continua.
-
-* Interfaz intuitiva: Diseño fácil de usar tanto en la versión web como móvil para facilitar el acceso y la gestión de los datos.
-
-
+Monitoreo en tiempo real: Proporciona datos precisos y actualizados sobre el consumo de electricidad y agua.
+Alertas personalizables: Notificaciones automáticas que alertan a los usuarios cuando se detectan consumos anómalos.
+Control de producción: Herramientas para gestionar la producción y optimizar el uso de maquinaria en las empresas.
+Gestión de turnos: Funcionalidad para asignar y supervisar los turnos de trabajo de los empleados, asociando su eficiencia al uso de los recursos.
+Integración con IoT: Capacidad para conectarse con una variedad de dispositivos y sensores para una recopilación de datos precisa.
+Interfaz intuitiva: Diseño accesible y fácil de usar en sus versiones web y móvil, que facilita la administración del consumo de recursos.
 
 **6. ¿Cómo debe verse nuestro producto y cómo comportarse?**
-
-El producto debe tener una interfaz clara y fácil de usar, con gráficos accesibles. Debe comportarse de manera rapida y confiable, ofreciendo actualizaciones en tiempo real y notificaciones precisas sobre el consumo de recursos.
+El producto debe tener una interfaz clara y amigable, con gráficos interactivos y actualizaciones en tiempo real sobre el uso de recursos. Debe comportarse de manera rápida y confiable, proporcionando notificaciones precisas sobre consumos anómalos y permitiendo ajustes en tiempo real.
 
 </br>
 
@@ -350,6 +334,35 @@ El producto debe tener una interfaz clara y fácil de usar, con gráficos accesi
 |Voy a adquirir la mayoría de mis clientes a través de campañas de marketing digital dirigidas, colaboraciones con asociaciones industriales y recomendaciones de clientes existentes|Asumimos que los clientes se suscribirán a los planes de SmartFlow debido a los beneficios de monitoreo y control que ofrecen nuestros planes de precios escalonados|
 
 </br>
+
+<h4>Assumptions Priority</h4>
+
+El objetivo de clasificar los supuestos por prioridad es enfocarse en los de mayor riesgo o incertidumbre para probarlos primero:
+
+* **Riesgo alto:**
+Asumimos que los usuarios adoptarán SmartFlow principalmente por la funcionalidad de monitoreo en tiempo real y alertas automáticas. Si esta funcionalidad no es efectiva o no genera valor, el producto perdería atractivo.
+
+* **Riesgo medio:**
+Asumimos que los dispositivos IoT utilizados serán compatibles con los sistemas de los clientes y funcionarán sin problemas técnicos. Si los dispositivos no son compatibles o presentan problemas de integración, se verá afectada la escalabilidad.
+
+* **Riesgo bajo:**
+Asumimos que los usuarios apreciarán las herramientas de control de producción y gestión de turnos. Si bien esto añade valor, no es la principal razón para la adopción inicial del sistema.
+
+<h4>Outcomes</h4>
+
+Aquí detallamos los resultados que esperamos lograr con la implementación de SmartFlow:
+
+1. **Empresarial (Talleres):**
+Creemos que, al usar SmartFlow, las empresas podrán reducir su consumo de electricidad y agua en al menos un 15% en un periodo de 3 meses, optimizando la eficiencia de sus maquinarias y la gestión de turnos.
+
+* Métrica: Sabremos que hemos tenido éxito cuando veamos una reducción en los costos operativos de al menos un 15% en los talleres que usen el sistema durante 90 días.
+
+2. **Residencial (Hogares):**
+Creemos que los usuarios domésticos podrán reducir sus facturas de electricidad y agua en un 10% tras 6 meses de uso de SmartFlow, al obtener visibilidad y control sobre su consumo.
+
+* Métrica: Sabremos que hemos tenido éxito cuando veamos que los usuarios reportan una reducción de al menos un 10% en sus facturas tras el uso continuo del sistema durante 6 meses.
+
+<br>
 
 <div id="1223"><h4>1.2.2.3. Lean UX Hypothesis Statements</h4></div>
 
