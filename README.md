@@ -298,28 +298,33 @@ SmartFlow ofrece varios planes de precios para adaptarse a diferentes necesidade
 
 <h4>Assumptions Worksheet</h4>
 
-**1. ¿Quién es el usuario?**
+1. **¿Quién es el usuario?**
+
 Nuestro producto está dirigido a dueños y administradores de empresas con maquinaria eléctrica que necesitan optimizar el consumo de recursos, así como a personas en sus hogares que desean monitorear y controlar el uso de electricidad y agua en tiempo real para reducir costos y mejorar la eficiencia.
 
-**2. ¿Dónde encaja nuestro producto en su trabajo o vida?**
+2. **¿Dónde encaja nuestro producto en su trabajo o vida?**
+   
 SmartFlow se integra en los procesos operativos de las empresas, ayudando a monitorear en tiempo real el consumo de electricidad y agua, y proporcionando herramientas para la gestión de la producción y la supervisión del personal. En el ámbito doméstico, SmartFlow permite a los usuarios obtener datos detallados sobre su consumo de recursos, ayudándolos a tomar decisiones informadas para reducir sus gastos.
 
-**3. ¿Qué problemas tiene nuestro producto? ¿Resolver?**
+3. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+   
 Nuestro producto resuelve la falta de integración entre la captura de datos de consumo y su visualización en tiempo real. Actualmente, las empresas no cuentan con herramientas que les permitan identificar picos de consumo o ineficiencias en sus operaciones, y los usuarios residenciales carecen de visibilidad sobre su consumo diario. SmartFlow proporciona una plataforma que combina la captura precisa de datos con análisis en tiempo real, alertas automáticas y herramientas de gestión operativa.
 
-**4. ¿Cuándo y cómo es nuestro producto utilizado?**
+4. **¿Cuándo y cómo es nuestro producto utilizado?**
+   
 SmartFlow se usa de manera continua para monitorear el consumo de recursos tanto en entornos industriales como domésticos. Los usuarios acceden a través de interfaces web y móviles para revisar los datos en tiempo real, recibir alertas cuando se superan los umbrales predefinidos y ajustar su consumo según las necesidades de producción o hábitos de uso.
 
-**5. ¿Qué características son importantes?**
+5. **¿Qué características son importantes?**
 
-Monitoreo en tiempo real: Proporciona datos precisos y actualizados sobre el consumo de electricidad y agua.
-Alertas personalizables: Notificaciones automáticas que alertan a los usuarios cuando se detectan consumos anómalos.
-Control de producción: Herramientas para gestionar la producción y optimizar el uso de maquinaria en las empresas.
-Gestión de turnos: Funcionalidad para asignar y supervisar los turnos de trabajo de los empleados, asociando su eficiencia al uso de los recursos.
-Integración con IoT: Capacidad para conectarse con una variedad de dispositivos y sensores para una recopilación de datos precisa.
-Interfaz intuitiva: Diseño accesible y fácil de usar en sus versiones web y móvil, que facilita la administración del consumo de recursos.
+    * Monitoreo en tiempo real: Proporciona datos precisos y actualizados sobre el consumo de electricidad y agua.
+    * Alertas personalizables: Notificaciones automáticas que alertan a los usuarios cuando se detectan consumos anómalos.
+    * Control de producción: Herramientas para gestionar la producción y optimizar el uso de maquinaria en las empresas.
+    * Gestión de turnos: Funcionalidad para asignar y supervisar los turnos de trabajo de los empleados, asociando su eficiencia al uso de los recursos.
+    * Integración con IoT: Capacidad para conectarse con una variedad de dispositivos y sensores para una recopilación de datos precisa.
+    * Interfaz intuitiva: Diseño accesible y fácil de usar en sus versiones web y móvil, que facilita la administración del consumo de recursos.
 
-**6. ¿Cómo debe verse nuestro producto y cómo comportarse?**
+6. **¿Cómo debe verse nuestro producto y cómo comportarse?**
+   
 El producto debe tener una interfaz clara y amigable, con gráficos interactivos y actualizaciones en tiempo real sobre el uso de recursos. Debe comportarse de manera rápida y confiable, proporcionando notificaciones precisas sobre consumos anómalos y permitiendo ajustes en tiempo real.
 
 </br>
@@ -355,12 +360,12 @@ Aquí detallamos los resultados que esperamos lograr con la implementación de S
 1. **Empresarial (Talleres):**
 Creemos que, al usar SmartFlow, las empresas podrán reducir su consumo de electricidad y agua en al menos un 15% en un periodo de 3 meses, optimizando la eficiencia de sus maquinarias y la gestión de turnos.
 
-* Métrica: Sabremos que hemos tenido éxito cuando veamos una reducción en los costos operativos de al menos un 15% en los talleres que usen el sistema durante 90 días.
+    * Métrica: Sabremos que hemos tenido éxito cuando veamos una reducción en los costos operativos de al menos un 15% en los talleres que usen el sistema durante 90 días.
 
 2. **Residencial (Hogares):**
 Creemos que los usuarios domésticos podrán reducir sus facturas de electricidad y agua en un 10% tras 6 meses de uso de SmartFlow, al obtener visibilidad y control sobre su consumo.
 
-* Métrica: Sabremos que hemos tenido éxito cuando veamos que los usuarios reportan una reducción de al menos un 10% en sus facturas tras el uso continuo del sistema durante 6 meses.
+    * Métrica: Sabremos que hemos tenido éxito cuando veamos que los usuarios reportan una reducción de al menos un 10% en sus facturas tras el uso continuo del sistema durante 6 meses.
 
 <br>
 
