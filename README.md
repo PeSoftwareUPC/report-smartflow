@@ -698,14 +698,14 @@ Para la realizacion de las fichas de User Personas se han considerado los 2 segm
 
 * **Segmento Empresarial**
 
-![userpersonaPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Pedro-Gonzales.png)
+![userpersonaPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/PedroGonzales.png)
 *Imagen: User Persona Dueño Textil*
 
 </br></br>
 
 * **Segmento Residencial**
 
-![userpersonaJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Jes%C3%BAs-Castillo.png)
+![userpersonaJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Jes%C3%BAsCastillo.png)
 *Imagen: User Persona Contador*
 
 </br>
