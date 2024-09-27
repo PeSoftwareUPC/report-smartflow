@@ -768,19 +768,12 @@ En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas c
 
 **Persona 1: Pedro Gonzales**
 
-| **Phase**         | **Identificación de consumo de recursos**         | **Detección de ineficiencias en máquinas y procesos**      | **Ajuste de procesos y adopción de tecnología**           |
-|-------------------|---------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------|
-| **Doing**         | Pedro busca maneras de optimizar el uso de electricidad y agua en su taller. | Intenta identificar qué máquinas o procesos son ineficientes dentro del taller. | Ajusta los procesos y busca nuevas tecnologías para mejorar la eficiencia. |
-| **Thinking**      | "¿Cómo puedo reducir el consumo de recursos sin comprometer la eficiencia?" | "No tengo claro qué parte del taller está consumiendo más recursos." | "Tal vez una innovación tecnológica podría ayudar a reducir costos y mejorar la rentabilidad." |
-| **Feeling**       | Preocupado por el aumento constante en los costos de producción. | Frustrado por la falta de control y visibilidad sobre las máquinas y el consumo. | Optimista con la idea de probar nuevos métodos, pero inseguro de los resultados. |
+![image](https://github.com/user-attachments/assets/c2d08b04-36d1-4ed8-83d1-43cef565e7eb)
+
 
 **Persona 2: Jesús Castillo**
 
-| **Phase**         | **Revisión de facturas de agua y luz**               | **Identificación de patrones de consumo**               | **Ajuste de hábitos y búsqueda de herramientas**          |
-|-------------------|------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|
-| **Doing**         | Jesús revisa sus facturas, notando un aumento inesperado en los costos. | Intenta identificar patrones de consumo que expliquen el aumento en sus facturas. | Intenta ajustar sus hábitos de consumo sin herramientas efectivas para monitorear en tiempo real. |
-| **Thinking**      | "¿Por qué ha subido tanto mi factura este mes? No he cambiado mis hábitos." | "No sé exactamente dónde estoy consumiendo más agua o electricidad." | "Necesito una forma más precisa de monitorear el consumo y evitar sorpresas." |
-| **Feeling**       | Preocupado por el impacto en su presupuesto mensual. | Frustrado por no poder identificar las causas del incremento. | Esperanzado en reducir sus costos, pero frustrado por la falta de control diario. |
+![image](https://github.com/user-attachments/assets/51d3f8b3-bab7-4060-a47c-8391b57b71b2)
 
 <div id="24"><h3>2.4. Ubiquitous Language</h3></div>
 
