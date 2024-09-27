@@ -773,12 +773,22 @@ Jesús Castillo, un contador de 28 años que vive solo, ha notado un aumento ine
 En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando una plantilla de EXPressia. Esta herramienta incluye todos los componentes necesarios, junto con preguntas específicas que se respondieron en función de lo que se identificó en nuestro análisis del público objetivo.
 
 * **Segmento Empresarial**
+
+A continuación, presentamos el empathy map para Pedro Gonzales, representante del segmento empresarial. Este mapa refleja las percepciones, necesidades y desafíos de Pedro como dueño de un taller textil en Perú. Su objetivo principal es reducir los costos operativos relacionados con el consumo de recursos, como electricidad y agua.
+
+<br>
+
 ![empathymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Pedro.png)
 *Imagen: Empathy Map Pedro*
 
 </br>
 
 * **Segmento Residencial**
+
+A continuación, presentamos el empathy map para Jesús Castillo, un joven contador que vive solo y enfrenta el aumento inesperado en sus facturas de agua y electricidad. Este mapa refleja sus pensamientos, emociones, necesidades y las dinámicas que lo rodean en su búsqueda de soluciones para controlar y monitorear sus recursos en tiempo real.
+
+<br>
+
 ![empathymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Jesus.png)
 *Imagen: Empathy Map Jesus*
 
@@ -1259,6 +1269,10 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 
 <div id="48"><h2>4.8. Database Design</h2></div>
 <div id="481"><h3>4.8.1. Database Diagram</h3></div>
+
+En este apartado presentamos el diseño de nuestro diagrama de base de datos, que incluye 14 tablas interrelacionadas. Estas tablas gestionan datos sobre usuarios, suscripciones, máquinas, dispositivos, trabajadores, turnos y reportes de consumo y costos. Este enfoque permite un seguimiento detallado del uso de recursos y costos, brindando a las empresas herramientas para optimizar su operación y mejorar la eficiencia en el control del consumo de agua y electricidad.
+
+<br>
 
 ![diagrama_base_de_datos](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/SmartFlowDataBase.png)
 
