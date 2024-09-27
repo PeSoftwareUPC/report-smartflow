@@ -389,6 +389,10 @@ Creemos que los usuarios domésticos podrán reducir sus facturas de electricida
 
 <div id="1224"><h4>1.2.2.4. Lean UX Canvas</h4></div>
 
+Presentamos el Lean UX Canvas para SmartFlow, una solución diseñada para optimizar el consumo de electricidad y agua en empresas y hogares. Nuestro enfoque se centra en abordar la ineficiencia en la gestión de recursos, mejorando la eficiencia operativa a través de características como monitoreo en tiempo real y alertas personalizables. Creemos que, al proporcionar un control preciso de la producción y los turnos, transformaremos el comportamiento del cliente hacia operaciones más efectivas. Para validar nuestras suposiciones, desarrollaremos prototipos y realizaremos pruebas con usuarios.
+
+<br>
+
 ![leanuxcanvas](imgs/Lean-UX-Canvas.png)
 *Imagen: Lean UX Canvas*
 
