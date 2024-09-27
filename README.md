@@ -233,12 +233,7 @@ En PeSoftware, nos dedicamos a crear soluciones que permiten el control y monito
 **Visión:** Ser la plataforma líder a nivel global en la optimización del consumo de recursos, impulsando una gestión eficiente y sostenible en todos los sectores.
 
 
-<img src=https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/smartflow-logo.jpeg
-alt="Logo SmartFlow"
-style="display: block; 
-margin-left:auto; 
-margin-right: auto; 
-width=30%" align="center"/>
+<img src="https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/smartflow-logo.jpeg" alt="StartUp" width="200px" style="text-align:center;">
 
 <div id="111"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
 
@@ -465,24 +460,24 @@ En el apartado de competidores, es importante identificar a empresas que ofrecen
         SmartFlow
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="src=https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/smartflow-logo.jpeg" alt="StartUp" width="60px">
+                <img src="https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/smartflow-logo.jpeg" alt="StartUp" width="120px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Schneider Electric
     <div style="text-align: center; margin-top: 20px;">
-                <img src="https://www.tvh.com/sites/tvh/files/styles/max_650x650/public/2023-08/Schneider-Electric-logo-jpg-.png?itok=pxXk-20m" alt="" width="60px">
+                <img src="https://www.tvh.com/sites/tvh/files/styles/max_650x650/public/2023-08/Schneider-Electric-logo-jpg-.png?itok=pxXk-20m" alt="" width="120px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Siemens AG
       <div style="text-align: center; margin-top: 40px;">
-                <img src="https://www.cohesity.com/wp-content/new_media/2020/09/siemens-customer-win-pr-banner.png" alt="" width="60px">
+                <img src="https://www.cohesity.com/wp-content/new_media/2020/09/siemens-customer-win-pr-banner.png" alt="" width="120px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       Nest
       <div style="text-align: center; margin-top: 20px;">
-                <img src="https://media.licdn.com/dms/image/v2/C4D0BAQHTWF-6fu2_aw/company-logo_200_200/company-logo_200_200/0/1630445093527/nest_oficial_logo?e=2147483647&v=beta&t=J1bOzOAAGIC15lnJNLAT1jgg2lVQb_Ce7fGN9qg-J3I" alt="" width="60px">
+                <img src="https://media.licdn.com/dms/image/v2/C4D0BAQHTWF-6fu2_aw/company-logo_200_200/company-logo_200_200/0/1630445093527/nest_oficial_logo?e=2147483647&v=beta&t=J1bOzOAAGIC15lnJNLAT1jgg2lVQb_Ce7fGN9qg-J3I" alt="" width="120px">
             </div>
     </td>
   </tr>
