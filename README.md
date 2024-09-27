@@ -465,24 +465,24 @@ En el apartado de competidores, es importante identificar a empresas que ofrecen
         SmartFlow
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="/Assent/img/DevDream-Logo.jpeg" alt="StartUp" width="60px">
+                <img src="src=https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/smartflow-logo.jpeg" alt="StartUp" width="60px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Schneider Electric
     <div style="text-align: center; margin-top: 20px;">
-                <img src="/Assent/img/FarmLogs-Logo.jpg" alt="" width="100px">
+                <img src="https://www.tvh.com/sites/tvh/files/styles/max_650x650/public/2023-08/Schneider-Electric-logo-jpg-.png?itok=pxXk-20m" alt="" width="60px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Siemens AG
       <div style="text-align: center; margin-top: 40px;">
-                <img src="/Assent/img/Herdwatch-Logo.png" alt="" width="200px">
+                <img src="https://www.cohesity.com/wp-content/new_media/2020/09/siemens-customer-win-pr-banner.png" alt="" width="60px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       Nest
       <div style="text-align: center; margin-top: 20px;">
-                <img src="/Assent/img/AgriWebb-Logo.jpg" alt="" width="610px">
+                <img src="https://media.licdn.com/dms/image/v2/C4D0BAQHTWF-6fu2_aw/company-logo_200_200/company-logo_200_200/0/1630445093527/nest_oficial_logo?e=2147483647&v=beta&t=J1bOzOAAGIC15lnJNLAT1jgg2lVQb_Ce7fGN9qg-J3I" alt="" width="60px">
             </div>
     </td>
   </tr>
@@ -658,6 +658,7 @@ Entrevistas URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_up
 |Distrito|Surco|
 |Foto|![entrevista-1](/imgs/entrevista1.png)|
 |Time | 0:03 - 07:01 |
+|Analisis de Entrevista| Luis, un economista de 27 años, enfrenta el desafío de no poder controlar eficazmente el consumo y costo de sus recursos hídricos y eléctricos. Le resulta frustrante descubrir los ajustes en su presupuesto solo al recibir la factura al termino del mes. Por ello, desea una aplicación que le permita monitorear y gestionar su consumo en tiempo real. Además, considera esencial recibir alertas cuando el consumo exceda los límites establecidos, para poder actuar de manera preventiva y evitar sobrecostos inesperados. |
 
 |Entevistado 2|Christian Matos|
 |-|-|
@@ -665,6 +666,8 @@ Entrevistas URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_up
 |Distrito|San Borja|
 |Foto|![entrevista-2](/imgs/entrevista2.png)|
 |Time | 07:01 - 11:34 |
+|Analisis de Entrevista||
+
 
 |Entevistado 3|Alejandra Gallo|
 |-|-|
@@ -672,6 +675,8 @@ Entrevistas URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_up
 |Distrito|Surco|
 |Foto|![entrevista-3](/imgs/entrevista3.png)|
 |Time | 11:38 - 15:23 |
+|Analisis de Entrevista||
+
 
 |Entevistado 4|Nelson Correa|
 |-|-|
@@ -679,6 +684,8 @@ Entrevistas URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_up
 |Distrito|Villa el Salvador|
 |Foto|![entrevista-4](/imgs/entrevista4.png)|
 |Time | 15:25 - 20:02 |
+|Analisis de Entrevista||
+
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
