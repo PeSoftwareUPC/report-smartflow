@@ -700,12 +700,20 @@ Para la realizacion de las fichas de User Personas se han considerado los 2 segm
 
 * **Segmento Empresarial**
 
+Presentamos a Pedro Gonzales, un arquetipo que representa al sector empresarial como dueño de un taller textil. Pedro enfrenta el desafío de gestionar el creciente costo de producción, lo que lo impulsa a buscar una solución tecnológica eficiente. Su principal objetivo es contar con una plataforma que le permita monitorear y optimizar el consumo de recursos en tiempo real. Proactivo y analítico, Pedro se caracteriza por su enfoque en mejorar la productividad de su negocio mediante herramientas que le brinden mayor control y transparencia.
+
+</br>
+
 ![userpersonaPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/PedroGonzales.png)
 *Imagen: User Persona Dueño Textil*
 
 </br></br>
 
 * **Segmento Residencial**
+
+Presentamos a Jesús Castillo, un arquetipo que representa al usuario residencial preocupado por el incremento en su factura de agua y electricidad. Como contador, Jesús busca una solución tecnológica que le permita controlar y monitorear su consumo de recursos en tiempo real para evitar futuros aumentos inesperados. Meticuloso y orientado a los detalles, su principal objetivo es mejorar la eficiencia en su hogar, manteniendo los costos bajo control con herramientas que le proporcionen visibilidad y alertas sobre su consumo.
+
+</br>
 
 ![userpersonaJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Jes%C3%BAsCastillo.png)
 *Imagen: User Persona Contador*
@@ -741,12 +749,22 @@ Finalmente, la principal coincidencia encontrada es que tanto los usuarios empre
 Para el segmento Empresarial, se ha identificado como partida el sobreuso de la maquinaria eléctrica, lo que genera altos costos de producción. En el caso del segmento Residencial, el enfoque se centra en el sobreprecio de los recibos de agua y luz. En ambos casos, la solución radica en la necesidad de un sistema de monitoreo en tiempo real que permita controlar y optimizar el consumo de recursos. 
 
 * **Segmento Empresarial**
+
+Pedro Gonzales, dueño de un taller textil, representa al sector empresarial que enfrenta el reto de gestionar el aumento de costos en la producción. Con una mentalidad proactiva y analítica, busca soluciones tecnológicas que le permitan monitorear y controlar el consumo de recursos en su taller. Está motivado por la necesidad de optimizar sus operaciones y reducir gastos, y ve en una aplicación de monitoreo una herramienta clave para mejorar la eficiencia y la rentabilidad de su negocio.
+
+<br>
+ 
 ![jouneymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/journey-map-Pedro.png)
 *Imagen: Journey Map Pedro*
 
 </br>
 
 * **Segmento Residencial**
+
+Jesús Castillo, un contador de 28 años que vive solo, ha notado un aumento inesperado en sus facturas de agua y luz. Preocupado por este incremento y buscando una solución, está interesado en una tecnología que le permita monitorear y controlar en tiempo real el consumo de sus recursos. Con una actitud detallista y organizada, Jesús quiere asegurarse de que sus gastos sean transparentes y justificados, optimizando el uso de sus recursos domésticos de manera eficiente.
+
+<br>
+
 ![jouneymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/journey-map-Jesus.png)
 *Imagen: Journey Map Jesus*
 
