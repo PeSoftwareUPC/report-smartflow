@@ -3,7 +3,7 @@
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<img src="https://github.com/PeSoftwareUPC/report-smartflow/blob/main/imgs/UPC-logo.png"
+<img src="imgs/UPC-logo.png"
 alt="Logo UPC"
 style="display: block; 
 margin-left:auto; 
@@ -242,17 +242,16 @@ En PeSoftware, nos dedicamos a crear soluciones que permiten el control y monito
 
 **Visión:** Ser la plataforma líder a nivel global en la optimización del consumo de recursos, impulsando una gestión eficiente y sostenible en todos los sectores.
 
-
 <img src="https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/smartflow-logo.jpeg" alt="StartUp" width="200px" style="text-align:center;">
 
 <div id="111"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
 
 |Descripción del integrante|Perfil del integrante del equipo|
 | :--------| :--------:|
-| Mi nombre es **Johan Jorge Quiñones Tintaya**, tengo 19 años y soy estudiante de ingeniería de software en la UPC, cursando el quinto ciclo. He adquirido una base sólida en algoritmos y programación orientada a objetos, lo que me permite enfrentar desafíos de desarrollo con eficacia. Además, me destaco por mi capacidad para trabajar en equipo, manteniendo una comunicación clara y efectiva que facilita la colaboración. Estoy comprometido con mi crecimiento profesional y busco constantemente mejorar mis habilidades para contribuir de manera significativa en proyectos y equipos, ofreciendo soluciones innovadoras. | ![](/imgs/johan.png)|
+| Mi nombre es **Johan Jorge Quiñones Tintaya**, tengo 19 años y soy estudiante de ingeniería de software en la UPC, cursando el quinto ciclo. He adquirido una base sólida en algoritmos y programación orientada a objetos, lo que me permite enfrentar desafíos de desarrollo con eficacia. Además, me destaco por mi capacidad para trabajar en equipo, manteniendo una comunicación clara y efectiva que facilita la colaboración. Estoy comprometido con mi crecimiento profesional y busco constantemente mejorar mis habilidades para contribuir de manera significativa en proyectos y equipos, ofreciendo soluciones innovadoras. | ![](imgs/johan.png)|
 | Mi nombre es **Williams Jesús Góngora Castillejos** y soy estudiante del quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo. |![williams](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/williams.jpg)|
-| Mi nombre es **Renzo Zamir Revilla Quispe**, estudiante de la carrera de Ingenieria de Software, quinto ciclo. Cuento con un amplio conociemiento en programacion full stack y buena logica. En cuanto a mis habilidades blandas, soy bastante tolerante y me agrada el trabajo en equipo. Busco un buen desarrollo profesional en conjunto con el equipo de trabajo. |[renzorevq24](https://github.com/renzorevq24)|
-|Mi nombre es **Carlos Andres Leon Rioja**, actualmente tengo 21 años y soy estudiante de la carrera de Ingenieria de Software en la UPC. Considero que soy una persona con paciencia, amable y positiva sin embargo aveces soy obstinado y terco. Soy bueno en programacion full stack y se lenguajes como C++, C#, Java y Phython. Busco obtener mas conocimiento y habilidades para desarrollarme como programador full stack.|![](/imgs/carlos.jpg)|
+| Mi nombre es **Renzo Zamir Revilla Quispe**, estudiante de la carrera de Ingenieria de Software, quinto ciclo. Cuento con un amplio conociemiento en programacion full stack y buena logica. En cuanto a mis habilidades blandas, soy bastante tolerante y me agrada el trabajo en equipo. Busco un buen desarrollo profesional en conjunto con el equipo de trabajo. |![renzorevq24](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU9wJNmTZqexxw-_HuIZZvis0VJfUJH4sYr_dTX3EmytYG3ozbtTjiKKnU0_2iQjFmtn8&usqp=CAU)|
+|Mi nombre es **Carlos Andres Leon Rioja**, actualmente tengo 21 años y soy estudiante de la carrera de Ingenieria de Software en la UPC. Considero que soy una persona con paciencia, amable y positiva sin embargo aveces soy obstinado y terco. Soy bueno en programacion full stack y se lenguajes como C++, C#, Java y Phython. Busco obtener mas conocimiento y habilidades para desarrollarme como programador full stack.|![](imgs/carlos.jpg)|
 |Mi nombre es **Mauro Fabricio Lopez de la Cruz**, tengo 19 años y soy estudiante de la carrera ingeneria de software de la UPC y actualmente estoy cursando el quito ciclo . Tengo conocomiento en c++ , python, html ,css, javascript. Me considero una persona amable con capacidad de tener una muy buena comunnicacion en trabajos en grupo para el desarrollo de proyectos dando y ayudando en la solucion de problemas .|![file](https://github.com/user-attachments/assets/1b71c4fb-ee8e-4b0e-89c7-ffd7841631d9)|
 
 
@@ -665,7 +664,7 @@ Entrevistas URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_up
 |-|-|
 |Edad|17|
 |Distrito|Surco|
-|Foto|![entrevista-1](/imgs/entrevista1.png)|
+|Foto|![entrevista-1](imgs/entrevista1.png)|
 |Time | 0:03 - 07:01 |
 |Analisis de Entrevista| Luis, un economista de 27 años, enfrenta el desafío de no poder controlar eficazmente el consumo y costo de sus recursos hídricos y eléctricos. Le resulta frustrante descubrir los ajustes en su presupuesto solo al recibir la factura al termino del mes. Por ello, desea una aplicación que le permita monitorear y gestionar su consumo en tiempo real. Además, considera esencial recibir alertas cuando el consumo exceda los límites establecidos, para poder actuar de manera preventiva y evitar sobrecostos inesperados. |
 
@@ -673,7 +672,7 @@ Entrevistas URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_up
 |-|-|
 |Edad|20|
 |Distrito|San Borja|
-|Foto|![entrevista-2](/imgs/entrevista2.png)|
+|Foto|![entrevista-2](imgs/entrevista2.png)|
 |Time | 07:01 - 11:34 |
 |Analisis de Entrevista| Christian actualmente enfrenta problemas para medir la productividad de su taller, ya que usa métodos manuales como hojas de cálculo. Esto le dificulta ver de inmediato qué máquinas están funcionando bien y cuáles no. Está buscando una solución tecnológica que le brinde datos más claros y en tiempo real, para así reducir los costos y mejorar la eficiencia. Aunque no tiene software especializado ahora, está interesado en invertir en una herramienta que le facilite el seguimiento de su producción sin interrumpir su trabajo diario. |
 
@@ -682,7 +681,7 @@ Entrevistas URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_up
 |-|-|
 |Edad|21|
 |Distrito|Surco|
-|Foto|![entrevista-3](/imgs/entrevista3.png)|
+|Foto|![entrevista-3](imgs/entrevista3.png)|
 |Time | 11:38 - 15:23 |
 |Analisis de Entrevista||
 
@@ -691,7 +690,7 @@ Entrevistas URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_up
 |-|-|
 |Edad|23|
 |Distrito|Villa el Salvador|
-|Foto|![entrevista-4](/imgs/entrevista4.png)|
+|Foto|![entrevista-4](imgs/entrevista4.png)|
 |Time | 15:25 - 20:02 |
 |Analisis de Entrevista||
 
@@ -933,7 +932,7 @@ En esta sección, presentamos los "To-Be Scenario Maps" para dos User Personas c
 
 <div id="33"><h2>3.3. Impact Mapping</h2></div>
 
-![ImpactMapping](/imgs/ImpactMapping.png)
+![ImpactMapping](imgs/ImpactMapping.png)
 
 *Imagen: Impact Mapping*
 
@@ -1170,43 +1169,43 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
 <div id="461"><h3>4.6.1. Software Architecture Context Diagram</h3></div>
 
-![Context Diagram](/imgs/structurizr-94669-Contexto.png)
+![Context Diagram](imgs/structurizr-94669-Contexto.png)
 
 *Imagen: Context Diagram*
 
 <div id="462"><h3>4.6.2 Software Architecture Container Diagrams</h3></div>
 
-![Container Diagram](/imgs/structurizr-94669-Contenedor.png)
+![Container Diagram](imgs/structurizr-94669-Contenedor.png)
 
 *Imagen: Container Diagram*
 
 <div id="463"><h3>4.6.3. Software Architecture Components Diagrams</h3></div>
 
-![Descripción de la imagen](/imgs/structurizr-94669-API%20Rest%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-API%20Rest%20Component%20Diagram.png)
 
 *Imagen: Components Diagrams*
 
-![Descripción de la imagen](/imgs/structurizr-94669-Consumption%20Monitoring%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-Consumption%20Monitoring%20Component%20Diagram.png)
 
 *Imagen: Consumption Monitor Component Diagram*
 
-![Descripción de la imagen](/imgs/structurizr-94669-Payment%20Processor%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-Payment%20Processor%20Component%20Diagram.png)
 
 *Imagen: Payment Proceessor Component Diagram*
 
-![Descripción de la imagen](/imgs/structurizr-94669-Report%20Generator%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-Report%20Generator%20Component%20Diagram.png)
 
 *Imagen: Report Generator Component Diagram*
 
-![Descripción de la imagen](/imgs/structurizr-94669-Security%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-Security%20Component%20Diagram.png)
 
 *Imagen: Security Component Diagram*
 
-![Descripción de la imagen](/imgs/structurizr-94669-Subscription%20Handler%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-Subscription%20Handler%20Component%20Diagram.png)
 
 *Imagen: Subscription Handler Component Diagram*
 
-![Descripción de la imagen](/imgs/structurizr-94669-User%20Management%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-User%20Management%20Component%20Diagram.png)
 
 *Imagen: User Management Component Diagram*
 
@@ -1289,7 +1288,7 @@ En este apartado presentamos el diseño de nuestro diagrama de base de datos, qu
 
 <br>
 
-![diagrama_base_de_datos](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/SmartFlowDataBase.png)
+![diagrama_base_de_datos](imgs/SmartFlowDataBase.png)
 
 <div id="5"><h1>Capítulo V: Product Implementation, Validation & Deployment</h1></div>
 <div id="51"><h2>5.1. Software Configuration Management</h2></div>
