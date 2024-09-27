@@ -1240,7 +1240,7 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 <div id="48"><h2>4.8. Database Design</h2></div>
 <div id="481"><h3>4.8.1. Database Diagram</h3></div>
 
-![diagrama_base_de_datos](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/SmartFlow-DataBase.png)
+![diagrama_base_de_datos](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/SmartFlowDataBase.png)
 
 <div id="5"><h1>Capítulo V: Product Implementation, Validation & Deployment</h1></div>
 <div id="51"><h2>5.1. Software Configuration Management</h2></div>
