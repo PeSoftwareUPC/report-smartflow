@@ -192,7 +192,8 @@ Se explican las ramas más prominentes:
    &emsp;&emsp;5.2.1.5. [Execution Evidence for Sprint Review](#5215) <br>
    &emsp;&emsp;5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216) <br>
    &emsp;&emsp;5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217) <br>
-   &emsp;&emsp;5.2.1.8. [Team Collaboration Insights during Sprint](#5218)
+   &emsp;&emsp;5.2.1.8. [Team Collaboration Insights during Sprint](#5218) <br>
+   
    &emsp;5.2.2. [Sprint 2](#522) <br>
    &emsp;&emsp;5.2.2.1. [Sprint Planning 2](#5221) <br>
    &emsp;&emsp;5.2.2.2. [Sprint Backlog 2](#5222) <br>
