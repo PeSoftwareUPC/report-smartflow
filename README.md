@@ -836,21 +836,14 @@ En esta sección, presentamos los "To-Be Scenario Maps" para dos User Personas c
 
 **Persona 1: Pedro Gonzales**
 
-| **Phase**         | **Monitoreo eficiente de recursos**            | **Identificación automática de ineficiencias**        | **Optimización continua con tecnología**           |
-|-------------------|------------------------------------------------|------------------------------------------------------|---------------------------------------------------|
-| **Doing**         | Pedro utiliza una herramienta que le permite monitorear en tiempo real el consumo de electricidad y agua en su taller. | El sistema identifica automáticamente las máquinas y procesos que son ineficientes. | Pedro implementa soluciones tecnológicas sugeridas por el sistema para optimizar los procesos. |
-| **Thinking**      | "Ahora tengo control total sobre los recursos que se consumen en mi taller." | "Finalmente sé exactamente qué procesos están generando pérdidas y cómo corregirlos." | "Con esta tecnología, puedo mejorar continuamente la eficiencia y reducir costos." |
-| **Feeling**       | Aliviado al tener visibilidad total del consumo de recursos. | Satisfecho de poder corregir ineficiencias antes de que se conviertan en un problema. | Confiado en que su taller es competitivo y sostenible a largo plazo. |
+![image](https://github.com/user-attachments/assets/cc1dccd0-b3c9-4a06-9097-49d869d7d557)
+
 
 ---
 
 **Persona 2: Jesús Castillo**
 
-| **Phase**         | **Monitoreo en tiempo real de consumo en el hogar** | **Detección de patrones de consumo**                 | **Ajuste automático de dispositivos**              |
-|-------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------------------------------|
-| **Doing**         | Jesús utiliza una aplicación que le permite ver en tiempo real el consumo de agua y electricidad en su hogar. | La herramienta identifica patrones de consumo altos y ofrece sugerencias para reducir el uso. | Jesús permite que la aplicación ajuste automáticamente el uso de ciertos dispositivos para evitar picos de consumo. |
-| **Thinking**      | "Ahora puedo ver fácilmente cómo y cuándo estoy consumiendo más recursos." | "Ya sé qué hábitos ajustar para evitar el incremento en mis facturas." | "Con los ajustes automáticos, puedo reducir el consumo sin pensar demasiado en ello." |
-| **Feeling**       | Tranquilo porque tiene control total sobre su consumo y facturas. | Satisfecho al reducir los costos y evitar sorpresas en las facturas. | Aliviado al ver que su presupuesto está bajo control sin grandes esfuerzos de su parte. |
+![image](https://github.com/user-attachments/assets/81f55311-8a70-4044-9fb6-00dcd611709e)
 
 
 <div id="32"><h2>3.2. User Stories</h2></div>
