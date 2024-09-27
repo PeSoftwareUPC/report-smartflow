@@ -675,7 +675,7 @@ Entrevistas URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_up
 |Distrito|San Borja|
 |Foto|![entrevista-2](/imgs/entrevista2.png)|
 |Time | 07:01 - 11:34 |
-|Analisis de Entrevista||
+|Analisis de Entrevista| Christian actualmente enfrenta problemas para medir la productividad de su taller, ya que usa métodos manuales como hojas de cálculo. Esto le dificulta ver de inmediato qué máquinas están funcionando bien y cuáles no. Está buscando una solución tecnológica que le brinde datos más claros y en tiempo real, para así reducir los costos y mejorar la eficiencia. Aunque no tiene software especializado ahora, está interesado en invertir en una herramienta que le facilite el seguimiento de su producción sin interrumpir su trabajo diario. |
 
 
 |Entevistado 3|Alejandra Gallo|
