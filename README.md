@@ -1824,139 +1824,274 @@ Se planeó el segundo sprint a través de una reunión en Meet. Para ello, se hi
 <br>
 
 
-<div id="5212"><h4>5.2.2.2. Sprint Backlog 2</h4></div>
+<div id="5223"><h4>5.2.2.3. Development Evidence for Sprint Review</h4></div>
 
+Se realizaron los avances con los commits correspondiente en el repositorio de la siguiente forma.
 
-El objetivo de este segundo sprint es la implementación del Frontend de nuestra aplicación web. Además, se trabajó con una tabla en Trello para manejar los Work-Items de forma adecuada.
+Repositorio Landing Page: https://github.com/PeSoftwareUPC/SmartFlow-FrontEnd
 
-
-<table><thead>
+<table style="undefined;table-layout: fixed; width: 1159px"><colgroup>
+<col style="width: 265px">
+<col style="width: 140px">
+<col style="width: 103px">
+<col style="width: 514px">
+<col style="width: 137px">
+</colgroup>
+<thead>
   <tr>
-    <th>Sprint 2</th>
-    <th colspan="7">Sprint n</th>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on (Date)</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td colspan="2">User Story</td>
-    <td colspan="6">Work-Item / Task</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>main</td>
+    <td>18703ea</td>
+    <td>initial commit</td>
+    <td>27/09/2024</td>
   </tr>
   <tr>
-    <td>Id</td>
-    <td>Title</td>
-    <td>Id</td>
-    <td>Title</td>
-    <td>Description</td>
-    <td>Estimation (Hours)</td>
-    <td>Assigned To</td>
-    <td>Status (To-do / In-Process / To-Review / Done)</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>develop</td>
+    <td>18703ea</td>
+    <td>chore: add base struct of the project</td>
+    <td>27/09/2024</td>
   </tr>
   <tr>
-    <td>US01</td>
-    <td>Ver dashboard de consumo total </td>
-    <td>TS01</td>
-    <td>Implementar dashboard</td>
-    <td>Desarrollar un dashboard que muestre el consumo total.</td>
-    <td>5</td>
-    <td>Williams Gongora<br>Johan Quiñones</td>
-    <td>Done</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/home</td>
+    <td>0cb2ee7</td>
+    <td>feat: add home page component</td>
+    <td>27/09/2024</td>
   </tr>
   <tr>
-    <td>US03</td>
-    <td>Visualizar gráficos comparativos</td>
-    <td>TS02</td>
-    <td>Crear gráficos comparativos</td>
-    <td>Desarrollar gráficos que comparen el consumo entre diferentes periodos.</td>
-    <td>4</td>
-    <td>Fabricio Lopez<br>Carlos Leon</td>
-    <td>Done</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/toolbar</td>
+    <td>13547db</td>
+    <td>feat: add toolbar.component.css and update toolbar.component.html</td>
+    <td>27/09/2024</td>
   </tr>
   <tr>
-    <td>US04</td>
-    <td>Filtrar datos de consumo</td>
-    <td>TS03</td>
-    <td>Implementar filtro de consumo</td>
-    <td>Desarrollar un filtro para ver el consumo de manera personalizada.</td>
-    <td>3</td>
-    <td>Williams Gongora<br>Johan Quiñones</td>
-    <td>Done</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/toolbar</td>
+    <td>ee8efdf</td>
+    <td>feat: add toolbar.component.html</td>
+    <td>27/09/2024</td>
   </tr>
   <tr>
-    <td>US05</td>
-    <td>Mostrar resumen de consumo, costos, eficiencia y alarmas</td>
-    <td>TS05</td>
-    <td>Generar resumen de consumo</td>
-    <td>Implementar una vista que resuma el consumo, costos y alertas.</td>
-    <td>5</td>
-    <td>Williams Gongora<br>Johan Quiñones</td>
-    <td>Done</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/side-navigations-bar</td>
+    <td>0c1a4a4</td>
+    <td>feat: add app.module</td>
+    <td>27/09/2024</td>
   </tr>
   <tr>
-    <td>US18</td>
-    <td>Visualizar consumo personal</td>
-    <td>TS06</td>
-    <td>Implementar vista de consumo personal</td>
-    <td>Desarrollar una vista donde cada usuario pueda ver su consumo personal.</td>
-    <td>4</td>
-    <td>Johan Quiñones</td>
-    <td>Done</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/side-navigations-bar</td>
+    <td>a37f126</td>
+    <td>feat: add side-navigation-bar functions and struct in html</td>
+    <td>27/09/2024</td>
   </tr>
   <tr>
-    <td>US27</td>
-    <td>Filtrar trabajadores</td>
-    <td>TS07</td>
-    <td>Implementar filtro de trabajadores</td>
-    <td>Desarrollar un filtro para ver trabajadores según diferentes criterios.</td>
-    <td>3</td>
-    <td>Johan Quiñones</td>
-    <td>Done</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/side-navigations-bar</td>
+    <td>99567a9</td>
+    <td>style: add styles for side-navigation-ba</td>
+    <td>27/09/2024</td>
   </tr>
   <tr>
-    <td>US28</td>
-    <td>Mostrar lista de trabajadores</td>
-    <td>TS08</td>
-    <td>Crear lista de trabajadores</td>
-    <td>Desarrollar una vista que muestre una lista de trabajadores.</td>
-    <td>3</td>
-    <td>Williams Gongora<br>Johan Quiñones</td>
-    <td>Done</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/worker-details</td>
+    <td>bed5432</td>
+    <td>feat: add worker-details.component.ts</td>
+    <td>27/09/2024</td>
   </tr>
   <tr>
-    <td>US29</td>
-    <td>Editar datos del trabajador</td>
-    <td>TS09</td>
-    <td>Habilitar edición de datos</td>
-    <td>Implementar la funcionalidad para editar los datos del trabajador.</td>
-    <td>4</td>
-    <td>Johan Quiñones</td>
-    <td>Done</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/worker-details</td>
+    <td>d259e0c</td>
+    <td>feat: add worker-edit-details.component.html</td>
+    <td>27/09/2024</td>
   </tr>
   <tr>
-    <td>US30</td>
-    <td>Guardar cambios de los datos del trabajador</td>
-    <td>TS10</td>
-    <td>Implementar guardado de cambios</td>
-    <td>Desarrollar la funcionalidad para guardar los cambios realizados en los datos del trabajador.</td>
-    <td>3</td>
-    <td>Renzo Revilla</td>
-    <td>Done</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>7d84005</td>
+    <td>feat: add machine entity</td>
+    <td>27/09/2024</td>
   </tr>
   <tr>
-    <td>US31</td>
-    <td>Volver a la lista de trabajadores</td>
-    <td>TS11</td>
-    <td>Implementar navegación</td>
-    <td>Habilitar la funcionalidad de volver a la lista de trabajadores después de editar un perfil.</td>
-    <td>2</td>
-    <td>Fabricio Lopez<br>Carlos Leon</td>
-    <td>Done</td>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>91adaad</td>
+    <td>feat: implement getAll in machine service</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>175edbb</td>
+    <td>style: add styles for features</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>ba90cec</td>
+    <td>Merge pull request #6 from PeSoftwareUPC/feature/features</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>df8299d</td>
+    <td>style: add styles for testimonials feature</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>a55fc55</td>
+    <td>Merge pull request #11 from PeSoftwareUPC/feature/testimonials</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>b752567</td>
+    <td>style: add machine-card.component.css</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>395209b</td>
+    <td>feat: add machine-card.component.html</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>7461d36</td>
+    <td>feat: add machine-card.component.ts</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>e1984cb</td>
+    <td>style: add machine-list.component.css</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>64470ef</td>
+    <td>feat: add machine-list.component.html</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/machine</td>
+    <td>d8281df</td>
+    <td>feat: add machine-list.component.ts</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>6e781d3</td>
+    <td>feat: add company entity</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>3532a0d</td>
+    <td>feat: add dashboard.component.html</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>528d2c3</td>
+    <td>feat:add Total consumption</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>4960cfd</td>
+    <td>feat: add alert</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>5e90af4</td>
+    <td>feat: add Select Worker</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>14ade6d</td>
+    <td>feat: add loadCompanies</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>a87550c</td>
+    <td>feat: add loadWorkers</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>0ca4dbe</td>
+    <td>feat: add SelectCompany and SelectWorker</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>9400300</td>
+    <td>feat: add css</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>5bf9193</td>
+    <td>feat: add worker.entity</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>246c69b</td>
+    <td>feat: add worker.service.ts</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>feature/dashboard</td>
+    <td>46181cc</td>
+    <td>feat: add company.service.ts</td>
+    <td>27/09/2024</td>
+  </tr>
+  <tr>
+    <td>PeSoftwareUPC/SmartFlow-FrontEnd</td>
+    <td>main</td>
+    <td>2d0edca</td>
+    <td>Merge pull request #15 from PeSoftwareUPC/develop</td>
+    <td>27/09/2024</td>
   </tr>
 </tbody></table>
-
-<div id="5223"><h4>5.2.2.3. Development Evidence for Sprint Review</h4></div>
-
-
-
-
 
 <div id="5224"><h4>5.2.2.4. Testing Suite Evidence for Sprint Review</h4></div>
 
@@ -2087,8 +2222,15 @@ La asignación de tareas para la implementación se dividió por secciones, dond
 
 <br>
 
+![evidencia 1](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev10.png)
+*Imagen: Evidencia Team Collaborations*
 
+<br>
 
+![evidencia 2](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev9.png)
+*Imagen: Evidencia Team Collaborations*
+
+<br>
 
 
 
