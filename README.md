@@ -1073,6 +1073,13 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 ![upload_82dab9dc17a480895c81c869730ade7b](https://github.com/user-attachments/assets/f431fa53-b9fb-4168-bef5-76ffafc910dd)
 
 <div id="">
+    <h4>Wireframes de la pagina para modificar perfiles</h4>
+    <p>Aqui se muestra la pagina de cambiar los perfiles de los empleados</p>
+</div>
+
+![image](https://github.com/user-attachments/assets/31dc309a-dfda-4fcd-a638-2b05fd56595d)
+
+<div id="">
     <h4>Wireframes de la pagina para el dashboard</h4>
     <p>La pagina principal de la cuenta del usuario</p>
 </div>
