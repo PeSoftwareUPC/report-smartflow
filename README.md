@@ -1118,41 +1118,25 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 <div id="443"><h3>4.4.3. Web Applications Mock-ups</h3></div>
 
 <div id="">
-    <h4>Mock-up de la pagina para iniciar sesion</h4>
-    <p></p>
-</div>
-
-![1](https://github.com/user-attachments/assets/5718e8d8-67c5-45b8-8532-8476c2a2254f)
-
-<div id="">
-    <h4>Mock-up de la pagina para registrarse</h4>
-    <p></p>
-</div>
-
-![2](https://github.com/user-attachments/assets/ac860a76-9e25-4ee6-8188-6475c8d41c78)
-
-<div id="">
     <h4>Mock-up de la pagina para el dashboard</h4>
     <p></p>
 </div>
 
-![4](https://github.com/user-attachments/assets/7d292c52-59fa-4dd9-ab95-936f76308ea1)
-![3](https://github.com/user-attachments/assets/ef058074-f202-4423-9239-0c40b67fa476)
-![5](https://github.com/user-attachments/assets/8111ae98-0f8e-4308-a475-bdad31bb1a69)
+![image](https://github.com/user-attachments/assets/0b09b0a2-88fb-479c-853e-804e5303ce77)
 
 <div id="">
     <h4>Mock-up de la pagina de los dispositivos</h4>
     <p></p>
 </div>
 
-![6](https://github.com/user-attachments/assets/cebcfa98-3a81-49b6-9b29-b3f892e6e1b2)
+![image](https://github.com/user-attachments/assets/362c0628-916b-460d-b2f7-9a958327b799)
 
 <div id="">
-    <h4>Mock-up de la pagina de informes</h4>
+    <h4>Mock-up de la pagina de perfiles</h4>
     <p></p>
 </div>
 
-![7](https://github.com/user-attachments/assets/86029522-a180-4649-ac8a-eedd5b5535a9)
+![Img](https://github.com/user-attachments/assets/903f1cd8-7eef-408f-acd7-4410b1994061)
 
 <div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
 
