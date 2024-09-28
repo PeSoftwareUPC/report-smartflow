@@ -658,10 +658,10 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 **Entrevista a dueños de hogar que poseen consumo de agua y luz.**
 
-|Entevistado 1|wii|
+|Entevistado 1|Nilson Senarque|
 |-|-|
-|Edad|wuii|
-|Distrito|isdds|
+|Edad|28|
+|Distrito|Villa el Salvador|
 |<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
 |Timing: 0:07-15:15 |URL:-- |
 
