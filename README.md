@@ -1952,6 +1952,10 @@ El objetivo de este segundo sprint es la implementación del Frontend de nuestra
   </tr>
 </tbody></table>
 
+<div id="5223"><h4>5.2.2.3. Development Evidence for Sprint Review</h4></div>
+
+
+
 
 
 <div id="5224"><h4>5.2.2.4. Testing Suite Evidence for Sprint Review</h4></div>
@@ -2067,6 +2071,25 @@ Para el Frontend Web Application, utilizamos la pagina https://my-json-server.ty
 
 <br>
 
+<div id="5228"><h4>5.2.2.8. Team Collaboration Insights during Sprint</h4></div>
+
+La asignación de tareas para la implementación se dividió por secciones, donde cada miembro del equipo fue responsable de desarrollar una parte de la Aplicacion Web:
+
+* Quiñones Tintaya, Johan Jorge: Implementacion del dashboard, Filtro de Compañias y Empleados, Inplementacion de perfil
+
+* Lopez de la Cruz Mauro Fabricio: Edicion de Perfiles de Trabajadores
+
+* Carlos Andres, Leon Rioja: Implementacion de dispósitivos
+
+* Revilla Quispe, Renzo Zamir: SideBar, Implementacion del landing a la aplicacion web
+
+* Gongora Castillejos, Williams Jesus: Implementacion del landing a la aplicacion web, Implementacion de Dashboard
+
+<br>
+
+
+
+
 
 
 <div id="conclusiones"><h1>Conclusiones</h1></div>
@@ -2126,6 +2149,7 @@ Thiengo, D. (2023). Eficiência energética: Vantagens, aplicação e avaliaçã
 <div id="anexo1"><h2>Anexo N°1: Número de clientes finales por sectores</h2></div>
 
 
-![jouneymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/ANEXO1.png)
+![Anexo1](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/ANEXO1.png)
+
 *Imagen :Número de clientes finales por sectores*
 Recuperado de: https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anuario-estadistico-2022.pdf?v=1697225335
