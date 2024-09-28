@@ -1147,15 +1147,15 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 
 <div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
 
-![3](https://github.com/user-attachments/assets/d329baf4-00b6-4516-8db6-547d285a8019)
-![2](https://github.com/user-attachments/assets/a84df587-74c6-443f-a333-581d83e6dd90)
-![1](https://github.com/user-attachments/assets/102ed9c8-8ef4-4c08-8943-5d9c22b9419f)
+![2](https://github.com/user-attachments/assets/11ba13ed-9d18-4ab9-847a-85f7983bed96)
+![3](https://github.com/user-attachments/assets/58eed678-7f61-4dd2-9ec2-6a90d997a749)
+![1](https://github.com/user-attachments/assets/9400273a-0119-4e93-9a4b-dcfd91ed17a5)
 
 <div id="45"><h3>4.5. Web Applications Prototyping</h3></div>
 
 <h4>Demostracion de la funcionalidad del Web Application Prototyping</h4>
 
-<p>https://www.youtube.com/embed/LA5KA8O8dPc?si=aK6Vg5pioRPri7Yz</p>
+<p>https://drive.google.com/file/d/1xJDPF4SbiWLOIjMvgNydBoEpP7Dra5y5/view?usp=sharing</p>
 
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
 <div id="461"><h3>4.6.1. Software Architecture Context Diagram</h3></div>
