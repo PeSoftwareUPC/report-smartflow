@@ -1019,8 +1019,10 @@ Product Backlog in Jira URL: https://quinonesjorge83.atlassian.net/jira/software
 <strong>Tone of Communication:</strong> Adoptamos un tono respetuoso y accesible, equilibrando formalidad con cercanía, adaptando el lenguaje según la audiencia.
 
 <div id="412"><h3>4.1.2. Web Style Guidelines</h3></div>
-<!--<p>Las pautas de estilo web de SmartFlow están diseñadas para garantizar una experiencia de usuario coherente y visualmente atractiva en todas las plataformas. Se utiliza un diseño de cuadrícula para mantener la alineación y el espaciado consistentes. Los colores principales son el azul (#9ec0f7) para resaltar información importante y el verde (#87dbbe) para indicadores positivos.</p>
-<p>La tipografía Sans Serif es utilizada en toda la interfaz, con tamaños de fuente diferenciados para encabezados, subtítulos y cuerpo del texto, manteniendo la jerarquía visual. Los botones y enlaces están diseñados con bordes redondeados y un espacio amplio para facilitar la interacción táctil. Además, se asegura que todos los elementos interactivos cambien de color o muestren algún feedback visual cuando se les hace clic o se pasa el cursor sobre ellos, mejorando la accesibilidad y la experiencia de usuario.</p> -->
+
+Las pautas de estilo web de SmartFlow están diseñadas para garantizar una experiencia de usuario coherente y visualmente atractiva en todas las plataformas. Se utiliza un diseño de cuadrícula para mantener la alineación y el espaciado consistentes. Los colores principales son el azul (#9ec0f7) para resaltar información importante y el verde (#87dbbe) para indicadores positivos.
+
+La tipografía Sans Serif es utilizada en toda la interfaz, con tamaños de fuente diferenciados para encabezados, subtítulos y cuerpo del texto, manteniendo la jerarquía visual. Los botones y enlaces están diseñados con bordes redondeados y un espacio amplio para facilitar la interacción táctil. Además, se asegura que todos los elementos interactivos cambien de color o muestren algún feedback visual cuando se les hace clic o se pasa el cursor sobre ellos, mejorando la accesibilidad y la experiencia de usuario.
 
 <div id="42"><h2>4.2. Information Architecture</h2></div>
 <div id="421"><h3>4.2.1. Organization Systems</h3></div>
