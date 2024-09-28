@@ -56,6 +56,7 @@ width=30%"/>
 |Versión|Fecha|Autor|Descripción de modificación|
 |:-:|:-:|:-:|:-:|
 |TB1|08/09/2024|Gongora Castillejos, Williams Jesus</br></br>Quiñones Tintaya, Johan Jorge</br></br>Carlos Andres, Leon Rioja</br></br>Revilla Quispe, Renzo Zamir</br></br> opez de la Cruz Mauro Fabricio|Creación del documento de trabajo en formato markdown, capítulo I, capítulo II, capítulo III, capítulo IV y capítulo V    |
+|TP1|27/09/2024|Gongora Castillejos, Williams Jesus</br></br>Quiñones Tintaya, Johan Jorge</br></br>Carlos Andres, Leon Rioja</br></br>Revilla Quispe, Renzo Zamir</br></br> opez de la Cruz Mauro Fabricio|Correccion de errores e Implementación de todo el Sprint 2 |
 
 </br></br>
 
@@ -71,8 +72,8 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 |Integrante|Tareas Asignadas|
 |-|-|
 |Williams Gongora Castilejos|Capitulo I, Antecedentes y problemática 5W y 2H, Segmentos Objetivos,, Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, Database Design, Database Diagram, Sprint 1|
-Johan Jorge Quiñones Tintaya|
-|Lopez de la Cruz Mauro Fabricio|
+Johan Jorge Quiñones Tintaya||
+|Lopez de la Cruz Mauro Fabricio||
 |Renzo Zamir Revilla Quispe|Organizations Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Class Diagrams, Class Dictionary|
 |Carlos Andres Leon Rioja|Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User FLow Diagrams, Web Applications Prototyping y Domain-Driven Software Architecture|
 
@@ -103,12 +104,35 @@ Se explican las ramas más prominentes:
 
 **develop:**  es la rama principal para el desarrollo continuo del proyecto.
 
-**feature**: contiene los cambios constantes realizados por los artefactos relacionados con el sprint 1 del informe.
+**feature**: contiene los cambios constantes realizados por los artefactos relacionados con el sprint del informe.
 
-**TB1**
+**TB1 y TP1**
 
-**(imagen de la colaboracion de cada integrante)**
-**(imagen del grafico en conjunto)**
+<br>
+
+![evidencia](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev12.png)
+*Imagen: Evidencia Github Collaboration*
+
+<br>
+
+
+![evidencia](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev13.png)
+*Imagen: Evidencia Github Collaboration*
+
+<br>
+
+
+![evidencia](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev11.png)
+*Imagen: Evidencia Github Collaboration*
+
+<br>
+
+
+![evidencia](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev14.png)
+*Imagen: Evidencia Github Collaboration*
+
+<br>
+
 
 
 ## Contenido
@@ -2291,7 +2315,7 @@ Thiengo, D. (2023). Eficiência energética: Vantagens, aplicação e avaliaçã
 <div id="anexo1"><h2>Anexo N°1: Número de clientes finales por sectores</h2></div>
 
 
-![Anexo1](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/ANEXO1.png)
+![Anexo1](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/ANEXO1.png) 
 
-*Imagen :Número de clientes finales por sectores*
+*Imagen: Número de clientes finales por sectores*  <br>
 Recuperado de: https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anuario-estadistico-2022.pdf?v=1697225335
