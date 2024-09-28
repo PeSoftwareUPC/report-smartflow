@@ -965,8 +965,6 @@ Product Backlog in Jira URL: https://quinonesjorge83.atlassian.net/jira/software
 
 <br>
 
-# Product Backlog - HydroSafe
-
 | #  | User Story Id  | Título                                      | Descripción                                                                                                                  | Story Points |
 |----|----------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|--------------|
 | 1  | US021          | Implementación sección de contacto           | Como visitante interesado, quiero llenar un formulario de contacto para recibir más información sobre el producto.            | 2            |
