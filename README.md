@@ -1823,6 +1823,137 @@ Se planeó el segundo sprint a través de una reunión en Meet. Para ello, se hi
 
 <br>
 
+
+<div id="5212"><h4>5.2.2.2. Sprint Backlog 2</h4></div>
+
+
+El objetivo de este segundo sprint es la implementación del Frontend de nuestra aplicación web. Además, se trabajó con una tabla en Trello para manejar los Work-Items de forma adecuada.
+
+
+<table><thead>
+  <tr>
+    <th>Sprint 2</th>
+    <th colspan="7">Sprint n</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned To</td>
+    <td>Status (To-do / In-Process / To-Review / Done)</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Ver dashboard de consumo total </td>
+    <td>TS01</td>
+    <td>Implementar dashboard</td>
+    <td>Desarrollar un dashboard que muestre el consumo total.</td>
+    <td>5</td>
+    <td>Williams Gongora<br>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Visualizar gráficos comparativos</td>
+    <td>TS02</td>
+    <td>Crear gráficos comparativos</td>
+    <td>Desarrollar gráficos que comparen el consumo entre diferentes periodos.</td>
+    <td>4</td>
+    <td>Fabricio Lopez<br>Carlos Leon</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Filtrar datos de consumo</td>
+    <td>TS03</td>
+    <td>Implementar filtro de consumo</td>
+    <td>Desarrollar un filtro para ver el consumo de manera personalizada.</td>
+    <td>3</td>
+    <td>Williams Gongora<br>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Mostrar resumen de consumo, costos, eficiencia y alarmas</td>
+    <td>TS05</td>
+    <td>Generar resumen de consumo</td>
+    <td>Implementar una vista que resuma el consumo, costos y alertas.</td>
+    <td>5</td>
+    <td>Williams Gongora<br>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US18</td>
+    <td>Visualizar consumo personal</td>
+    <td>TS06</td>
+    <td>Implementar vista de consumo personal</td>
+    <td>Desarrollar una vista donde cada usuario pueda ver su consumo personal.</td>
+    <td>4</td>
+    <td>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US27</td>
+    <td>Filtrar trabajadores</td>
+    <td>TS07</td>
+    <td>Implementar filtro de trabajadores</td>
+    <td>Desarrollar un filtro para ver trabajadores según diferentes criterios.</td>
+    <td>3</td>
+    <td>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US28</td>
+    <td>Mostrar lista de trabajadores</td>
+    <td>TS08</td>
+    <td>Crear lista de trabajadores</td>
+    <td>Desarrollar una vista que muestre una lista de trabajadores.</td>
+    <td>3</td>
+    <td>Williams Gongora<br>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US29</td>
+    <td>Editar datos del trabajador</td>
+    <td>TS09</td>
+    <td>Habilitar edición de datos</td>
+    <td>Implementar la funcionalidad para editar los datos del trabajador.</td>
+    <td>4</td>
+    <td>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US30</td>
+    <td>Guardar cambios de los datos del trabajador</td>
+    <td>TS10</td>
+    <td>Implementar guardado de cambios</td>
+    <td>Desarrollar la funcionalidad para guardar los cambios realizados en los datos del trabajador.</td>
+    <td>3</td>
+    <td>Renzo Revilla</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US31</td>
+    <td>Volver a la lista de trabajadores</td>
+    <td>TS11</td>
+    <td>Implementar navegación</td>
+    <td>Habilitar la funcionalidad de volver a la lista de trabajadores después de editar un perfil.</td>
+    <td>2</td>
+    <td>Fabricio Lopez<br>Carlos Leon</td>
+    <td>Done</td>
+  </tr>
+</tbody></table>
+
+
+
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
 En este primer entregable de la startup enfocada en el ahorro de luz y agua, así como en la mejora de la producción en un taller, es fundamental establecer una comunicación efectiva. Una comunicación clara entre desarrolladores y colaboradores no solo mejora la calidad del trabajo, sino que también facilita la resolución rápida de problemas.
