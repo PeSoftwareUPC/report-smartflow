@@ -1954,6 +1954,121 @@ El objetivo de este segundo sprint es la implementación del Frontend de nuestra
 
 
 
+<div id="5224"><h4>5.2.2.4. Testing Suite Evidence for Sprint Review</h4></div>
+
+Se llevaron a cabo las pruebas de aceptación para las historias de usuario implementadas, empleando el lenguaje Gherkin en archivos feature. Estas pruebas fueron documentadas y almacenadas en el repositorio.
+
+Repositorio de Pruebas de Aceptación: https://github.com/PeSoftwareUPC/AcceptanceTests.git
+
+|Repository|Branch|Commit Id|Commit Message|Commited on (Date)|
+|--|--|--|--|--|
+|PeSoftwareUPC/AcceptanceTests|main|7c8d42b|feat: added feature file for US01|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|61dc91a|feat: added feature file for US03|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|2b3c87a|feat: added feature file for US04|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|c944c11|feat: added feature file for US18|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|3373163|feat: added feature file for US27|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|64d50f8|feat: added feature file for US28|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|4579b9c|feat: added feature file for US29|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|5855207|feat: added feature file for US30|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|cd298d7|feat: added feature file for US31|27/09/2024|
+
+
+
+<div id="5225"><h4>5.2.2.5. Execution Evidence for Sprint Review</h4></div>
+
+En esta parte se presentará el progreso alcanzado durante el primer sprint, enfocado en la implementación de la Landing Page estática. Para ilustrar este avance, se ha creado el siguiente video, que incluye una explicación y capturas que evidencian el desarrollo de la página web.
+
+URL del video: [Video Landing Page](https://drive.google.com/file/d/1x7sWsRh-ie01PDHmFpaDi13PdFOh3OCm/view?usp=sharing)
+
+<br>
+
+* Implementamos la seccion principal
+
+![Hero seccion](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev1.png)
+*Imagen: Seccion Principal*
+
+<br>
+
+* Implementación del Testimonio y Planes
+
+![formulario de contacto](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev2.png)
+*Imagen: Seccion Inferior*
+
+<br>
+
+* Implementación del resumen y dashboard
+
+![características](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev3.png)
+*Imagen: Características*
+
+<br>
+
+* Implementación de Dispositivos
+
+![beneficios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev4.png)
+*Imagen: Dispositivos*
+
+<br>
+
+* Implementación de Perfiles
+
+![planes de precios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev5.png)
+*Imagen: Profile*
+
+<br>
+
+
+* Implementación de la Edicion de Trabajadores
+
+![sección de testimonios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev6.png)
+*Imagen: Perfil Trabajadores*
+
+
+</br></br>
+
+<div id="5226"><h4>5.2.2.6. Services Documentation Evidence for Sprint Review</h4></div>
+
+En el alcance de este sprint 2, se ha priorizado el desarrollo de la parte de Front-end de la aplicación web, por lo que en este caso no se evidencia el empleo de web services.
+
+<div id="5227"><h4>5.2.2.7. Software Deployment Evidence for Sprint Review</h4></div>
+
+Al finalizar el trabajo con todas las historias de usuario, realizamos el despliegue de la Aplicacion Web utilizando GitHub Pages.
+
+URL de despliegue de la Landing Page: https://johaanq.github.io/SmartFlow-FrontEnd/
+
+
+Para el Frontend Web Application, utilizamos la pagina https://my-json-server.typicode.com/johaanq/smartflow-fake-api para alojar nuestros API creados a partir del db.json, solo creamos los repositorios en GitHub que alojan cada parte de nuestro API.
+
+<br>
+
+![api](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev8.png)
+*Imagen: Configuracion del API fake*
+
+<br>
+
+* Para realizar el despliegue, accedimos a la configuración del repositorio y navegamos a la sección de Pages. Posteriormente, seleccionamos la rama main desde la cual se llevará a cabo el deployment.
+
+![paso1-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Paso1-page.png)
+*Imagen: Configuracion de rama*
+
+<br>
+
+* Finalmente, solo queda esperar a que GitHub genere la página y proporcione el enlace correspondiente.
+
+
+
+![paso2-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Paso2-page.png)
+*Imagen: Creacion de url*
+
+<br>
+
+![paso3-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev1.png)
+*Imagen: Deployment de la Aplicacion Web*
+
+<br>
+
+
+
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
 En este primer entregable de la startup enfocada en el ahorro de luz y agua, así como en la mejora de la producción en un taller, es fundamental establecer una comunicación efectiva. Una comunicación clara entre desarrolladores y colaboradores no solo mejora la calidad del trabajo, sino que también facilita la resolución rápida de problemas.
