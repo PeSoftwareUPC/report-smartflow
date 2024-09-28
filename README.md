@@ -73,7 +73,7 @@ Para el desarrollo del informe correspondiente a la entrega TB1, se estableció 
 |-|-|
 |Williams Gongora Castilejos|Capitulo I, Antecedentes y problemática 5W y 2H, Segmentos Objetivos,, Needfinding, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, Database Design, Database Diagram, Sprint 1, Sprint 2|
 Johan Jorge Quiñones Tintaya| Domain Driven Design Architecture, Context Diagram, Container Diagram, Components Diagram, Software Configuration Managment, Entrevistas, Analisis de entrevistas, Sprint 1. |
-|Lopez de la Cruz Mauro Fabricio||
+|Lopez de la Cruz Mauro Fabricio|Competidores ,Mejoramiento del informe, Software Development Environment Configuration,Source Code Management,creacion del componente dashboard, creacion de la parte bashboard en la aplicacion web|
 |Renzo Zamir Revilla Quispe|Organizations Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, Class Diagrams, Class Dictionary|
 |Carlos Andres Leon Rioja|Web Applications UX/UI Design, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User FLow Diagrams, Web Applications Prototyping y Domain-Driven Software Architecture|
 
