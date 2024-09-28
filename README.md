@@ -3,7 +3,7 @@
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<img src=https://github.com/PeSoftwareUPC/report-smartflow/blob/main/imgs/UPC-logo.png
+<img src="imgs/UPC-logo.png"
 alt="Logo UPC"
 style="display: block; 
 margin-left:auto; 
@@ -192,7 +192,17 @@ Se explican las ramas más prominentes:
    &emsp;&emsp;5.2.1.5. [Execution Evidence for Sprint Review](#5215) <br>
    &emsp;&emsp;5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216) <br>
    &emsp;&emsp;5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217) <br>
-   &emsp;&emsp;5.2.1.8. [Team Collaboration Insights during Sprint](#5218)
+   &emsp;&emsp;5.2.1.8. [Team Collaboration Insights during Sprint](#5218) <br>
+   
+   &emsp;5.2.2. [Sprint 2](#522) <br>
+   &emsp;&emsp;5.2.2.1. [Sprint Planning 2](#5221) <br>
+   &emsp;&emsp;5.2.2.2. [Sprint Backlog 2](#5222) <br>
+   &emsp;&emsp;5.2.2.3. [Development Evidence for Sprint Review](#5223) <br>
+   &emsp;&emsp;5.2.2.4. [Testing Suite Evidence for Sprint Review](#5224) <br>
+   &emsp;&emsp;5.2.2.5. [Execution Evidence for Sprint Review](#5225) <br>
+   &emsp;&emsp;5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226) <br>
+   &emsp;&emsp;5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227) <br>
+   &emsp;&emsp;5.2.2.8. [Team Collaboration Insights during Sprint](#5228)
    
 
 6. [**Conclusiones**](#conclusiones)
@@ -213,10 +223,11 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 
 </br>
 
-| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
-|-------------------------|--------------------------|------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | Gongora Castillejos, Williams <br> **TB1:** Durante la presentación de la problemática y la solución SmartFlow en la reunión del equipo, expuse claramente el perfil de la startup, los antecedentes y la propuesta técnica.<br> - <br> - <br> - <br> - | Como equipo, logramos hacer presentaciones claras y efectivas, lo que permitió que todos los involucrados, incluso aquellos sin conocimientos técnicos, comprendieran la propuesta y su importancia. Esto mostró nuestra capacidad para comunicarnos bien con diferentes tipos de audiencia.|
-| Comunica por escrito con efectividad a diferentes rangos de audiencia  | Gongora Castillejos, Williams <br> **TB1:** Me encargué de redactar el Capítulo I del informe, que incluye los antecedentes, la problemática y el diseño de la base de datos. Aimismo, inclui las pautas para la elaboracion de las tareas en el sprint 1 <br> - <br> - <br> - <br> - | En general, el informe final mostró que pudimos comunicar tanto información técnica como no técnica de forma clara y precisa. El documento se organizó de manera que fuera fácil de entender para personas con distintos niveles de conocimiento, lo que garantizó que todos comprendieran bien el proyecto y las secciones que le toco a cada estudiante.|
+| **Criterio específico**| **Acciones realizadas**| **Conclusiones**|
+|--|--|--|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Gongora Castillejos, Williams**<br>**TB1:** Durante la presentación de la problemática y la solución SmartFlow en la reunión del equipo, expuse claramente el perfil de la startup, los antecedentes y la propuesta técnica.<br><br>**Quiñones Tintaya, Johan Jorge**<br>**TB1:** Presentó el To-Be Scenario Mapping, User Stories, e Impact Mapping.<br><br>**Carlos Andres, Leon Rioja**<br>**TB1:** Expuso sobre la Information Architecture y el Landing Page UI Design.<br><br>**Revilla Quispe, Renzo Zamir**<br>**TB1:** Presentó el análisis comparativo de Web Applications UX/UI Design.<br><br>**Lopez de la Cruz Mauro Fabricio**<br>**TB1:** Comunicó las User Personas y el User Journey Mapping. | **Gongora Castillejos, Williams:** Expuse el perfil de la startup y la propuesta técnica, estableciendo una base clara para el equipo. Esto facilitó una comprensión común sobre el enfoque del proyecto y sus objetivos.<br><br>**Quiñones Tintaya, Johan Jorge:** Presenté el To-Be Scenario Mapping y User Stories, proporcionando una visión de cómo se desarrollará el proyecto y las necesidades de los usuarios.<br><br>**Carlos Andres, Leon Rioja:** Expuse la arquitectura de información y el diseño UI de la landing page, clarificando la estructura y el diseño del producto.<br><br>**Revilla Quispe, Renzo Zamir:** Presenté un análisis comparativo de diseños UX/UI, proporcionando información valiosa sobre las mejores prácticas y estándares de la industria.<br><br>**Lopez de la Cruz Mauro Fabricio:** Comunicó las User Personas y el User Journey Mapping, ayudando a entender mejor las necesidades y experiencias de los usuarios objetivo. |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Gongora Castillejos, Williams**<br>**TB1:** Redacté el Capítulo I del informe, que incluye los antecedentes, la problemática y el diseño de la base de datos. También incluí pautas para las tareas en el sprint 1.<br><br>**Quiñones Tintaya, Johan Jorge**<br>**TB1:** Documenté el Product Backlog y el Domain-Driven Software Architecture.<br><br>**Carlos Andres, Leon Rioja**<br>**TB1:** Elaboré la documentación del Landing Page Wireframe y Mock-up.<br><br>**Revilla Quispe, Renzo Zamir**<br>**TB1:** Redacté el análisis de competidores y el Class Diagram.<br><br>**Lopez de la Cruz Mauro Fabricio**<br>**TB1:** Documenté el User Task Matrix, Empathy Mapping, y As-is Scenario Mapping. | **Gongora Castillejos, Williams:** Mi redacción del Capítulo I proporcionó una base sólida para el informe, estableciendo el contexto del proyecto y las directrices para el trabajo futuro.<br><br>**Quiñones Tintaya, Johan Jorge:** La documentación del Product Backlog y la arquitectura del software organizó las tareas y definió la base técnica del proyecto, facilitando su planificación y ejecución.<br><br>**Carlos Andres, Leon Rioja:** La documentación del wireframe y mock-up de la landing page ayudó a visualizar el diseño del producto, asegurando que el equipo y los stakeholders comprendieran claramente su apariencia y funcionalidad.<br><br>**Revilla Quispe, Renzo Zamir:** Mi análisis de competidores y el diagrama de clases proporcionaron una visión detallada del mercado y la estructura del software, ayudando a posicionar el producto de manera efectiva.<br><br>**Lopez de la Cruz Mauro Fabricio:** La documentación del User Task Matrix, Empathy Mapping y As-is Scenario Mapping facilitó una comprensión profunda de las necesidades y comportamientos de los usuarios, mejorando el enfoque del proyecto en sus necesidades reales. |
+
 
 <br>
 
@@ -231,23 +242,17 @@ En PeSoftware, nos dedicamos a crear soluciones que permiten el control y monito
 
 **Visión:** Ser la plataforma líder a nivel global en la optimización del consumo de recursos, impulsando una gestión eficiente y sostenible en todos los sectores.
 
-
-<img src=https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/smartflow-logo.jpeg
-alt="Logo SmartFlow"
-style="display: block; 
-margin-left:auto; 
-margin-right: auto; 
-width=30%" align="center"/>
+<img src="https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/smartflow-logo.jpeg" alt="StartUp" width="200px" style="text-align:center;">
 
 <div id="111"><h3>1.1.2. Perfiles de integrantes del equipo</h3></div>
 
 |Descripción del integrante|Perfil del integrante del equipo|
 | :--------| :--------:|
-| Mi nombre es **Johan Jorge Quiñones Tintaya**, tengo 19 años y soy estudiante de ingeniería de software en la UPC, cursando el quinto ciclo. He adquirido una base sólida en algoritmos y programación orientada a objetos, lo que me permite enfrentar desafíos de desarrollo con eficacia. Además, me destaco por mi capacidad para trabajar en equipo, manteniendo una comunicación clara y efectiva que facilita la colaboración. Estoy comprometido con mi crecimiento profesional y busco constantemente mejorar mis habilidades para contribuir de manera significativa en proyectos y equipos, ofreciendo soluciones innovadoras. | ![](/imgs/johan.png)|
+| Mi nombre es **Johan Jorge Quiñones Tintaya**, tengo 19 años y soy estudiante de ingeniería de software en la UPC, cursando el quinto ciclo. He adquirido una base sólida en algoritmos y programación orientada a objetos, lo que me permite enfrentar desafíos de desarrollo con eficacia. Además, me destaco por mi capacidad para trabajar en equipo, manteniendo una comunicación clara y efectiva que facilita la colaboración. Estoy comprometido con mi crecimiento profesional y busco constantemente mejorar mis habilidades para contribuir de manera significativa en proyectos y equipos, ofreciendo soluciones innovadoras. | ![](imgs/johan.png)|
 | Mi nombre es **Williams Jesús Góngora Castillejos** y soy estudiante del quinto ciclo de la carrera de Ingeniería de Software. Me considero una persona inteligente en todo lo que conlleva a números y razonamiento intuitivo, además de ser creativo para generar soluciones como ingeniero. Cuento con conocimientos en SQL, C++ y Python. Dentro de mis habilidades interpersonales, soy amable, empático y trato de establecer confianza entre mis compañeros para realizar un mejor trabajo en equipo. |![williams](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/williams.jpg)|
-| Mi nombre es **Renzo Zamir Revilla Quispe**, estudiante de la carrera de Ingenieria de Software, quinto ciclo. Cuento con un amplio conociemiento en programacion full stack y buena logica. En cuanto a mis habilidades blandas, soy bastante tolerante y me agrada el trabajo en equipo. Busco un buen desarrollo profesional en conjunto con el equipo de trabajo. |[renzorevq24](https://github.com/renzorevq24)|
-|Mi nombre es **Carlos Andres Leon Rioja**, actualmente tengo 21 años y soy estudiante de la carrera de Ingenieria de Software en la UPC. Considero que soy una persona con paciencia, amable y positiva sin embargo aveces soy obstinado y terco. Soy bueno en programacion full stack y se lenguajes como C++, C#, Java y Phython. Busco obtener mas conocimiento y habilidades para desarrollarme como programador full stack.|[Sr-Anonymus-maker](https://github.com/Sr-Anonymus-maker)|
-|Mi nombre es **Mauro Fabricio Lopez de la Cruz**, tengo 19 años y soy estudiante de la carrera ingeneria de software de la UPC y actualmente estoy cursando el quito ciclo . Tengo conocomiento en c++ , python, html ,css, javascript. Me considero una persona amable con capacidad de tener una muy buena comunnicacion en trabajos en grupo para el desarrollo de proyectos dando y ayudando en la solucion de problemas .|[file](https://github.com/user-attachments/assets/1b71c4fb-ee8e-4b0e-89c7-ffd7841631d9)|
+| Mi nombre es **Renzo Zamir Revilla Quispe**, estudiante de la carrera de Ingenieria de Software, quinto ciclo. Cuento con un amplio conociemiento en programacion full stack y buena logica. En cuanto a mis habilidades blandas, soy bastante tolerante y me agrada el trabajo en equipo. Busco un buen desarrollo profesional en conjunto con el equipo de trabajo. |![renzorevq24](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU9wJNmTZqexxw-_HuIZZvis0VJfUJH4sYr_dTX3EmytYG3ozbtTjiKKnU0_2iQjFmtn8&usqp=CAU)|
+|Mi nombre es **Carlos Andres Leon Rioja**, actualmente tengo 21 años y soy estudiante de la carrera de Ingenieria de Software en la UPC. Considero que soy una persona con paciencia, amable y positiva sin embargo aveces soy obstinado y terco. Soy bueno en programacion full stack y se lenguajes como C++, C#, Java y Phython. Busco obtener mas conocimiento y habilidades para desarrollarme como programador full stack.|![](imgs/carlos.jpg)|
+|Mi nombre es **Mauro Fabricio Lopez de la Cruz**, tengo 19 años y soy estudiante de la carrera ingeneria de software de la UPC y actualmente estoy cursando el quito ciclo . Tengo conocomiento en c++ , python, html ,css, javascript. Me considero una persona amable con capacidad de tener una muy buena comunnicacion en trabajos en grupo para el desarrollo de proyectos dando y ayudando en la solucion de problemas .|![file](https://github.com/user-attachments/assets/1b71c4fb-ee8e-4b0e-89c7-ffd7841631d9)|
 
 
 <div id="12"><h3>1.2. Solution Profile</h3></div>
@@ -284,74 +289,47 @@ SmartFlow ofrece varios planes de precios para adaptarse a diferentes necesidade
 
 </br>
 
-|Problem Statement 1|
-|:----|
-|SmartFlow busca ayudar a talleres a optimizar el consumo de electricidad y agua|
-| Hemos observado que los talleres carecen de herramientas para monitorear estos recursos, resultando en altos costos|
-|¿Podría SmartFlow ofrecer una solución eficiente para el monitoreo de recursos en talleres?|
+|Problem Statement|
+|:----:|
+|SmartFlow tiene como objetivo abordar la falta de visibilidad y control sobre el consumo de electricidad y agua en talleres industriales y hogares. Actualmente, los dueños de talleres enfrentan dificultades para monitorear en tiempo real el consumo de recursos en sus máquinas, lo que genera ineficiencias operativas y altos costos. Del mismo modo, los usuarios residenciales no tienen acceso a herramientas que les permitan controlar su consumo de manera efectiva, lo que resulta en facturas inesperadas y falta de control.|
+| Hemos observado que existe una brecha en el mercado para una solución integrada y accesible que permita tanto a empresas como a hogares visualizar y optimizar el uso de estos recursos mediante tecnologías IoT, y recibir alertas en tiempo real cuando los consumos superen los límites establecidos.|
+|La visión de SmartFlow es proporcionar una plataforma que permita la gestión eficiente de los recursos en tiempo real, mejorando la sostenibilidad y reduciendo costos. Inicialmente, el enfoque se centrará en pequeños y medianos talleres industriales, donde la necesidad de control del consumo de recursos es crucial. Posteriormente, el producto se expandirá al segmento residencial para ayudar a los usuarios domésticos a reducir sus costos y mejorar el control de sus consumos. <br>
+**¿Podrá SmartFlow proporcionar una solución eficiente que permita a los usuarios monitorear y optimizar sus recursos en tiempo real, reduciendo costos y mejorando la sostenibilidad tanto en talleres como en hogares?**|
 
 </br>
-
-|Problem Statement 2|
-|:----|
-|SmartFlow tiene como objetivo permitir a los hogares controlar el consumo de electricidad y agua|
-|Hemos observado que los hogares a menudo no tienen visibilidad ni control sobre estos consumos, lo que genera costos inesperados|
-|¿Podría SmartFlow proporcionar una solución accesible para monitorear el consumo de recursos en el hogar?|
-
-</br>
-
-
-|Problem Statement 3|
-|:----|
-|SmartFlow busca integrar el monitoreo de recursos en una plataforma única|
-|Hemos observado la falta de una plataforma unificada para gestionar el consumo de electricidad y agua en diferentes entornos|
-|¿Podría SmartFlow desarrollar una plataforma que unifique el monitoreo de recursos en diversos contextos?|
-
-</br>
-
 
 <div id="1222"><h4>1.2.2.2. Lean UX Assumptions</h4></div>
 
+<h4>1.2.2.2.1. Assumptions Worksheet</h4>
 
-**1. ¿Quién es el usuario?**
+1. **¿Quién es el usuario?**
 
-Nuestro producto está dirigido a dueños y administradores de empresas con maquinaria eléctrica, así como a personas que desean monitorear el consumo de recursos en sus hogares o en lugares implementados con SmartFlow.
+Nuestro producto está dirigido a dueños y administradores de empresas con maquinaria eléctrica que necesitan optimizar el consumo de recursos, así como a personas en sus hogares que desean monitorear y controlar el uso de electricidad y agua en tiempo real para reducir costos y mejorar la eficiencia.
 
+2. **¿Dónde encaja nuestro producto en su trabajo o vida?**
+   
+SmartFlow se integra en los procesos operativos de las empresas, ayudando a monitorear en tiempo real el consumo de electricidad y agua, y proporcionando herramientas para la gestión de la producción y la supervisión del personal. En el ámbito doméstico, SmartFlow permite a los usuarios obtener datos detallados sobre su consumo de recursos, ayudándolos a tomar decisiones informadas para reducir sus gastos.
 
-**2. ¿Dónde encaja nuestro producto en su trabajo o vida?**
+3. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+   
+Nuestro producto resuelve la falta de integración entre la captura de datos de consumo y su visualización en tiempo real. Actualmente, las empresas no cuentan con herramientas que les permitan identificar picos de consumo o ineficiencias en sus operaciones, y los usuarios residenciales carecen de visibilidad sobre su consumo diario. SmartFlow proporciona una plataforma que combina la captura precisa de datos con análisis en tiempo real, alertas automáticas y herramientas de gestión operativa.
 
-SmartFlow se integra en los procesos de gestión y monitoreo de recursos de las empresas y en la administración de consumo doméstico, proporcionando datos en tiempo real sobre el uso de energía y agua.
+4. **¿Cuándo y cómo es nuestro producto utilizado?**
+   
+SmartFlow se usa de manera continua para monitorear el consumo de recursos tanto en entornos industriales como domésticos. Los usuarios acceden a través de interfaces web y móviles para revisar los datos en tiempo real, recibir alertas cuando se superan los umbrales predefinidos y ajustar su consumo según las necesidades de producción o hábitos de uso.
 
+5. **¿Qué características son importantes?**
 
-**3. ¿Qué problemas tiene nuestro producto? ¿Resolver?**
+    * Monitoreo en tiempo real: Proporciona datos precisos y actualizados sobre el consumo de electricidad y agua.
+    * Alertas personalizables: Notificaciones automáticas que alertan a los usuarios cuando se detectan consumos anómalos.
+    * Control de producción: Herramientas para gestionar la producción y optimizar el uso de maquinaria en las empresas.
+    * Gestión de turnos: Funcionalidad para asignar y supervisar los turnos de trabajo de los empleados, asociando su eficiencia al uso de los recursos.
+    * Integración con IoT: Capacidad para conectarse con una variedad de dispositivos y sensores para una recopilación de datos precisa.
+    * Interfaz intuitiva: Diseño accesible y fácil de usar en sus versiones web y móvil, que facilita la administración del consumo de recursos.
 
-Nuestro producto enfrenta el problema de la falta de integración eficiente entre la recopilación de datos y la visualización del consumo de recursos. Debe resolver este problema proporcionando una plataforma robusta que combine la captura en tiempo real de datos de consumo de energía y agua con herramientas analíticas que permitan a los usuarios identificar y gestionar recursos de manera efectiva y recibir alertas de consumo anormal.
-
-**4. ¿Cuándo y cómo es nuestro producto? ¿Usado?**
-
-Nuestro producto se utiliza continuamente para monitorear y analizar el consumo de recursos en tiempo real. El acceso es a través de interfaces web y móviles por parte de los usuarios para gestionar y ajustar sus recursos.
-
-
-
-**5. ¿Qué características son importantes?**
-
-* Monitoreo en tiempo real: Captura y muestra datos actualizados sobre el consumo de recursos, como electricidad y agua.
-
-* Alertas: Notificaciones automáticas cuando se detectan consumos anómalos o se superan los umbrales predefinidos.
-
-* Control de producción: Capacidad para gestionar y supervisar la producción individual de cada maquinaria, permitiendo ajustes en tiempo real para optimizar el rendimiento.
-
-* Gestión de turnos: Funcionalidad para asignar y controlar los turnos de trabajo de las personas asociadas a cada máquina, facilitando la supervisión y gestión del personal.
-
-* Integración con IoT: Capacidad para conectarse con dispositivos y sensores de maquinaria para una recopilación de datos precisa y continua.
-
-* Interfaz intuitiva: Diseño fácil de usar tanto en la versión web como móvil para facilitar el acceso y la gestión de los datos.
-
-
-
-**6. ¿Cómo debe verse nuestro producto y cómo comportarse?**
-
-El producto debe tener una interfaz clara y fácil de usar, con gráficos accesibles. Debe comportarse de manera rapida y confiable, ofreciendo actualizaciones en tiempo real y notificaciones precisas sobre el consumo de recursos.
+6. **¿Cómo debe verse nuestro producto y cómo comportarse?**
+   
+El producto debe tener una interfaz clara y amigable, con gráficos interactivos y actualizaciones en tiempo real sobre el uso de recursos. Debe comportarse de manera rápida y confiable, proporcionando notificaciones precisas sobre consumos anómalos y permitiendo ajustes en tiempo real.
 
 </br>
 
@@ -365,6 +343,35 @@ El producto debe tener una interfaz clara y fácil de usar, con gráficos accesi
 |Voy a adquirir la mayoría de mis clientes a través de campañas de marketing digital dirigidas, colaboraciones con asociaciones industriales y recomendaciones de clientes existentes|Asumimos que los clientes se suscribirán a los planes de SmartFlow debido a los beneficios de monitoreo y control que ofrecen nuestros planes de precios escalonados|
 
 </br>
+
+<h4>1.2.2.2.2. Assumptions Priority</h4>
+
+El objetivo de clasificar los supuestos por prioridad es enfocarse en los de mayor riesgo o incertidumbre para probarlos primero:
+
+* **Riesgo alto:**
+Asumimos que los usuarios adoptarán SmartFlow principalmente por la funcionalidad de monitoreo en tiempo real y alertas automáticas. Si esta funcionalidad no es efectiva o no genera valor, el producto perdería atractivo.
+
+* **Riesgo medio:**
+Asumimos que los dispositivos IoT utilizados serán compatibles con los sistemas de los clientes y funcionarán sin problemas técnicos. Si los dispositivos no son compatibles o presentan problemas de integración, se verá afectada la escalabilidad.
+
+* **Riesgo bajo:**
+Asumimos que los usuarios apreciarán las herramientas de control de producción y gestión de turnos. Si bien esto añade valor, no es la principal razón para la adopción inicial del sistema.
+
+<h4>1.2.2.2.3. Outcomes</h4>
+
+Aquí detallamos los resultados que esperamos lograr con la implementación de SmartFlow:
+
+1. **Empresarial (Talleres):**
+Creemos que, al usar SmartFlow, las empresas podrán reducir su consumo de electricidad y agua en al menos un 15% en un periodo de 3 meses, optimizando la eficiencia de sus maquinarias y la gestión de turnos.
+
+    * Métrica: Sabremos que hemos tenido éxito cuando veamos una reducción en los costos operativos de al menos un 15% en los talleres que usen el sistema durante 90 días.
+
+2. **Residencial (Hogares):**
+Creemos que los usuarios domésticos podrán reducir sus facturas de electricidad y agua en un 10% tras 6 meses de uso de SmartFlow, al obtener visibilidad y control sobre su consumo.
+
+    * Métrica: Sabremos que hemos tenido éxito cuando veamos que los usuarios reportan una reducción de al menos un 10% en sus facturas tras el uso continuo del sistema durante 6 meses.
+
+<br>
 
 <div id="1223"><h4>1.2.2.3. Lean UX Hypothesis Statements</h4></div>
 
@@ -390,6 +397,10 @@ El producto debe tener una interfaz clara y fácil de usar, con gráficos accesi
 
 
 <div id="1224"><h4>1.2.2.4. Lean UX Canvas</h4></div>
+
+Presentamos el Lean UX Canvas para SmartFlow, una solución diseñada para optimizar el consumo de electricidad y agua en empresas y hogares. Nuestro enfoque se centra en abordar la ineficiencia en la gestión de recursos, mejorando la eficiencia operativa a través de características como monitoreo en tiempo real y alertas personalizables. Creemos que, al proporcionar un control preciso de la producción y los turnos, transformaremos el comportamiento del cliente hacia operaciones más efectivas. Para validar nuestras suposiciones, desarrollaremos prototipos y realizaremos pruebas con usuarios.
+
+<br>
 
 ![leanuxcanvas](imgs/Lean-UX-Canvas.png)
 *Imagen: Lean UX Canvas*
@@ -462,24 +473,24 @@ En el apartado de competidores, es importante identificar a empresas que ofrecen
         SmartFlow
         <br>
         <div style="text-align: center; margin-top: 10px;">
-                <img src="/Assent/img/DevDream-Logo.jpeg" alt="StartUp" width="60px">
+                <img src="https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/smartflow-logo.jpeg" alt="StartUp" width="120px">
         </div>
     <td colspan="1" valign="top" style="font-weight: bold;">
     Schneider Electric
     <div style="text-align: center; margin-top: 20px;">
-                <img src="/Assent/img/FarmLogs-Logo.jpg" alt="" width="100px">
+                <img src="https://www.tvh.com/sites/tvh/files/styles/max_650x650/public/2023-08/Schneider-Electric-logo-jpg-.png?itok=pxXk-20m" alt="" width="120px">
         </div>
     </td>
     <td colspan="1" valign="top" style="font-weight: bold;">
       Siemens AG
       <div style="text-align: center; margin-top: 40px;">
-                <img src="/Assent/img/Herdwatch-Logo.png" alt="" width="200px">
+                <img src="https://www.cohesity.com/wp-content/new_media/2020/09/siemens-customer-win-pr-banner.png" alt="" width="120px">
             </div>
       </td>
     <td colspan="1" valign="top" style="font-weight: bold;" >
       Nest
       <div style="text-align: center; margin-top: 20px;">
-                <img src="/Assent/img/AgriWebb-Logo.jpg" alt="" width="610px">
+                <img src="https://media.licdn.com/dms/image/v2/C4D0BAQHTWF-6fu2_aw/company-logo_200_200/company-logo_200_200/0/1630445093527/nest_oficial_logo?e=2147483647&v=beta&t=J1bOzOAAGIC15lnJNLAT1jgg2lVQb_Ce7fGN9qg-J3I" alt="" width="120px">
             </div>
     </td>
   </tr>
@@ -647,26 +658,62 @@ A fin de obtener información valiosa sobre las necesidades, deseos y desafíos 
 
 <div id="222"><h3>2.2.2. Registro de entrevistas</h3></div>
 
-**Entrevista a dueños de talleres y/o fábricas.**
+Entrevistas URL: [entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218183_upc_edu_pe/EQfoahdfxrpDqGJ6X8FaYdYBPceb4e2WtIDuTENtdNOQ1Q?e=vlADiV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-|Entevistado 1|wii|
+|Entevistado 1|Luis Espiritu|
 |-|-|
-|Edad|wuii|
-|Distrito|isdds|
-|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
-|Timing: 0:07-15:15 |
+|Edad|17|
+|Distrito|Surco|
+|Foto|![entrevista-1](imgs/entrevista1.png)|
+|Time | 0:03 - 07:01 |
+|Analisis de Entrevista| Luis, un economista de 27 años, enfrenta el desafío de no poder controlar eficazmente el consumo y costo de sus recursos hídricos y eléctricos. Le resulta frustrante descubrir los ajustes en su presupuesto solo al recibir la factura al termino del mes. Por ello, desea una aplicación que le permita monitorear y gestionar su consumo en tiempo real. Además, considera esencial recibir alertas cuando el consumo exceda los límites establecidos, para poder actuar de manera preventiva y evitar sobrecostos inesperados. |
 
-**Entrevista a dueños de hogar que poseen consumo de agua y luz.**
+|Entevistado 2|Christian Matos|
+|-|-|
+|Edad|20|
+|Distrito|San Borja|
+|Foto|![entrevista-2](imgs/entrevista2.png)|
+|Time | 07:01 - 11:34 |
+|Analisis de Entrevista| Christian actualmente enfrenta problemas para medir la productividad de su taller, ya que usa métodos manuales como hojas de cálculo. Esto le dificulta ver de inmediato qué máquinas están funcionando bien y cuáles no. Está buscando una solución tecnológica que le brinde datos más claros y en tiempo real, para así reducir los costos y mejorar la eficiencia. Aunque no tiene software especializado ahora, está interesado en invertir en una herramienta que le facilite el seguimiento de su producción sin interrumpir su trabajo diario. |
 
+
+|Entevistado 3|Alejandra Gallo|
+|-|-|
+|Edad|21|
+|Distrito|Surco|
+|Foto|![entrevista-3](imgs/entrevista3.png)|
+|Time | 11:38 - 15:23 |
+|Analisis de Entrevista|Alejandra Galle Riofrío, con 21 años, enfrenta serios problemas en la gestión del taller familiar, donde la falta de tecnología provoca ineficiencias y falta de control en la productividad. Ella busca un sistema que centralice datos y mejore el mantenimiento de máquinas, valorando el retorno de inversión que beneficie tanto a trabajadores como a la empresa.|
+
+
+<<<<<<< HEAD
 |Entevistado 1|Nilson Senarque|
 |-|-|
 |Edad|28|
 |Distrito|Villa el Salvador|
 |<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
 |Timing: 0:07-15:15 |URL:-- |
+=======
+|Entevistado 4|Nelson Correa|
+|-|-|
+|Edad|23|
+|Distrito|Villa el Salvador|
+|Foto|![entrevista-4](imgs/entrevista4.png)|
+|Time | 15:25 - 20:02 |
+|Analisis de Entrevista|Nelson Correa, de Villa el Salvador, muestra conciencia sobre su consumo energético, aunque carece de herramientas para monitorizarlo. Se interesa por una aplicación que le ofrezca ahorros a largo plazo y prefiere recibir alertas en tiempo real sobre consumos excesivos, priorizando el uso de dispositivos móviles para facilitar el seguimiento.|
+
+>>>>>>> 64fd26a07d72a18fd109a8555ccab508ae3f4b0e
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
+
+En el análisis de estas entrevistas, se observa una tendencia común entre los entrevistados: la mayoría gestiona la productividad de sus talleres o fábricas de manera manual, utilizando planillas o registros en Excel. Este método es percibido como poco eficiente, con frecuentes errores y un acceso limitado a datos precisos. La principal preocupación es la falta de datos en tiempo real, lo que dificulta la identificación de ineficiencias, tiempos muertos y problemas en las máquinas.
+
+Otro punto crítico mencionado por los entrevistados es la ausencia de herramientas automatizadas que les permitan recopilar y analizar información sin interrumpir las operaciones del taller. Aunque el uso de planillas ha funcionado hasta ahora, los entrevistados reconocen la necesidad de un sistema más avanzado para mejorar la eficiencia y reducir costos.
+
+Muchos entrevistados están interesados en soluciones que proporcionen datos en tiempo real, alertas sobre el rendimiento de las máquinas y reportes automáticos. Valoran herramientas que ofrezcan fácil integración con los sistemas existentes y que sean intuitivas para su equipo, destacando que el costo inicial, el potencial ahorro y el retorno de inversión (ROI) son factores clave para considerar una nueva tecnología.
+
+Finalmente, los entrevistados priorizan funcionalidades como análisis detallados del uso de recursos (agua, electricidad), seguimiento del rendimiento de las máquinas y acceso a reportes a través de aplicaciones móviles o plataformas web. Estas funcionalidades les permitirían tomar decisiones más informadas y rápidas, mejorando la productividad de sus talleres y optimizando los recursos disponibles.
 
 <div id="23"><h2>2.3. Needfinding</h2></div>
 <div id="231"><h3>2.3.1. User Personas</h3></div>
@@ -675,14 +722,22 @@ Para la realizacion de las fichas de User Personas se han considerado los 2 segm
 
 * **Segmento Empresarial**
 
-![userpersonaPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Pedro-Gonzales.png)
+Presentamos a Pedro Gonzales, un arquetipo que representa al sector empresarial como dueño de un taller textil. Pedro enfrenta el desafío de gestionar el creciente costo de producción, lo que lo impulsa a buscar una solución tecnológica eficiente. Su principal objetivo es contar con una plataforma que le permita monitorear y optimizar el consumo de recursos en tiempo real. Proactivo y analítico, Pedro se caracteriza por su enfoque en mejorar la productividad de su negocio mediante herramientas que le brinden mayor control y transparencia.
+
+</br>
+
+![userpersonaPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/PedroGonzales.png)
 *Imagen: User Persona Dueño Textil*
 
 </br></br>
 
 * **Segmento Residencial**
 
-![userpersonaJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Jes%C3%BAs-Castillo.png)
+Presentamos a Jesús Castillo, un arquetipo que representa al usuario residencial preocupado por el incremento en su factura de agua y electricidad. Como contador, Jesús busca una solución tecnológica que le permita controlar y monitorear su consumo de recursos en tiempo real para evitar futuros aumentos inesperados. Meticuloso y orientado a los detalles, su principal objetivo es mejorar la eficiencia en su hogar, manteniendo los costos bajo control con herramientas que le proporcionen visibilidad y alertas sobre su consumo.
+
+</br>
+
+![userpersonaJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Jes%C3%BAsCastillo.png)
 *Imagen: User Persona Contador*
 
 </br>
@@ -716,12 +771,22 @@ Finalmente, la principal coincidencia encontrada es que tanto los usuarios empre
 Para el segmento Empresarial, se ha identificado como partida el sobreuso de la maquinaria eléctrica, lo que genera altos costos de producción. En el caso del segmento Residencial, el enfoque se centra en el sobreprecio de los recibos de agua y luz. En ambos casos, la solución radica en la necesidad de un sistema de monitoreo en tiempo real que permita controlar y optimizar el consumo de recursos. 
 
 * **Segmento Empresarial**
+
+Pedro Gonzales, dueño de un taller textil, representa al sector empresarial que enfrenta el reto de gestionar el aumento de costos en la producción. Con una mentalidad proactiva y analítica, busca soluciones tecnológicas que le permitan monitorear y controlar el consumo de recursos en su taller. Está motivado por la necesidad de optimizar sus operaciones y reducir gastos, y ve en una aplicación de monitoreo una herramienta clave para mejorar la eficiencia y la rentabilidad de su negocio.
+
+<br>
+ 
 ![jouneymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/journey-map-Pedro.png)
 *Imagen: Journey Map Pedro*
 
 </br>
 
 * **Segmento Residencial**
+
+Jesús Castillo, un contador de 28 años que vive solo, ha notado un aumento inesperado en sus facturas de agua y luz. Preocupado por este incremento y buscando una solución, está interesado en una tecnología que le permita monitorear y controlar en tiempo real el consumo de sus recursos. Con una actitud detallista y organizada, Jesús quiere asegurarse de que sus gastos sean transparentes y justificados, optimizando el uso de sus recursos domésticos de manera eficiente.
+
+<br>
+
 ![jouneymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/journey-map-Jesus.png)
 *Imagen: Journey Map Jesus*
 
@@ -730,12 +795,22 @@ Para el segmento Empresarial, se ha identificado como partida el sobreuso de la 
 En esta sección, se crearon Empathy Maps para cada grupo objetivo, utilizando una plantilla de EXPressia. Esta herramienta incluye todos los componentes necesarios, junto con preguntas específicas que se respondieron en función de lo que se identificó en nuestro análisis del público objetivo.
 
 * **Segmento Empresarial**
+
+A continuación, presentamos el empathy map para Pedro Gonzales, representante del segmento empresarial. Este mapa refleja las percepciones, necesidades y desafíos de Pedro como dueño de un taller textil en Perú. Su objetivo principal es reducir los costos operativos relacionados con el consumo de recursos, como electricidad y agua.
+
+<br>
+
 ![empathymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Pedro.png)
 *Imagen: Empathy Map Pedro*
 
 </br>
 
 * **Segmento Residencial**
+
+A continuación, presentamos el empathy map para Jesús Castillo, un joven contador que vive solo y enfrenta el aumento inesperado en sus facturas de agua y electricidad. Este mapa refleja sus pensamientos, emociones, necesidades y las dinámicas que lo rodean en su búsqueda de soluciones para controlar y monitorear sus recursos en tiempo real.
+
+<br>
+
 ![empathymapJesus](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Empathy-map-Jesus.png)
 *Imagen: Empathy Map Jesus*
 
@@ -745,19 +820,12 @@ En esta sección, presentamos los "As-Is Scenario Maps" para dos User Personas c
 
 **Persona 1: Pedro Gonzales**
 
-| **Phase**         | **Identificación de consumo de recursos**         | **Detección de ineficiencias en máquinas y procesos**      | **Ajuste de procesos y adopción de tecnología**           |
-|-------------------|---------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------|
-| **Doing**         | Pedro busca maneras de optimizar el uso de electricidad y agua en su taller. | Intenta identificar qué máquinas o procesos son ineficientes dentro del taller. | Ajusta los procesos y busca nuevas tecnologías para mejorar la eficiencia. |
-| **Thinking**      | "¿Cómo puedo reducir el consumo de recursos sin comprometer la eficiencia?" | "No tengo claro qué parte del taller está consumiendo más recursos." | "Tal vez una innovación tecnológica podría ayudar a reducir costos y mejorar la rentabilidad." |
-| **Feeling**       | Preocupado por el aumento constante en los costos de producción. | Frustrado por la falta de control y visibilidad sobre las máquinas y el consumo. | Optimista con la idea de probar nuevos métodos, pero inseguro de los resultados. |
+![image](https://github.com/user-attachments/assets/c2d08b04-36d1-4ed8-83d1-43cef565e7eb)
+
 
 **Persona 2: Jesús Castillo**
 
-| **Phase**         | **Revisión de facturas de agua y luz**               | **Identificación de patrones de consumo**               | **Ajuste de hábitos y búsqueda de herramientas**          |
-|-------------------|------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------|
-| **Doing**         | Jesús revisa sus facturas, notando un aumento inesperado en los costos. | Intenta identificar patrones de consumo que expliquen el aumento en sus facturas. | Intenta ajustar sus hábitos de consumo sin herramientas efectivas para monitorear en tiempo real. |
-| **Thinking**      | "¿Por qué ha subido tanto mi factura este mes? No he cambiado mis hábitos." | "No sé exactamente dónde estoy consumiendo más agua o electricidad." | "Necesito una forma más precisa de monitorear el consumo y evitar sorpresas." |
-| **Feeling**       | Preocupado por el impacto en su presupuesto mensual. | Frustrado por no poder identificar las causas del incremento. | Esperanzado en reducir sus costos, pero frustrado por la falta de control diario. |
+![image](https://github.com/user-attachments/assets/51d3f8b3-bab7-4060-a47c-8391b57b71b2)
 
 <div id="24"><h3>2.4. Ubiquitous Language</h3></div>
 
@@ -813,33 +881,26 @@ En esta sección, presentamos los "To-Be Scenario Maps" para dos User Personas c
 
 **Persona 1: Pedro Gonzales**
 
-| **Phase**         | **Monitoreo eficiente de recursos**            | **Identificación automática de ineficiencias**        | **Optimización continua con tecnología**           |
-|-------------------|------------------------------------------------|------------------------------------------------------|---------------------------------------------------|
-| **Doing**         | Pedro utiliza una herramienta que le permite monitorear en tiempo real el consumo de electricidad y agua en su taller. | El sistema identifica automáticamente las máquinas y procesos que son ineficientes. | Pedro implementa soluciones tecnológicas sugeridas por el sistema para optimizar los procesos. |
-| **Thinking**      | "Ahora tengo control total sobre los recursos que se consumen en mi taller." | "Finalmente sé exactamente qué procesos están generando pérdidas y cómo corregirlos." | "Con esta tecnología, puedo mejorar continuamente la eficiencia y reducir costos." |
-| **Feeling**       | Aliviado al tener visibilidad total del consumo de recursos. | Satisfecho de poder corregir ineficiencias antes de que se conviertan en un problema. | Confiado en que su taller es competitivo y sostenible a largo plazo. |
+![image](https://github.com/user-attachments/assets/cc1dccd0-b3c9-4a06-9097-49d869d7d557)
+
 
 ---
 
 **Persona 2: Jesús Castillo**
 
-| **Phase**         | **Monitoreo en tiempo real de consumo en el hogar** | **Detección de patrones de consumo**                 | **Ajuste automático de dispositivos**              |
-|-------------------|-----------------------------------------------------|-----------------------------------------------------|---------------------------------------------------|
-| **Doing**         | Jesús utiliza una aplicación que le permite ver en tiempo real el consumo de agua y electricidad en su hogar. | La herramienta identifica patrones de consumo altos y ofrece sugerencias para reducir el uso. | Jesús permite que la aplicación ajuste automáticamente el uso de ciertos dispositivos para evitar picos de consumo. |
-| **Thinking**      | "Ahora puedo ver fácilmente cómo y cuándo estoy consumiendo más recursos." | "Ya sé qué hábitos ajustar para evitar el incremento en mis facturas." | "Con los ajustes automáticos, puedo reducir el consumo sin pensar demasiado en ello." |
-| **Feeling**       | Tranquilo porque tiene control total sobre su consumo y facturas. | Satisfecho al reducir los costos y evitar sorpresas en las facturas. | Aliviado al ver que su presupuesto está bajo control sin grandes esfuerzos de su parte. |
+![image](https://github.com/user-attachments/assets/81f55311-8a70-4044-9fb6-00dcd611709e)
 
 
 <div id="32"><h2>3.2. User Stories</h2></div>
 
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |-----------------|--------|-------------|-------------------------|--------------------------|
-| EP001 | Monitoreo de Consumo | Epic para el monitoreo general del consumo de recursos | | |
+| EP001 | Monitoreo | Epic para el monitoreo general del consumo de recursos | | |
 | US001 | Ver dashboard de consumo total | Como gerente de producción, quiero ver un dashboard con el consumo total de recursos | - Dado que el gerente de producción ha iniciado sesión<br>- Cuando accede al dashboard principal<br>- Entonces ve un resumen del consumo total de recursos<br>- Y los datos se actualizan en tiempo real | EP001 |
 | US002 | Monitorear consumo en tiempo real | Como operador de máquina, quiero ver el consumo en tiempo real de la máquina que estoy operando | - Dado que el operador está en su estación de trabajo<br>- Cuando selecciona una máquina específica<br>- Entonces ve el consumo actual de recursos de esa máquina<br>- Y los datos se actualizan cada 5 segundos | EP001 |
 | US003 | Visualizar gráficos comparativos | Como director financiero, quiero ver gráficos comparativos de consumo vs. producción | - Dado que el director financiero está en el dashboard<br>- Cuando selecciona la opción de gráficos comparativos<br>- Entonces ve gráficos que muestran la relación entre consumo y producción<br>- Y puede ajustar el período de tiempo para la comparación | EP001 |
-| US004 | Filtrar datos de consumo | Como analista, quiero poder filtrar los datos de consumo por fecha, máquina y tipo de recurso | - Dado que el analista está en la sección de análisis de datos<br>- Cuando aplica filtros de fecha, máquina y tipo de recurso<br>- Entonces los datos mostrados se actualizan según los filtros aplicados<br>- Y puede guardar las configuraciones de filtro para futuros análisis | EP001 |
-| US005 | Exportar datos de consumo | Como gerente de operaciones, quiero poder exportar los datos de consumo en diferentes formatos | - Dado que el gerente está viendo los datos de consumo<br>- Cuando selecciona la opción de exportar<br>- Entonces puede elegir entre formatos como CSV, Excel o PDF<br>- Y el archivo se descarga con todos los datos visibles actualmente | EP001 |
+| US004 | Filtrar datos de consumo por compañía | Como analista, quiero poder filtrar los datos de consumo por fecha, máquina y tipo de recurso | - Dado que el analista está en la sección de análisis de datos<br>- Cuando aplica filtros de fecha, máquina y tipo de recurso<br>- Entonces los datos mostrados se actualizan según los filtros aplicados<br>- Y puede guardar las configuraciones de filtro para futuros análisis | EP001 |
+| US005 | Mostrar resumen de consumo, costos, eficiencia y alarmas | Como gerente de operaciones, quiero visualizar un resumen de consumo, costos, eficiencia y alarmas en un solo panel para tomar decisiones rápidas y eficientes | - Dado que el gerente accede al sistema<br>- Cuando selecciona el Dashboard<br>- Entonces se genera un resumen detallado del consumo, costos, eficiencia y alarmas | EP001 |
 | EP002 | Gestión de Costos | Epic para el análisis y gestión de costos relacionados con el consumo de recursos | | |
 | US006 | Generar informe de costos | Como contador, quiero acceder a un informe detallado de costos por recurso | - Dado que el contador está en la sección de informes<br>- Cuando selecciona "Informe de costos por recurso"<br>- Entonces se genera un informe detallado<br>- Y puede exportarlo en formato PDF o Excel | EP002 |
 | US007 | Calcular costo por unidad producida | Como analista financiero, quiero calcular el costo de recursos por unidad producida | - Dado que el analista está en la sección de análisis de costos<br>- Cuando ingresa los datos de producción y selecciona un período<br>- Entonces el sistema calcula y muestra el costo por unidad<br>- Y proporciona un desglose detallado de los costos | EP002 |
@@ -859,27 +920,28 @@ En esta sección, presentamos los "To-Be Scenario Maps" para dos User Personas c
 | US019 | Comparar eficiencia entre turnos | Como analista de recursos humanos, quiero comparar el consumo de recursos entre diferentes turnos y empleados | - Dado que el analista está en la sección de análisis comparativo<br>- Cuando selecciona múltiples turnos o empleados<br>- Entonces ve una comparación lado a lado de la eficiencia y consumo<br>- Y puede ordenar los resultados por diferentes métricas | EP004 |
 | US020 | Planificar turnos basados en eficiencia | Como jefe de producción, quiero planificar los turnos basándome en la eficiencia histórica | - Dado que el jefe está en la sección de planificación de turnos<br>- Cuando selecciona un período futuro para planificar<br>- Entonces el sistema sugiere asignaciones de turno basadas en la eficiencia histórica<br>- Y permite ajustes manuales a la planificación sugerida | EP004 |
 | EP005 | Landing Page | Epic para la implementación y optimización del Landing Page del proyecto. | | |
-| US021 | Implementación y optimización del Landing Page del proyecto | Como visitante interesado, quiero poder llenar un formulario de contacto para recibir más información sobre el producto. | - Dado que el visitante ha decidido obtener más información<br>- Cuando accede al formulario de contacto<br>- Entonces puede llenar y enviar el formulario sin problemas<br>- Y recibe una confirmación de que la solicitud fue recibida | EP005 |
+| US021 | Implementación seccion de contacto con el ususario | Como visitante interesado, quiero poder llenar un formulario de contacto para recibir más información sobre el producto. | - Dado que el visitante ha decidido obtener más información<br>- Cuando accede al formulario de contacto<br>- Entonces puede llenar y enviar el formulario sin problemas<br>- Y recibe una confirmación de que la solicitud fue recibida | EP005 |
 | US022 |Ver testimonios de clientes | Como visitante, quiero ver testimonios de otros clientes para evaluar la efectividad del producto antes de tomar una decisión. | - Dado que el visitante está explorando la landing page<br>- Cuando llega a la sección de testimonios<br>- Entonces puede leer testimonios verificados con imágenes de clientes<br>- Y  se siente motivado a seguir explorando o contactar | EP005 |
 | US023 | Ver características y beneficios del producto | Como usuario potencial, quiero poder visualizar tanto las características como los beneficios de la plataforma en una sola página, para comprender de qué manera las funcionalidades pueden mejorar mi negocio y reducir costos. | - Dado que soy un usuario no autenticado<br>- Cuando accedo a la página de descripción del sistema<br>- Entonces puedo ver una lista clara de las características del sistema junto con los beneficios detallados de cada una, incluyendo cómo mejoran la productividad o el control de recursos, para tomar una decisión informada. | EP005 |
 | US024 | Ver diferentes planes de precios | Como usuario, quiero ver una comparación clara de los diferentes planes de precios disponibles para seleccionar el que mejor se ajuste a mis necesidades | - Dado que el usuario está en la sección de "Planes"<br>- Cuando selecciona esta sección<br>- Entonces se muestran los distintos planes con una comparación de sus características y costos. | EP005 |
 | US025 | Animaciones Interactivas para una Navegación Fluida y Atractiva | Como usuario que navega en el sitio web de SmartFlow, quiero experimentar animaciones fluidas e interactivas, para que la navegación sea atractiva visualmente y fácil de usar, mejorando así mi experiencia al explorar las características y beneficios del producto| - Dado que el usuario está navegando en el sitio web de SmartFlow<br>- Cuando interactúa con diferentes secciones de la página<br>- Entonces las animaciones deben ser fluidas y responder de manera adecuada a las acciones del usuario| EP005 |
 | US026 | Acceder al dashboard después de iniciar sesión | Como usuario autenticado, quiero acceder a mi dashboard personalizado después de iniciar sesión para ver y gestionar mis datos de manera centralizada. | - Dado que el usuario ha iniciado sesión correctamente<br>- Cuando completa el proceso de autenticación<br>- Entonces es redirigido automáticamente a su dashboard con acceso a la vista personalizada de sus datos| EP005 |
-| EP006 | Optimización de Recursos | Epic para la optimización del uso de recursos basada en datos de consumo | | |
-| US027 | Sugerir configuraciones óptimas | Como ingeniero de procesos, quiero recibir sugerencias de configuraciones óptimas para las máquinas basadas en datos de consumo | - Dado que el ingeniero está analizando el rendimiento de una máquina<br>- Cuando solicita sugerencias de optimización<br>- Entonces el sistema proporciona configuraciones recomendadas<br>- Y muestra el impacto estimado en el consumo y la producción | EP006 |
-| US028 | Simular escenarios de consumo | Como gerente de operaciones, quiero simular diferentes escenarios de producción y ver su impacto en el consumo de recursos | - Dado que el gerente está en la herramienta de simulación<br>- Cuando ingresa diferentes parámetros de producción<br>- Entonces el sistema simula el consumo de recursos esperado<br>- Y muestra una comparación con el consumo actual | EP006 |
-| US029 | Generar informes de eficiencia | Como director de operaciones, quiero generar informes de eficiencia en el uso de recursos | - Dado que el director está en la sección de informes<br>- Cuando selecciona "Informe de Eficiencia de Recursos"<br>- Entonces el sistema genera un informe detallado<br>- Y incluye comparativas con benchmarks de la industria | EP006 |
-| US030 | Establecer metas de optimización | Como gerente de sostenibilidad, quiero establecer metas de optimización de consumo de recursos | - Dado que el gerente está en la sección de metas y KPIs<br>- Cuando establece nuevas metas de consumo para diferentes recursos<br>- Entonces el sistema registra estas metas<br>- Y proporciona seguimiento en tiempo real del progreso hacia estas metas | EP006 |
+| EP006 | Perfiles de Trabajadores | Epic para la integración y modificación de los perfiles de los trabajadores de cada compañia | | |
+| US027   | Filtrar trabajadores por compañía         | Como usuario, quiero tener un cuadro de filtrado en la sección "Profile" donde pueda seleccionar una compañía, para que pueda ver solo los trabajadores de esa compañía.           | - El cuadro de filtrado debe mostrar una lista de compañías disponibles. <br> - Al seleccionar una compañía, la lista de trabajadores debe actualizarse para mostrar solo los trabajadores de esa compañía. |EP006 |
+| US028    | Mostrar lista de trabajadores             | Como usuario, quiero ver una lista de trabajadores de la compañía seleccionada, para que pueda visualizar sus nombres, ocupaciones, edades y otros datos relevantes.                | - La lista debe mostrar al menos el nombre, ocupación, edad y un botón para editar datos de cada trabajador. <br> - Si no hay trabajadores en la compañía seleccionada, se debe mostrar un mensaje indicando que no hay trabajadores disponibles. |EP006 |
+| US029   | Editar datos del trabajador               | Como usuario, quiero tener un botón "Editar" debajo de cada trabajador, para que pueda acceder a una página para modificar sus datos.                                             | - Al hacer clic en el botón "Editar", el usuario debe ser redirigido a una página donde pueda modificar los datos del trabajador. <br> - La página de edición debe cargar los datos actuales del trabajador en un formulario editable. |EP006 |
+| US030    | Guardar cambios de los datos del trabajador | Como usuario, quiero poder guardar los cambios realizados en los datos del trabajador, para que mis modificaciones se reflejen en la base de datos.                                | - Después de editar, el usuario debe poder hacer clic en un botón "Guardar" para aplicar los cambios. <br> - Se debe mostrar un mensaje de confirmación al guardar exitosamente los cambios. <br> - Si se produce un error, se debe mostrar un mensaje de error adecuado. |EP006 |
+| US031   | Volver a la lista de trabajadores        | Como usuario, quiero poder volver a la lista de trabajadores después de editar los datos, para que pueda seguir gestionando otros trabajadores.                                    | - Después de guardar o cancelar la edición, el usuario debe ser redirigido de nuevo a la lista de trabajadores. <br> - La lista debe mostrar los datos actualizados del trabajador. |EP006 |
 | EP007 | Integración y Conectividad | Epic para la integración del sistema con otros sistemas y dispositivos | | |
-| US031 | Integrar con ERP | Como gerente de IT, quiero integrar el sistema de monitoreo de recursos con nuestro ERP | - Dado que el gerente está en la sección de integraciones<br>- Cuando configura la conexión con el ERP<br>- Entonces el sistema establece una conexión segura<br>- Y comienza a sincronizar datos relevantes entre los sistemas | EP007 |
-| US032 | Conectar nuevos dispositivos IoT | Como técnico de mantenimiento, quiero poder conectar nuevos dispositivos IoT al sistema de monitoreo | - Dado que el técnico tiene un nuevo dispositivo IoT<br>- Cuando accede a la sección de gestión de dispositivos<br>- Entonces puede agregar el nuevo dispositivo al sistema<br>- Y el sistema comienza a recibir y procesar datos del nuevo dispositivo | EP007 |
-| US033 | Exportar datos a BI | Como analista de datos, quiero poder exportar datos de consumo a nuestra herramienta de BI | - Dado que el analista está en la sección de exportación de datos<br>- Cuando selecciona exportar a la herramienta de BI<br>- Entonces el sistema prepara y envía los datos seleccionados<br>- Y confirma que la exportación se ha realizado con éxito | EP007 |
-| US034 | Acceder a API para desarrolladores | Como desarrollador externo, quiero acceder a una API para integrar datos de consumo en aplicaciones de terceros | - Dado que el desarrollador tiene credenciales de API válidas<br>- Cuando realiza una solicitud a un endpoint de la API<br>- Entonces recibe los datos solicitados en formato JSON<br>- Y puede utilizar estos datos en su aplicación externa | EP007 |
-| US035 | Sincronizar con sistema CMMS | Como jefe de mantenimiento, quiero sincronizar los datos de consumo y alertas con nuestro sistema CMMS | - Dado que el jefe está en la sección de integraciones<br>- Cuando configura la sincronización con el CMMS<br>- Entonces el sistema comienza a enviar alertas y datos de consumo al CMMS<br>- Y las órdenes de trabajo en el CMMS se actualizan automáticamente con datos de consumo relevantes | EP007 |
+| US032 | Integrar con ERP | Como gerente de IT, quiero integrar el sistema de monitoreo de recursos con nuestro ERP | - Dado que el gerente está en la sección de integraciones<br>- Cuando configura la conexión con el ERP<br>- Entonces el sistema establece una conexión segura<br>- Y comienza a sincronizar datos relevantes entre los sistemas | EP007 |
+| US033 | Conectar nuevos dispositivos IoT | Como técnico de mantenimiento, quiero poder conectar nuevos dispositivos IoT al sistema de monitoreo | - Dado que el técnico tiene un nuevo dispositivo IoT<br>- Cuando accede a la sección de gestión de dispositivos<br>- Entonces puede agregar el nuevo dispositivo al sistema<br>- Y el sistema comienza a recibir y procesar datos del nuevo dispositivo | EP007 |
+| US034 | Exportar datos a BI | Como analista de datos, quiero poder exportar datos de consumo a nuestra herramienta de BI | - Dado que el analista está en la sección de exportación de datos<br>- Cuando selecciona exportar a la herramienta de BI<br>- Entonces el sistema prepara y envía los datos seleccionados<br>- Y confirma que la exportación se ha realizado con éxito | EP007 |
+| US035 | Acceder a API para desarrolladores | Como desarrollador externo, quiero acceder a una API para integrar datos de consumo en aplicaciones de terceros | - Dado que el desarrollador tiene credenciales de API válidas<br>- Cuando realiza una solicitud a un endpoint de la API<br>- Entonces recibe los datos solicitados en formato JSON<br>- Y puede utilizar estos datos en su aplicación externa | EP007 |
+| US036 | Sincronizar con sistema CMMS | Como jefe de mantenimiento, quiero sincronizar los datos de consumo y alertas con nuestro sistema CMMS | - Dado que el jefe está en la sección de integraciones<br>- Cuando configura la sincronización con el CMMS<br>- Entonces el sistema comienza a enviar alertas y datos de consumo al CMMS<br>- Y las órdenes de trabajo en el CMMS se actualizan automáticamente con datos de consumo relevantes | EP007 |
 
 <div id="33"><h2>3.3. Impact Mapping</h2></div>
 
-![ImpactMapping](/imgs/ImpactMapping.png)
+![ImpactMapping](imgs/ImpactMapping.png)
 
 *Imagen: Impact Mapping*
 
@@ -887,43 +949,47 @@ En esta sección, presentamos los "To-Be Scenario Maps" para dos User Personas c
 
 Product Backlog in Jira URL: https://quinonesjorge83.atlassian.net/jira/software/projects/SCRUM/boards/1?sprintStarted=true&atlOrigin=eyJpIjoiYjM3OWU0OTQxNDUxNDZiODg3MTFkOGZhN2JhNmM5OGQiLCJwIjoiaiJ9
 
-| #  | User Story Id | Título                                 | Descripción                                                                                                                                   | Story Points |
-|----|---------------|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| 1  | US001         | Ver dashboard de consumo total         | Como gerente de producción, quiero ver un dashboard con el consumo total de recursos.                                                         | 5            |
-| 2  | US002         | Monitorear consumo en tiempo real      | Como operador de máquina, quiero ver el consumo en tiempo real de la máquina que estoy operando.                                               | 5            |
-| 3  | US003         | Visualizar gráficos comparativos       | Como director financiero, quiero ver gráficos comparativos de consumo vs. producción.                                                           | 5            |
-| 4  | US004         | Filtrar datos de consumo               | Como analista, quiero filtrar los datos de consumo por fecha, máquina y tipo de recurso.                                                        | 5            |
-| 5  | US005         | Exportar datos de consumo              | Como gerente de operaciones, quiero exportar los datos de consumo en diferentes formatos.                                                        | 5            |
-| 6  | US006         | Generar informe de costos              | Como contador, quiero acceder a un informe detallado de costos por recurso.                                                                     | 5            |
-| 7  | US007         | Calcular costo por unidad producida    | Como analista financiero, quiero calcular el costo de recursos por unidad producida.                                                            | 5            |
-| 8  | US008         | Proyectar costos futuros               | Como director financiero, quiero proyectar los costos futuros basados en tendencias actuales.                                                   | 5            |
-| 9  | US009         | Comparar costos entre períodos         | Como gerente financiero, quiero comparar los costos entre diferentes períodos.                                                                  | 5            |
-| 10 | US010         | Establecer alertas de costo            | Como controller, quiero establecer alertas cuando los costos superen ciertos umbrales.                                                           | 5            |
-| 11 | US011         | Recibir alertas de consumo excesivo    | Como ingeniero de mantenimiento, quiero recibir alertas cuando el consumo de una máquina supere los límites establecidos.                        | 3            |
-| 12 | US012         | Configurar umbrales de alerta          | Como supervisor, quiero configurar los umbrales de alerta para diferentes máquinas y recursos.                                                  | 3            |
-| 13 | US013         | Gestionar notificaciones               | Como usuario, quiero gestionar mis preferencias de notificación para las alertas.                                                               | 2            |
-| 14 | US014         | Ver historial de alertas               | Como gerente de mantenimiento, quiero ver un historial de todas las alertas generadas.                                                           | 5            |
-| 15 | US015         | Responder a alertas                    | Como técnico, quiero poder responder a las alertas y marcarlas como atendidas.                                                                  | 3            |
-| 16 | US016         | Registrar turnos de trabajo            | Como supervisor, quiero registrar los turnos de trabajo de cada empleado.                                                                       | 3            |
-| 17 | US017         | Ver resumen de consumo por turno       | Como gerente de producción, quiero ver un resumen del consumo de recursos por turno y empleado.                                                  | 5            |
-| 18 | US018         | Visualizar consumo personal            | Como operario, quiero ver mi propio consumo de recursos durante mi turno.                                                                      | 3            |
-| 19 | US019         | Comparar eficiencia entre turnos       | Como analista de recursos humanos, quiero comparar el consumo de recursos entre diferentes turnos y empleados.                                   | 5            |
-| 20 | US020         | Planificar turnos basados en eficiencia | Como jefe de producción, quiero planificar los turnos basándome en la eficiencia histórica.                                                      | 5            |
+<br>
+
+| #  | User Story Id | Título                                  | Descripción                                                                                                                                    | Story Points |
+|----|---------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | 21 | US021         | Implementación y optimización del Landing Page del proyecto | Como visitante interesado, quiero llenar un formulario de contacto para recibir más información sobre el producto.                                 | 2            |
-| 22 | US022         | Ver testimonios de clientes            | Como visitante, quiero ver testimonios de otros clientes para evaluar la efectividad del producto.                                               | 2            |
+| 22 | US022         | Ver testimonios de clientes             | Como visitante, quiero ver testimonios de otros clientes para evaluar la efectividad del producto.                                               | 2            |
 | 23 | US023         | Ver características y beneficios del producto | Como usuario potencial, quiero visualizar las características y beneficios del producto en una sola página.                                         | 2            |
-| 24 | US024         | Ver diferentes planes de precios       | Como usuario, quiero ver una comparación clara de los diferentes planes de precios disponibles.                                                 | 2            |
+| 24 | US024         | Ver diferentes planes de precios        | Como usuario, quiero ver una comparación clara de los diferentes planes de precios disponibles.                                                 | 2            |
+| 11 | US011         | Recibir alertas de consumo excesivo     | Como ingeniero de mantenimiento, quiero recibir alertas cuando el consumo de una máquina supere los límites establecidos.                        | 3            |
+| 12 | US012         | Configurar umbrales de alerta           | Como supervisor, quiero configurar los umbrales de alerta para diferentes máquinas y recursos.                                                  | 3            |
+| 13 | US013         | Gestionar notificaciones                | Como usuario, quiero gestionar mis preferencias de notificación para las alertas.                                                               | 3            |
+| 15 | US015         | Responder a alertas                     | Como técnico, quiero poder responder a las alertas y marcarlas como atendidas.                                                                  | 3            |
+| 16 | US016         | Registrar turnos de trabajo             | Como supervisor, quiero registrar los turnos de trabajo de cada empleado.                                                                       | 3            |
+| 18 | US018         | Visualizar consumo personal             | Como operario, quiero ver mi propio consumo de recursos durante mi turno.                                                                       | 3            |
 | 25 | US025         | Animaciones Interactivas para una Navegación Fluida y Atractiva | Como usuario, quiero experimentar animaciones fluidas e interactivas para mejorar mi experiencia en la navegación.                                 | 3            |
 | 26 | US026         | Acceder al dashboard después de iniciar sesión | Como usuario autenticado, quiero acceder a mi dashboard personalizado después de iniciar sesión.                                                   | 3            |
-| 27 | US027         | Sugerir configuraciones óptimas        | Como ingeniero de procesos, quiero recibir sugerencias de configuraciones óptimas para las máquinas basadas en datos de consumo.                   | 5            |
-| 28 | US028         | Simular escenarios de consumo          | Como gerente de operaciones, quiero simular diferentes escenarios de producción y ver su impacto en el consumo de recursos.                       | 5            |
-| 29 | US029         | Generar informes de eficiencia         | Como director de operaciones, quiero generar informes de eficiencia en el uso de recursos.                                                        | 5            |
-| 30 | US030         | Establecer metas de optimización       | Como gerente de sostenibilidad, quiero establecer metas de optimización de consumo de recursos.                                                   | 5            |
-| 31 | US031         | Integrar con ERP                       | Como gerente de IT, quiero integrar el sistema de monitoreo de recursos con nuestro ERP.                                                          | 5            |
-| 32 | US032         | Conectar nuevos dispositivos IoT       | Como técnico de mantenimiento, quiero conectar nuevos dispositivos IoT al sistema de monitoreo.                                                    | 5            |
-| 33 | US033         | Exportar datos a BI                    | Como analista de datos, quiero exportar datos de consumo a nuestra herramienta de BI.                                                             | 3            |
-| 34 | US034         | Acceder a API para desarrolladores     | Como desarrollador externo, quiero acceder a una API para integrar datos de consumo en aplicaciones de terceros.                                  | 5            |
-| 35 | US035         | Sincronizar con sistema CMMS           | Como jefe de mantenimiento, quiero sincronizar los datos de consumo y alertas con nuestro sistema CMMS. |                         5                  |
+| 33 | US033         | Exportar datos a BI                     | Como analista de datos, quiero exportar datos de consumo a nuestra herramienta de BI.                                                             | 3            |
+| 1  | US001         | Ver dashboard de consumo total          | Como gerente de producción, quiero ver un dashboard con el consumo total de recursos.                                                           | 5            |
+| 2  | US002         | Monitorear consumo en tiempo real       | Como operador de máquina, quiero ver el consumo en tiempo real de la máquina que estoy operando.                                                 | 5            |
+| 3  | US003         | Visualizar gráficos comparativos        | Como director financiero, quiero ver gráficos comparativos de consumo vs. producción.                                                           | 5            |
+| 4  | US004         | Filtrar datos de consumo                | Como analista, quiero filtrar los datos de consumo por fecha, máquina y tipo de recurso.                                                        | 5            |
+| 5  | US005         | Exportar datos de consumo               | Como gerente de operaciones, quiero exportar los datos de consumo en diferentes formatos.                                                        | 5            |
+| 6  | US006         | Generar informe de costos               | Como contador, quiero acceder a un informe detallado de costos por recurso.                                                                     | 5            |
+| 7  | US007         | Calcular costo por unidad producida     | Como analista financiero, quiero calcular el costo de recursos por unidad producida.                                                            | 5            |
+| 8  | US008         | Proyectar costos futuros                | Como director financiero, quiero proyectar los costos futuros basados en tendencias actuales.                                                   | 5            |
+| 9  | US009         | Comparar costos entre períodos          | Como gerente financiero, quiero comparar los costos entre diferentes períodos.                                                                  | 5            |
+| 10 | US010         | Establecer alertas de costo             | Como controller, quiero establecer alertas cuando los costos superen ciertos umbrales.                                                           | 5            |
+| 14 | US014         | Ver historial de alertas                | Como gerente de mantenimiento, quiero ver un historial de todas las alertas generadas.                                                           | 5            |
+| 17 | US017         | Ver resumen de consumo por turno        | Como gerente de producción, quiero ver un resumen del consumo de recursos por turno y empleado.                                                  | 5            |
+| 19 | US019         | Comparar eficiencia entre turnos        | Como analista de recursos humanos, quiero comparar el consumo de recursos entre diferentes turnos y empleados.                                   | 5            |
+| 20 | US020         | Planificar turnos basados en eficiencia | Como jefe de producción, quiero planificar los turnos basándome en la eficiencia histórica.                                                      | 5            |
+| 27 | US027         | Sugerir configuraciones óptimas         | Como ingeniero de procesos, quiero recibir sugerencias de configuraciones óptimas para las máquinas basadas en datos de consumo.                 | 5            |
+| 28 | US028         | Simular escenarios de consumo           | Como gerente de operaciones, quiero simular diferentes escenarios de producción y ver su impacto en el consumo de recursos.                      | 5            |
+| 29 | US029         | Generar informes de eficiencia          | Como director de operaciones, quiero generar informes de eficiencia en el uso de recursos.                                                      | 5            |
+| 30 | US030         | Establecer metas de optimización        | Como gerente de sostenibilidad, quiero establecer metas de optimización de consumo de recursos.                                                  | 5            |
+| 31 | US031         | Integrar con ERP                       | Como gerente de IT, quiero integrar el sistema de monitoreo de recursos con nuestro ERP.                                                         | 5            |
+| 32 | US032         | Conectar nuevos dispositivos IoT        | Como técnico de mantenimiento, quiero conectar nuevos dispositivos IoT al sistema de monitoreo.                                                  | 5            |
+| 34 | US034         | Acceder a API para desarrolladores      | Como desarrollador externo, quiero acceder a una API para integrar datos de consumo en aplicaciones de terceros.                                 | 5            |
+| 35 | US035         | Sincronizar con sistema CMMS            | Como jefe de mantenimiento, quiero sincronizar los datos de consumo y alertas con nuestro sistema CMMS.                                          | 5            |
+
+<br>
 
 <div id="4"><h1>Capítulo IV: Product Design</h1></div>
 <div id="41"><h2>4.1. Style Guidelines</h2></div>
@@ -998,63 +1064,148 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 
 <strong>Navegación adaptativa:</strong> La interfaz se adapta tanto a dispositivos de escritorio como móviles, ajustando la disposición de los elementos según el tamaño de la pantalla para garantizar una experiencia consistente en todas las plataformas.
 
-<div id="43"><h3>4.3. Landing Page UI Design</h3></div>
-
-<div id="431"><h3>4.3.1. Landing Page Wireframe</h3></div>
-
-<div id="432"><h3>4.3.2. Landing Page Mock-up</h3></div>
-
 <div id="44"><h3>4.4. Web Applications UX/UI Design</h3></div>
 <div id="441"><h3>4.4.1. Web Applications Wireframes</h3></div>
 
+<div id="">
+    <h4>Wireframes de la pagina para iniciar sesion</h4>
+    <p>Aqui se muestra la pagina de inicio de sesion para los usuarios con cuenta</p>
+</div>
+
+![upload_f136dff58fb89480134c3b82992e060e](https://github.com/user-attachments/assets/f9d15583-0a07-491b-b21c-7cdd7a3b5d3d)
+
+<div id="">
+    <h4>Wireframes de la pagina para registrarse</h4>
+    <p>Aqui se muestra la pagina de registro para los usuarios nuevos</p>
+</div>
+
+![upload_82dab9dc17a480895c81c869730ade7b](https://github.com/user-attachments/assets/f431fa53-b9fb-4168-bef5-76ffafc910dd)
+
+<div id="">
+    <h4>Wireframes de la pagina para modificar perfiles</h4>
+    <p>Aqui se muestra la pagina de cambiar los perfiles de los empleados</p>
+</div>
+
+![image](https://github.com/user-attachments/assets/31dc309a-dfda-4fcd-a638-2b05fd56595d)
+
+<div id="">
+    <h4>Wireframes de la pagina para el dashboard</h4>
+    <p>La pagina principal de la cuenta del usuario</p>
+</div>
+
+![upload_a0a94b503d408715f70aba3735ca9d13](https://github.com/user-attachments/assets/02adf367-0ac7-43fd-b501-5d54f2ffbea2)
+![upload_446be815333a0f5e8fdc7458177e3572](https://github.com/user-attachments/assets/d2a7fa25-326e-4542-a2ae-a6e081da18d6)
+![upload_48bbedbb39e4ea64357edfcf21619bb6](https://github.com/user-attachments/assets/8fd5be63-5e11-4415-97f1-9780c1d8816e)
+
+<div id="">
+    <h4>Wireframes de la pagina de los dispositivos</h4>
+    <p>La seccion de dispositivos para monitorear los sensores</p>
+</div>
+
+![upload_0aa816c78619c53edcd58703984a6547](https://github.com/user-attachments/assets/02457e68-a83b-4f81-84df-32bc055f5b25)
+
+<div id="">
+    <h4>Wireframes de la pagina de informes</h4>
+    <p>La seccion de informes para obtener un informe general del consumo total ademas se puede descargar un archivo con el informe</p>
+</div>
+
+![upload_97a2aad0db2cb67d7ea654035519424b](https://github.com/user-attachments/assets/a4448db9-7329-4a9b-90c9-9229616af5be)
+
 <div id="442"><h3>4.4.2. Web Applications Wireflow Diagrams</h3></div>
+
+<p>
+    Al iniciar sesion se les llevara al Dashboard para monitorear sus consumos
+</p>
+
+![1](https://github.com/user-attachments/assets/f5e60b39-9f94-4df8-a720-e314afdf03ad)
+
+<p>
+    En el Dashboard hay 3 secciones Resumen, Consumo y Costos.
+</p>
+
+![2](https://github.com/user-attachments/assets/de79a306-a9ec-4cf8-8964-5654bd6191ea)
+
+<p>
+    Ademas del Dashboard hay otras 2 secciones dispositivos e informes, donde en dispositivos veras todos los sensores y en informes veras un informe general de todos los consumos totales. 
+</p>
+
+![3](https://github.com/user-attachments/assets/cdb65d24-0aa1-4ded-8cff-749fc1b2cf65)
 
 <div id="443"><h3>4.4.3. Web Applications Mock-ups</h3></div>
 
+<div id="">
+    <h4>Mock-up de la pagina para el dashboard</h4>
+    <p></p>
+</div>
+
+![image](https://github.com/user-attachments/assets/0b09b0a2-88fb-479c-853e-804e5303ce77)
+
+<div id="">
+    <h4>Mock-up de la pagina de los dispositivos</h4>
+    <p></p>
+</div>
+
+![image](https://github.com/user-attachments/assets/362c0628-916b-460d-b2f7-9a958327b799)
+
+<div id="">
+    <h4>Mock-up de la pagina de perfiles</h4>
+    <p></p>
+</div>
+
+![Img](https://github.com/user-attachments/assets/903f1cd8-7eef-408f-acd7-4410b1994061)
+
 <div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
 
-<div id="45"><h3>4.4. Web Applications Prototyping</h3></div>
+![2](https://github.com/user-attachments/assets/11ba13ed-9d18-4ab9-847a-85f7983bed96)
+![3](https://github.com/user-attachments/assets/58eed678-7f61-4dd2-9ec2-6a90d997a749)
+![1](https://github.com/user-attachments/assets/9400273a-0119-4e93-9a4b-dcfd91ed17a5)
+
+<div id="45"><h3>4.5. Web Applications Prototyping</h3></div>
+
+<h4>Demostracion de la funcionalidad del Web Application Prototyping</h4>
+
+<p>https://drive.google.com/file/d/1xJDPF4SbiWLOIjMvgNydBoEpP7Dra5y5/view?usp=sharing</p>
 
 <div id="46"><h2>4.6. Domain-Driven Software Architecture</h2></div>
 <div id="461"><h3>4.6.1. Software Architecture Context Diagram</h3></div>
 
-![Context Diagram](/imgs/structurizr-94669-Contexto.png)
+![Context Diagram](imgs/structurizr-94669-Contexto.png)
 
 *Imagen: Context Diagram*
 
 <div id="462"><h3>4.6.2 Software Architecture Container Diagrams</h3></div>
 
-![Container Diagram](/imgs/structurizr-94669-Contenedor.png)
+![Container Diagram](imgs/structurizr-94669-Contenedor.png)
 
 *Imagen: Container Diagram*
 
 <div id="463"><h3>4.6.3. Software Architecture Components Diagrams</h3></div>
 
-![Descripción de la imagen](/imgs/structurizr-94669-API%20Rest%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-API%20Rest%20Component%20Diagram.png)
 
 *Imagen: Components Diagrams*
 
-![Descripción de la imagen](/imgs/structurizr-94669-Consumption%20Monitoring%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-Consumption%20Monitoring%20Component%20Diagram.png)
 
 *Imagen: Consumption Monitor Component Diagram*
 
-![Descripción de la imagen](/imgs/structurizr-94669-Payment%20Processor%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-Payment%20Processor%20Component%20Diagram.png)
 
 *Imagen: Payment Proceessor Component Diagram*
 
-![Descripción de la imagen](/imgs/structurizr-94669-Report%20Generator%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-Report%20Generator%20Component%20Diagram.png)
 
 *Imagen: Report Generator Component Diagram*
 
-![Descripción de la imagen](/imgs/structurizr-94669-Security%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-Security%20Component%20Diagram.png)
 
 *Imagen: Security Component Diagram*
 
-![Descripción de la imagen](/imgs/structurizr-94669-Subscription%20Handler%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-Subscription%20Handler%20Component%20Diagram.png)
 
 *Imagen: Subscription Handler Component Diagram*
 
-![Descripción de la imagen](/imgs/structurizr-94669-User%20Management%20Component%20Diagram.png)
+![Descripción de la imagen](imgs/structurizr-94669-User%20Management%20Component%20Diagram.png)
 
 *Imagen: User Management Component Diagram*
 
@@ -1133,7 +1284,11 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 <div id="48"><h2>4.8. Database Design</h2></div>
 <div id="481"><h3>4.8.1. Database Diagram</h3></div>
 
-![diagrama_base_de_datos](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/SmartFlow-DataBase.png)
+En este apartado presentamos el diseño de nuestro diagrama de base de datos, que incluye 14 tablas interrelacionadas. Estas tablas gestionan datos sobre usuarios, suscripciones, máquinas, dispositivos, trabajadores, turnos y reportes de consumo y costos. Este enfoque permite un seguimiento detallado del uso de recursos y costos, brindando a las empresas herramientas para optimizar su operación y mejorar la eficiencia en el control del consumo de agua y electricidad.
+
+<br>
+
+![diagrama_base_de_datos](imgs/SmartFlowDataBase.png)
 
 <div id="5"><h1>Capítulo V: Product Implementation, Validation & Deployment</h1></div>
 <div id="51"><h2>5.1. Software Configuration Management</h2></div>
@@ -1643,6 +1798,300 @@ La asignación de tareas para la implementación se dividió por secciones, dond
 <br>
 
 
+
+<div id="522"><h3>5.2.2. Sprint 2</h3></div>
+<div id="5221"><h4>5.2.2.1. Sprint Planning 2</h4></div>
+
+Se planeó el segundo sprint a través de una reunión en Meet. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+
+|Sprint #                          |Sprint 2|
+|----                              |-----|
+|**Sprint Planning Background**        ||
+|Date                              |2024-09-27|
+|Time                              |01:00 PM|
+|Location                          |Virtual (Google Meet)|
+|Prepared by                       |Gongora Castillejos, Williams Jesus|
+|Attendees (to planning meeting)   |Gongora Castillejos, Williams Jesus</br></br>Quiñones Tintaya, Johan Jorge</br></br>Carlos Andres, Leon Rioja</br></br>Revilla Quispe, Renzo Zamir</br></br> opez de la Cruz Mauro Fabricio|
+|Sprint n - 1 Review Summary       |En el primer sprint, logramos realizar el deployment del landing page, pero igualmente no se llegó a una versión buena. Además, se necesita mejorar la base de datos y las historias de usuario.|
+|Sprint n - 1 Retrospective Summary|En retrospectiva, se debe mejorar el landing page, la base de datos, mejorar algunas historias de usuario y añadir más.|
+|**Sprint Goal & User Stories**        ||
+|Sprint 1 Goal                     |Implementar el Frontend de nuestra aplicación web|
+|Sprint 1 Velocity                 |36|
+|Sum of Story Points               |36|
+
+
+<br>
+
+
+<div id="5212"><h4>5.2.2.2. Sprint Backlog 2</h4></div>
+
+
+El objetivo de este segundo sprint es la implementación del Frontend de nuestra aplicación web. Además, se trabajó con una tabla en Trello para manejar los Work-Items de forma adecuada.
+
+
+<table><thead>
+  <tr>
+    <th>Sprint 2</th>
+    <th colspan="7">Sprint n</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">User Story</td>
+    <td colspan="6">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned To</td>
+    <td>Status (To-do / In-Process / To-Review / Done)</td>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>Ver dashboard de consumo total </td>
+    <td>TS01</td>
+    <td>Implementar dashboard</td>
+    <td>Desarrollar un dashboard que muestre el consumo total.</td>
+    <td>5</td>
+    <td>Williams Gongora<br>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>Visualizar gráficos comparativos</td>
+    <td>TS02</td>
+    <td>Crear gráficos comparativos</td>
+    <td>Desarrollar gráficos que comparen el consumo entre diferentes periodos.</td>
+    <td>4</td>
+    <td>Fabricio Lopez<br>Carlos Leon</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>Filtrar datos de consumo</td>
+    <td>TS03</td>
+    <td>Implementar filtro de consumo</td>
+    <td>Desarrollar un filtro para ver el consumo de manera personalizada.</td>
+    <td>3</td>
+    <td>Williams Gongora<br>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td>Mostrar resumen de consumo, costos, eficiencia y alarmas</td>
+    <td>TS05</td>
+    <td>Generar resumen de consumo</td>
+    <td>Implementar una vista que resuma el consumo, costos y alertas.</td>
+    <td>5</td>
+    <td>Williams Gongora<br>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US18</td>
+    <td>Visualizar consumo personal</td>
+    <td>TS06</td>
+    <td>Implementar vista de consumo personal</td>
+    <td>Desarrollar una vista donde cada usuario pueda ver su consumo personal.</td>
+    <td>4</td>
+    <td>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US27</td>
+    <td>Filtrar trabajadores</td>
+    <td>TS07</td>
+    <td>Implementar filtro de trabajadores</td>
+    <td>Desarrollar un filtro para ver trabajadores según diferentes criterios.</td>
+    <td>3</td>
+    <td>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US28</td>
+    <td>Mostrar lista de trabajadores</td>
+    <td>TS08</td>
+    <td>Crear lista de trabajadores</td>
+    <td>Desarrollar una vista que muestre una lista de trabajadores.</td>
+    <td>3</td>
+    <td>Williams Gongora<br>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US29</td>
+    <td>Editar datos del trabajador</td>
+    <td>TS09</td>
+    <td>Habilitar edición de datos</td>
+    <td>Implementar la funcionalidad para editar los datos del trabajador.</td>
+    <td>4</td>
+    <td>Johan Quiñones</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US30</td>
+    <td>Guardar cambios de los datos del trabajador</td>
+    <td>TS10</td>
+    <td>Implementar guardado de cambios</td>
+    <td>Desarrollar la funcionalidad para guardar los cambios realizados en los datos del trabajador.</td>
+    <td>3</td>
+    <td>Renzo Revilla</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US31</td>
+    <td>Volver a la lista de trabajadores</td>
+    <td>TS11</td>
+    <td>Implementar navegación</td>
+    <td>Habilitar la funcionalidad de volver a la lista de trabajadores después de editar un perfil.</td>
+    <td>2</td>
+    <td>Fabricio Lopez<br>Carlos Leon</td>
+    <td>Done</td>
+  </tr>
+</tbody></table>
+
+<div id="5223"><h4>5.2.2.3. Development Evidence for Sprint Review</h4></div>
+
+
+
+
+
+<div id="5224"><h4>5.2.2.4. Testing Suite Evidence for Sprint Review</h4></div>
+
+Se llevaron a cabo las pruebas de aceptación para las historias de usuario implementadas, empleando el lenguaje Gherkin en archivos feature. Estas pruebas fueron documentadas y almacenadas en el repositorio.
+
+Repositorio de Pruebas de Aceptación: https://github.com/PeSoftwareUPC/AcceptanceTests.git
+
+|Repository|Branch|Commit Id|Commit Message|Commited on (Date)|
+|--|--|--|--|--|
+|PeSoftwareUPC/AcceptanceTests|main|7c8d42b|feat: added feature file for US01|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|61dc91a|feat: added feature file for US03|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|2b3c87a|feat: added feature file for US04|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|c944c11|feat: added feature file for US18|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|3373163|feat: added feature file for US27|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|64d50f8|feat: added feature file for US28|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|4579b9c|feat: added feature file for US29|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|5855207|feat: added feature file for US30|27/09/2024|
+|PeSoftwareUPC/AcceptanceTests|main|cd298d7|feat: added feature file for US31|27/09/2024|
+
+
+
+<div id="5225"><h4>5.2.2.5. Execution Evidence for Sprint Review</h4></div>
+
+En esta parte se presentará el progreso alcanzado durante el primer sprint, enfocado en la implementación de la Landing Page estática. Para ilustrar este avance, se ha creado el siguiente video, que incluye una explicación y capturas que evidencian el desarrollo de la página web.
+
+URL del video: [Video Landing Page](https://drive.google.com/file/d/1x7sWsRh-ie01PDHmFpaDi13PdFOh3OCm/view?usp=sharing)
+
+<br>
+
+* Implementamos la seccion principal
+
+![Hero seccion](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev1.png)
+*Imagen: Seccion Principal*
+
+<br>
+
+* Implementación del Testimonio y Planes
+
+![formulario de contacto](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev2.png)
+*Imagen: Seccion Inferior*
+
+<br>
+
+* Implementación del resumen y dashboard
+
+![características](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev3.png)
+*Imagen: Características*
+
+<br>
+
+* Implementación de Dispositivos
+
+![beneficios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev4.png)
+*Imagen: Dispositivos*
+
+<br>
+
+* Implementación de Perfiles
+
+![planes de precios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev5.png)
+*Imagen: Profile*
+
+<br>
+
+
+* Implementación de la Edicion de Trabajadores
+
+![sección de testimonios](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev6.png)
+*Imagen: Perfil Trabajadores*
+
+
+</br></br>
+
+<div id="5226"><h4>5.2.2.6. Services Documentation Evidence for Sprint Review</h4></div>
+
+En el alcance de este sprint 2, se ha priorizado el desarrollo de la parte de Front-end de la aplicación web, por lo que en este caso no se evidencia el empleo de web services.
+
+<div id="5227"><h4>5.2.2.7. Software Deployment Evidence for Sprint Review</h4></div>
+
+Al finalizar el trabajo con todas las historias de usuario, realizamos el despliegue de la Aplicacion Web utilizando GitHub Pages.
+
+URL de despliegue de la Landing Page: https://johaanq.github.io/SmartFlow-FrontEnd/
+
+
+Para el Frontend Web Application, utilizamos la pagina https://my-json-server.typicode.com/johaanq/smartflow-fake-api para alojar nuestros API creados a partir del db.json, solo creamos los repositorios en GitHub que alojan cada parte de nuestro API.
+
+<br>
+
+![api](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev8.png)
+*Imagen: Configuracion del API fake*
+
+<br>
+
+* Para realizar el despliegue, accedimos a la configuración del repositorio y navegamos a la sección de Pages. Posteriormente, seleccionamos la rama main desde la cual se llevará a cabo el deployment.
+
+![paso1-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Paso1-page.png)
+*Imagen: Configuracion de rama*
+
+<br>
+
+* Finalmente, solo queda esperar a que GitHub genere la página y proporcione el enlace correspondiente.
+
+
+
+![paso2-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/Paso2-page.png)
+*Imagen: Creacion de url*
+
+<br>
+
+![paso3-githubpage](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/ev1.png)
+*Imagen: Deployment de la Aplicacion Web*
+
+<br>
+
+<div id="5228"><h4>5.2.2.8. Team Collaboration Insights during Sprint</h4></div>
+
+La asignación de tareas para la implementación se dividió por secciones, donde cada miembro del equipo fue responsable de desarrollar una parte de la Aplicacion Web:
+
+* Quiñones Tintaya, Johan Jorge: Implementacion del dashboard, Filtro de Compañias y Empleados, Inplementacion de perfil
+
+* Lopez de la Cruz Mauro Fabricio: Edicion de Perfiles de Trabajadores
+
+* Carlos Andres, Leon Rioja: Implementacion de dispósitivos
+
+* Revilla Quispe, Renzo Zamir: SideBar, Implementacion del landing a la aplicacion web
+
+* Gongora Castillejos, Williams Jesus: Implementacion del landing a la aplicacion web, Implementacion de Dashboard
+
+<br>
+
+
+
+
+
+
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
 En este primer entregable de la startup enfocada en el ahorro de luz y agua, así como en la mejora de la producción en un taller, es fundamental establecer una comunicación efectiva. Una comunicación clara entre desarrolladores y colaboradores no solo mejora la calidad del trabajo, sino que también facilita la resolución rápida de problemas.
@@ -1668,30 +2117,30 @@ En este primer entregable de la startup enfocada en el ahorro de luz y agua, as�
 <div id="bibliografia"><h1>Bibliografía</h1></div>
 
 Comisión Nacional de Energía de Chile. (2022). Anuario CNE 2022. Centro de Información Energética.
- https://www.cne.cl/nuestros-servicios/reportes/informacion-y-estadisticas/
+ [](https://www.cne.cl/nuestros-servicios/reportes/informacion-y-estadisticas/)
 
 </br>
 
 
 Ibáñez, P., González Rugamas, R., Kohli, S., & Kuehl, E. (2022).     Cómo hacer frente a los aumentos de precios en un mercado inflacionario. McKinsey. 
-https://www.mckinsey.com/capabilities/operations/our-insights/how-to-deal-with-price-increases-in-this-inflationary-market/es-es 
+(https://www.mckinsey.com/capabilities/operations/our-insights/how-to-deal-with-price-increases-in-this-inflationary-market/es-es )
 
 </br>
 
 
 Instituto Nacional de Estadística de España. (2022). Nota de Prensa: Encuesta de Consumos Energéticos. Año 2022. Instituto Nacional de Estadística.
- https://ine.es/dyngs/Prensa/es/ECE2022.htm 
+ (https://ine.es/dyngs/Prensa/es/ECE2022.htm )
 
 </br>
 
 
 Ministerio de Energía y Minas del Perú. (2022). Anuario Estadístico de Electricidad 2022. Plataforma del Estado Peruano.
- https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anuario-estadistico-2022.pdf?v=1697225335 
+ (https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anuario-estadistico-2022.pdf?v=1697225335 )
 
 </br>
 
 Thiengo, D. (2023). Eficiência energética: Vantagens, aplicação e avaliação - Guia completo. Squairio.
-https://blog.squair.io/es/sabes-cu%C3%A1les-los-principales-objetivos-de-la-eficiencia-energ%C3%A9tica-c%C3%B3mo-evaluar-y-aplicar 
+(https://blog.squair.io/es/sabes-cu%C3%A1les-los-principales-objetivos-de-la-eficiencia-energ%C3%A9tica-c%C3%B3mo-evaluar-y-aplicar )
 
 </br>
 
@@ -1700,6 +2149,7 @@ https://blog.squair.io/es/sabes-cu%C3%A1les-los-principales-objetivos-de-la-efic
 <div id="anexo1"><h2>Anexo N°1: Número de clientes finales por sectores</h2></div>
 
 
-![jouneymapPedro](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/ANEXO1.png)
+![Anexo1](https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/main/imgs/ANEXO1.png)
+
 *Imagen :Número de clientes finales por sectores*
 Recuperado de: https://cdn.www.gob.pe/uploads/document/file/5277829/4742711-anuario-estadistico-2022.pdf?v=1697225335
