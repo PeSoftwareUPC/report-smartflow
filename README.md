@@ -1798,6 +1798,31 @@ La asignación de tareas para la implementación se dividió por secciones, dond
 <br>
 
 
+
+<div id="522"><h3>5.2.2. Sprint 2</h3></div>
+<div id="5221"><h4>5.2.2.1. Sprint Planning 2</h4></div>
+
+Se planeó el segundo sprint a través de una reunión en Meet. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+
+|Sprint #                          |Sprint 2|
+|----                              |-----|
+|**Sprint Planning Background**        ||
+|Date                              |2024-09-27|
+|Time                              |01:00 PM|
+|Location                          |Virtual (Google Meet)|
+|Prepared by                       |Gongora Castillejos, Williams Jesus|
+|Attendees (to planning meeting)   |Gongora Castillejos, Williams Jesus</br></br>Quiñones Tintaya, Johan Jorge</br></br>Carlos Andres, Leon Rioja</br></br>Revilla Quispe, Renzo Zamir</br></br> opez de la Cruz Mauro Fabricio|
+|Sprint n - 1 Review Summary       |En el primer sprint, logramos realizar el deployment del landing page, pero igualmente no se llegó a una versión buena. Además, se necesita mejorar la base de datos y las historias de usuario.|
+|Sprint n - 1 Retrospective Summary|En retrospectiva, se debe mejorar el landing page, la base de datos, mejorar algunas historias de usuario y añadir más.|
+|**Sprint Goal & User Stories**        ||
+|Sprint 1 Goal                     |Implementar el Frontend de nuestra aplicación web|
+|Sprint 1 Velocity                 |36|
+|Sum of Story Points               |36|
+
+
+<br>
+
 <div id="conclusiones"><h1>Conclusiones</h1></div>
 
 En este primer entregable de la startup enfocada en el ahorro de luz y agua, así como en la mejora de la producción en un taller, es fundamental establecer una comunicación efectiva. Una comunicación clara entre desarrolladores y colaboradores no solo mejora la calidad del trabajo, sino que también facilita la resolución rápida de problemas.
