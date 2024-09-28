@@ -709,15 +709,6 @@ Entrevistas URL: [entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal
 |Time | 11:38 - 15:23 |
 |Analisis de Entrevista|Alejandra Galle Riofrío, con 21 años, enfrenta serios problemas en la gestión del taller familiar, donde la falta de tecnología provoca ineficiencias y falta de control en la productividad. Ella busca un sistema que centralice datos y mejore el mantenimiento de máquinas, valorando el retorno de inversión que beneficie tanto a trabajadores como a la empresa.|
 
-
-<<<<<<< HEAD
-|Entevistado 1|Nilson Senarque|
-|-|-|
-|Edad|28|
-|Distrito|Villa el Salvador|
-|<img width="1292" alt="Screenshot 2023-08-26 at 8 15 16 PM" src=(**imagen** )>|--|
-|Timing: 0:07-15:15 |URL:-- |
-=======
 |Entevistado 4|Nelson Correa|
 |-|-|
 |Edad|23|
@@ -726,7 +717,6 @@ Entrevistas URL: [entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal
 |Time | 15:25 - 20:02 |
 |Analisis de Entrevista|Nelson Correa, de Villa el Salvador, muestra conciencia sobre su consumo energético, aunque carece de herramientas para monitorizarlo. Se interesa por una aplicación que le ofrezca ahorros a largo plazo y prefiere recibir alertas en tiempo real sobre consumos excesivos, priorizando el uso de dispositivos móviles para facilitar el seguimiento.|
 
->>>>>>> 64fd26a07d72a18fd109a8555ccab508ae3f4b0e
 
 <div id="223"><h3>2.2.3. Análisis de entrevistas</h3></div>
 
