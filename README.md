@@ -2134,7 +2134,7 @@ Repositorio de Pruebas de Aceptación: https://github.com/PeSoftwareUPC/Acceptan
 
 En esta parte se presentará el progreso alcanzado durante el primer sprint, enfocado en la implementación de la Landing Page estática. Para ilustrar este avance, se ha creado el siguiente video, que incluye una explicación y capturas que evidencian el desarrollo de la página web.
 
-URL del video: [Video Landing Page](https://drive.google.com/file/d/1x7sWsRh-ie01PDHmFpaDi13PdFOh3OCm/view?usp=sharing)
+URL del video: [Video Aplicación Web](https://drive.google.com/file/d/1FW7FWykbVUTBTAiFtEKhPRQfrDqK5hMT/view?usp=sharing)
 
 <br>
 
