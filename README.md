@@ -93,7 +93,7 @@ Los integrantes son:
 * Quiñones Tintaya (johaanq)
 * Fabricio Lopez (lopezFABRAX)
 * Renzo Zamir Revilla Quispe (renzorevq24)
-*
+* Carlos Andres Leon Rioja (Sr-Anonymus-maker)
 
 (**Especifiquen los usuarios**)
 
