@@ -1156,7 +1156,7 @@ En SmartFlow, implementamos sistemas de búsqueda diseñados para ayudar a los u
 
 <div id="444"><h3>4.4.4. Web Applications User Flow Diagrams</h3></div>
 
-![2](https://github.com/user-attachments/assets/11ba13ed-9d18-4ab9-847a-85f7983bed96)
+![2](https://github.com/user-attachments/assets/158d8b1d-9793-4b5e-940a-299b714ebe12)
 ![3](https://github.com/user-attachments/assets/58eed678-7f61-4dd2-9ec2-6a90d997a749)
 ![1](https://github.com/user-attachments/assets/9400273a-0119-4e93-9a4b-dcfd91ed17a5)
 
